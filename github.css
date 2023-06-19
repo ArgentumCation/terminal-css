@@ -1,0 +1,20 @@
+.github {
+  --black: #3e3e3e;
+  --red: #970b16;
+  --green: #07962a;
+  --yellow: #f8eec7;
+  --blue: #003e8a;
+  --magenta: #e94691;
+  --cyan: #89d1ec;
+  --white: #ffffff;
+  --bright-black: #666666;
+  --bright-red: #de0000;
+  --bright-green: #87d5a2;
+  --bright-yellow: #f1d007;
+  --bright-blue: #2e6cba;
+  --bright-magenta: #ffa29f;
+  --bright-cyan: #1cfafe;
+  --bright-white: #ffffff;
+  --foreground: #3e3e3e;
+  --background: #f4f4f4;
+}

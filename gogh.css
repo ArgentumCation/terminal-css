@@ -1,0 +1,5833 @@
+.day_3024 {
+  --black: #090300;
+  --red: #DB2D20;
+  --green: #01A252;
+  --yellow: #FDED02;
+  --blue: #01A0E4;
+  --magenta: #A16A94;
+  --cyan: #B5E4F4;
+  --white: #A5A2A2;
+  --bright-black: #5C5855;
+  --bright-red: #E8BBD0;
+  --bright-green: #3A3432;
+  --bright-yellow: #4A4543;
+  --bright-blue: #807D7C;
+  --bright-magenta: #D6D5D4;
+  --bright-cyan: #CDAB53;
+  --bright-white: #F7F7F7;
+
+  --foreground: #4A4543;
+  --background: #F7F7F7;
+
+
+}
+
+.night_3024 {
+  --black: #090300;
+  --red: #DB2D20;
+  --green: #01A252;
+  --yellow: #FDED02;
+  --blue: #01A0E4;
+  --magenta: #A16A94;
+  --cyan: #B5E4F4;
+  --white: #A5A2A2;
+  --bright-black: #5C5855;
+  --bright-red: #E8BBD0;
+  --bright-green: #3A3432;
+  --bright-yellow: #4A4543;
+  --bright-blue: #807D7C;
+  --bright-magenta: #D6D5D4;
+  --bright-cyan: #CDAB53;
+  --bright-white: #F7F7F7;
+
+  --foreground: #A5A2A2;
+  --background: #090300;
+
+
+}
+
+.Aci {
+  --black: #363636;
+  --red: #FF0883;
+  --green: #83FF08;
+  --yellow: #FF8308;
+  --blue: #0883FF;
+  --magenta: #8308FF;
+  --cyan: #08FF83;
+  --white: #B6B6B6;
+  --bright-black: #424242;
+  --bright-red: #FF1E8E;
+  --bright-green: #8EFF1E;
+  --bright-yellow: #FF8E1E;
+  --bright-blue: #1E8EFF;
+  --bright-magenta: #8E1EFF;
+  --bright-cyan: #1EFF8E;
+  --bright-white: #C2C2C2;
+
+  --foreground: #B4E1FD;
+  --background: #0D1926;
+
+
+}
+
+.Aco {
+  --black: #3F3F3F;
+  --red: #FF0883;
+  --green: #83FF08;
+  --yellow: #FF8308;
+  --blue: #0883FF;
+  --magenta: #8308FF;
+  --cyan: #08FF83;
+  --white: #BEBEBE;
+  --bright-black: #474747;
+  --bright-red: #FF1E8E;
+  --bright-green: #8EFF1E;
+  --bright-yellow: #FF8E1E;
+  --bright-blue: #1E8EFF;
+  --bright-magenta: #8E1EFF;
+  --bright-cyan: #1EFF8E;
+  --bright-white: #C4C4C4;
+
+  --foreground: #B4E1FD;
+  --background: #1F1305;
+
+
+}
+
+.Adventure_Time {
+  --black: #050404;
+  --red: #BD0013;
+  --green: #4AB118;
+  --yellow: #E7741E;
+  --blue: #0F4AC6;
+  --magenta: #665993;
+  --cyan: #70A598;
+  --white: #F8DCC0;
+  --bright-black: #4E7CBF;
+  --bright-red: #FC5F5A;
+  --bright-green: #9EFF6E;
+  --bright-yellow: #EFC11A;
+  --bright-blue: #1997C6;
+  --bright-magenta: #9B5953;
+  --bright-cyan: #C8FAF4;
+  --bright-white: #F6F5FB;
+
+  --foreground: #F8DCC0;
+  --background: #1F1D45;
+
+
+}
+
+.Afterglow {
+  --black: #151515;
+  --red: #A53C23;
+  --green: #7B9246;
+  --yellow: #D3A04D;
+  --blue: #6C99BB;
+  --magenta: #9F4E85;
+  --cyan: #7DD6CF;
+  --white: #D0D0D0;
+  --bright-black: #505050;
+  --bright-red: #A53C23;
+  --bright-green: #7B9246;
+  --bright-yellow: #D3A04D;
+  --bright-blue: #547C99;
+  --bright-magenta: #9F4E85;
+  --bright-cyan: #7DD6CF;
+  --bright-white: #F5F5F5;
+
+  --foreground: #D0D0D0;
+  --background: #222222;
+
+
+}
+
+.Alien_Blood {
+  --black: #112616;
+  --red: #7F2B27;
+  --green: #2F7E25;
+  --yellow: #717F24;
+  --blue: #2F6A7F;
+  --magenta: #47587F;
+  --cyan: #327F77;
+  --white: #647D75;
+  --bright-black: #3C4812;
+  --bright-red: #E08009;
+  --bright-green: #18E000;
+  --bright-yellow: #BDE000;
+  --bright-blue: #00AAE0;
+  --bright-magenta: #0058E0;
+  --bright-cyan: #00E0C4;
+  --bright-white: #73FA91;
+
+  --foreground: #637D75;
+  --background: #0F1610;
+
+
+}
+
+.Argonaut {
+  --black: #232323;
+  --red: #FF000F;
+  --green: #8CE10B;
+  --yellow: #FFB900;
+  --blue: #008DF8;
+  --magenta: #6D43A6;
+  --cyan: #00D8EB;
+  --white: #FFFFFF;
+  --bright-black: #444444;
+  --bright-red: #FF2740;
+  --bright-green: #ABE15B;
+  --bright-yellow: #FFD242;
+  --bright-blue: #0092FF;
+  --bright-magenta: #9A5FEB;
+  --bright-cyan: #67FFF0;
+  --bright-white: #FFFFFF;
+
+  --foreground: #FFFAF4;
+  --background: #0E1019;
+
+
+}
+
+.Arthur {
+  --black: #3D352A;
+  --red: #CD5C5C;
+  --green: #86AF80;
+  --yellow: #E8AE5B;
+  --blue: #6495ED;
+  --magenta: #DEB887;
+  --cyan: #B0C4DE;
+  --white: #BBAA99;
+  --bright-black: #554444;
+  --bright-red: #CC5533;
+  --bright-green: #88AA22;
+  --bright-yellow: #FFA75D;
+  --bright-blue: #87CEEB;
+  --bright-magenta: #996600;
+  --bright-cyan: #B0C4DE;
+  --bright-white: #DDCCBB;
+
+  --foreground: #DDEEDD;
+  --background: #1C1C1C;
+
+
+}
+
+.Atom {
+  --black: #000000;
+  --red: #FD5FF1;
+  --green: #87C38A;
+  --yellow: #FFD7B1;
+  --blue: #85BEFD;
+  --magenta: #B9B6FC;
+  --cyan: #85BEFD;
+  --white: #E0E0E0;
+  --bright-black: #000000;
+  --bright-red: #FD5FF1;
+  --bright-green: #94FA36;
+  --bright-yellow: #F5FFA8;
+  --bright-blue: #96CBFE;
+  --bright-magenta: #B9B6FC;
+  --bright-cyan: #85BEFD;
+  --bright-white: #E0E0E0;
+
+  --foreground: #C5C8C6;
+  --background: #161719;
+
+
+}
+
+.Aura {
+  --black: #110F18;
+  --red: #FF6767;
+  --green: #61FFCA;
+  --yellow: #FFCA85;
+  --blue: #A277FF;
+  --magenta: #A277FF;
+  --cyan: #61FFCA;
+  --white: #EDECEE;
+  --bright-black: #6D6D6D;
+  --bright-red: #FFCA85;
+  --bright-green: #A277FF;
+  --bright-yellow: #FFCA85;
+  --bright-blue: #A277FF;
+  --bright-magenta: #A277FF;
+  --bright-cyan: #61FFCA;
+  --bright-white: #EDECEE;
+
+  --foreground: #EDECEE;
+  --background: #15141B;
+
+
+}
+
+.Ayu_Dark {
+  --black: #0A0E14;
+  --red: #FF3333;
+  --green: #C2D94C;
+  --yellow: #FF8F40;
+  --blue: #59C2FF;
+  --magenta: #FFEE99;
+  --cyan: #95E6CB;
+  --white: #B3B1AD;
+  --bright-black: #4D5566;
+  --bright-red: #FF3333;
+  --bright-green: #C2D94C;
+  --bright-yellow: #FF8F40;
+  --bright-blue: #59C2FF;
+  --bright-magenta: #FFEE99;
+  --bright-cyan: #95E6CB;
+  --bright-white: #B3B1AD;
+
+  --foreground: #B3B1AD;
+  --background: #0A0E14;
+
+
+}
+
+.Ayu_Light {
+  --black: #575F66;
+  --red: #F51818;
+  --green: #86B300;
+  --yellow: #F2AE49;
+  --blue: #399EE6;
+  --magenta: #A37ACC;
+  --cyan: #4CBF99;
+  --white: #FAFAFA;
+  --bright-black: #8A9199;
+  --bright-red: #F51818;
+  --bright-green: #86B300;
+  --bright-yellow: #F2AE49;
+  --bright-blue: #399EE6;
+  --bright-magenta: #A37ACC;
+  --bright-cyan: #4CBF99;
+  --bright-white: #FAFAFA;
+
+  --foreground: #575F66;
+  --background: #FAFAFA;
+
+
+}
+
+.Ayu_Mirage {
+  --black: #1F2430;
+  --red: #FF3333;
+  --green: #BAE67E;
+  --yellow: #FFA759;
+  --blue: #73D0FF;
+  --magenta: #D4BFFF;
+  --cyan: #95E6CB;
+  --white: #CBCCC6;
+  --bright-black: #707A8C;
+  --bright-red: #FF3333;
+  --bright-green: #BAE67E;
+  --bright-yellow: #FFA759;
+  --bright-blue: #73D0FF;
+  --bright-magenta: #D4BFFF;
+  --bright-cyan: #95E6CB;
+  --bright-white: #CBCCC6;
+
+  --foreground: #CBCCC6;
+  --background: #1F2430;
+
+
+}
+
+.Azu {
+  --black: #000000;
+  --red: #AC6D74;
+  --green: #74AC6D;
+  --yellow: #ACA46D;
+  --blue: #6D74AC;
+  --magenta: #A46DAC;
+  --cyan: #6DACA4;
+  --white: #E6E6E6;
+  --bright-black: #262626;
+  --bright-red: #D6B8BC;
+  --bright-green: #BCD6B8;
+  --bright-yellow: #D6D3B8;
+  --bright-blue: #B8BCD6;
+  --bright-magenta: #D3B8D6;
+  --bright-cyan: #B8D6D3;
+  --bright-white: #FFFFFF;
+
+  --foreground: #D9E6F2;
+  --background: #09111A;
+
+
+}
+
+.Belafonte_Day {
+  --black: #20111B;
+  --red: #BE100E;
+  --green: #858162;
+  --yellow: #EAA549;
+  --blue: #426A79;
+  --magenta: #97522C;
+  --cyan: #989A9C;
+  --white: #968C83;
+  --bright-black: #5E5252;
+  --bright-red: #BE100E;
+  --bright-green: #858162;
+  --bright-yellow: #EAA549;
+  --bright-blue: #426A79;
+  --bright-magenta: #97522C;
+  --bright-cyan: #989A9C;
+  --bright-white: #D5CCBA;
+
+  --foreground: #45373C;
+  --background: #D5CCBA;
+
+
+}
+
+.Belafonte_Night {
+  --black: #20111B;
+  --red: #BE100E;
+  --green: #858162;
+  --yellow: #EAA549;
+  --blue: #426A79;
+  --magenta: #97522C;
+  --cyan: #989A9C;
+  --white: #968C83;
+  --bright-black: #5E5252;
+  --bright-red: #BE100E;
+  --bright-green: #858162;
+  --bright-yellow: #EAA549;
+  --bright-blue: #426A79;
+  --bright-magenta: #97522C;
+  --bright-cyan: #989A9C;
+  --bright-white: #D5CCBA;
+
+  --foreground: #968C83;
+  --background: #20111B;
+
+
+}
+
+.Bim {
+  --black: #2C2423;
+  --red: #F557A0;
+  --green: #A9EE55;
+  --yellow: #F5A255;
+  --blue: #5EA2EC;
+  --magenta: #A957EC;
+  --cyan: #5EEEA0;
+  --white: #918988;
+  --bright-black: #918988;
+  --bright-red: #F579B2;
+  --bright-green: #BBEE78;
+  --bright-yellow: #F5B378;
+  --bright-blue: #81B3EC;
+  --bright-magenta: #BB79EC;
+  --bright-cyan: #81EEB2;
+  --bright-white: #F5EEEC;
+
+  --foreground: #A9BED8;
+  --background: #012849;
+
+
+}
+
+.Birds_Of_Paradise {
+  --black: #573D26;
+  --red: #BE2D26;
+  --green: #6BA18A;
+  --yellow: #E99D2A;
+  --blue: #5A86AD;
+  --magenta: #AC80A6;
+  --cyan: #74A6AD;
+  --white: #E0DBB7;
+  --bright-black: #9B6C4A;
+  --bright-red: #E84627;
+  --bright-green: #95D8BA;
+  --bright-yellow: #D0D150;
+  --bright-blue: #B8D3ED;
+  --bright-magenta: #D19ECB;
+  --bright-cyan: #93CFD7;
+  --bright-white: #FFF9D5;
+
+  --foreground: #E0DBB7;
+  --background: #2A1F1D;
+
+
+}
+
+.Blazer {
+  --black: #000000;
+  --red: #B87A7A;
+  --green: #7AB87A;
+  --yellow: #B8B87A;
+  --blue: #7A7AB8;
+  --magenta: #B87AB8;
+  --cyan: #7AB8B8;
+  --white: #D9D9D9;
+  --bright-black: #262626;
+  --bright-red: #DBBDBD;
+  --bright-green: #BDDBBD;
+  --bright-yellow: #DBDBBD;
+  --bright-blue: #BDBDDB;
+  --bright-magenta: #DBBDDB;
+  --bright-cyan: #BDDBDB;
+  --bright-white: #FFFFFF;
+
+  --foreground: #D9E6F2;
+  --background: #0D1926;
+
+
+}
+
+.Bluloco_Light {
+  --black: #D5D6DD;
+  --red: #D52753;
+  --green: #23974A;
+  --yellow: #DF631C;
+  --blue: #275FE4;
+  --magenta: #823FF1;
+  --cyan: #27618D;
+  --white: #000000;
+  --bright-black: #E4E5ED;
+  --bright-red: #FF6480;
+  --bright-green: #3CBC66;
+  --bright-yellow: #C5A332;
+  --bright-blue: #0099E1;
+  --bright-magenta: #CE33C0;
+  --bright-cyan: #6D93BB;
+  --bright-white: #26272D;
+
+  --foreground: #383A42;
+  --background: #F9F9F9;
+
+
+}
+
+.Bluloco_Zsh_Light {
+  --black: #E4E5F1;
+  --red: #D52753;
+  --green: #23974A;
+  --yellow: #DF631C;
+  --blue: #275FE4;
+  --magenta: #823FF1;
+  --cyan: #27618D;
+  --white: #000000;
+  --bright-black: #5794DE;
+  --bright-red: #FF6480;
+  --bright-green: #3CBC66;
+  --bright-yellow: #C5A332;
+  --bright-blue: #0099E1;
+  --bright-magenta: #CE33C0;
+  --bright-cyan: #6D93BB;
+  --bright-white: #26272D;
+
+  --foreground: #383A42;
+  --background: #F9F9F9;
+
+
+}
+
+.Borland {
+  --black: #4F4F4F;
+  --red: #FF6C60;
+  --green: #A8FF60;
+  --yellow: #FFFFB6;
+  --blue: #96CBFE;
+  --magenta: #FF73FD;
+  --cyan: #C6C5FE;
+  --white: #EEEEEE;
+  --bright-black: #7C7C7C;
+  --bright-red: #FFB6B0;
+  --bright-green: #CEFFAC;
+  --bright-yellow: #FFFFCC;
+  --bright-blue: #B5DCFF;
+  --bright-magenta: #FF9CFE;
+  --bright-cyan: #DFDFFE;
+  --bright-white: #FFFFFF;
+
+  --foreground: #FFFF4E;
+  --background: #0000A4;
+
+
+}
+
+.Breath {
+  --black: #1E2229;
+  --red: #ED1515;
+  --green: #44853A;
+  --yellow: #F67400;
+  --blue: #1D99F3;
+  --magenta: #9B59B6;
+  --cyan: #1ABC9C;
+  --white: #FCFCFC;
+  --bright-black: #7F8C8D;
+  --bright-red: #C0392B;
+  --bright-green: #55A649;
+  --bright-yellow: #FDBC4B;
+  --bright-blue: #3DAEE9;
+  --bright-magenta: #8E44AD;
+  --bright-cyan: #16A085;
+  --bright-white: #FFFFFF;
+
+  --foreground: #17A88B;
+  --background: #1E2229;
+
+
+}
+
+.Breath_Darker {
+  --black: #1E2229;
+  --red: #ED1515;
+  --green: #44853A;
+  --yellow: #F67400;
+  --blue: #1D99F3;
+  --magenta: #9B59B6;
+  --cyan: #1ABC9C;
+  --white: #FCFCFC;
+  --bright-black: #7F8C8D;
+  --bright-red: #C0392B;
+  --bright-green: #55A649;
+  --bright-yellow: #FDBC4B;
+  --bright-blue: #3DAEE9;
+  --bright-magenta: #8E44AD;
+  --bright-cyan: #16A085;
+  --bright-white: #FFFFFF;
+
+  --foreground: #17A88B;
+  --background: #080D14;
+
+
+}
+
+.Breath_Light {
+  --black: #E8E8E8;
+  --red: #ED1515;
+  --green: #C0392B;
+  --yellow: #F67400;
+  --blue: #1D99F3;
+  --magenta: #9B59B6;
+  --cyan: #1ABC9C;
+  --white: #FCFCFC;
+  --bright-black: #7F8C8D;
+  --bright-red: #C0392B;
+  --bright-green: #55A649;
+  --bright-yellow: #FDBC4B;
+  --bright-blue: #3DAEE9;
+  --bright-magenta: #8E44AD;
+  --bright-cyan: #16A085;
+  --bright-white: #FFFFFF;
+
+  --foreground: #292F34;
+  --background: #E8E8E8;
+
+
+}
+
+.Breath_Silverfox {
+  --black: #1E2229;
+  --red: #ED1515;
+  --green: #44853A;
+  --yellow: #F67400;
+  --blue: #1D99F3;
+  --magenta: #9B59B6;
+  --cyan: #1ABC9C;
+  --white: #FCFCFC;
+  --bright-black: #7F8C8D;
+  --bright-red: #C0392B;
+  --bright-green: #55A649;
+  --bright-yellow: #FDBC4B;
+  --bright-blue: #3DAEE9;
+  --bright-magenta: #8E44AD;
+  --bright-cyan: #16A085;
+  --bright-white: #FFFFFF;
+
+  --foreground: #BBBBBB;
+  --background: #1E2229;
+
+
+}
+
+.Breeze {
+  --black: #232627;
+  --red: #ED1515;
+  --green: #11D116;
+  --yellow: #F67400;
+  --blue: #1D99F3;
+  --magenta: #9B59B6;
+  --cyan: #1ABC9C;
+  --white: #FCFCFC;
+  --bright-black: #7F8C8D;
+  --bright-red: #C0392B;
+  --bright-green: #1CDC9A;
+  --bright-yellow: #FDBC4B;
+  --bright-blue: #3DAEE9;
+  --bright-magenta: #8E44AD;
+  --bright-cyan: #16A085;
+  --bright-white: #FFFFFF;
+
+  --foreground: #FCFCFC;
+  --background: #232627;
+
+
+}
+
+.Broadcast {
+  --black: #000000;
+  --red: #DA4939;
+  --green: #519F50;
+  --yellow: #FFD24A;
+  --blue: #6D9CBE;
+  --magenta: #D0D0FF;
+  --cyan: #6E9CBE;
+  --white: #FFFFFF;
+  --bright-black: #323232;
+  --bright-red: #FF7B6B;
+  --bright-green: #83D182;
+  --bright-yellow: #FFFF7C;
+  --bright-blue: #9FCEF0;
+  --bright-magenta: #FFFFFF;
+  --bright-cyan: #A0CEF0;
+  --bright-white: #FFFFFF;
+
+  --foreground: #E6E1DC;
+  --background: #2B2B2B;
+
+
+}
+
+.Brogrammer {
+  --black: #1F1F1F;
+  --red: #F81118;
+  --green: #2DC55E;
+  --yellow: #ECBA0F;
+  --blue: #2A84D2;
+  --magenta: #4E5AB7;
+  --cyan: #1081D6;
+  --white: #D6DBE5;
+  --bright-black: #D6DBE5;
+  --bright-red: #DE352E;
+  --bright-green: #1DD361;
+  --bright-yellow: #F3BD09;
+  --bright-blue: #1081D6;
+  --bright-magenta: #5350B9;
+  --bright-cyan: #0F7DDB;
+  --bright-white: #FFFFFF;
+
+  --foreground: #D6DBE5;
+  --background: #131313;
+
+
+}
+
+.C64 {
+  --black: #090300;
+  --red: #883932;
+  --green: #55A049;
+  --yellow: #BFCE72;
+  --blue: #40318D;
+  --magenta: #8B3F96;
+  --cyan: #67B6BD;
+  --white: #FFFFFF;
+  --bright-black: #000000;
+  --bright-red: #883932;
+  --bright-green: #55A049;
+  --bright-yellow: #BFCE72;
+  --bright-blue: #40318D;
+  --bright-magenta: #8B3F96;
+  --bright-cyan: #67B6BD;
+  --bright-white: #F7F7F7;
+
+  --foreground: #7869C4;
+  --background: #40318D;
+
+
+}
+
+.Cai {
+  --black: #000000;
+  --red: #CA274D;
+  --green: #4DCA27;
+  --yellow: #CAA427;
+  --blue: #274DCA;
+  --magenta: #A427CA;
+  --cyan: #27CAA4;
+  --white: #808080;
+  --bright-black: #808080;
+  --bright-red: #E98DA3;
+  --bright-green: #A3E98D;
+  --bright-yellow: #E9D48D;
+  --bright-blue: #8DA3E9;
+  --bright-magenta: #D48DE9;
+  --bright-cyan: #8DE9D4;
+  --bright-white: #FFFFFF;
+
+  --foreground: #D9E6F2;
+  --background: #09111A;
+
+
+}
+
+.Catppuccin_Frappe {
+  --black: #51576D;
+  --red: #E78284;
+  --green: #A6D189;
+  --yellow: #E5C890;
+  --blue: #8CAAEE;
+  --magenta: #F4B8E4;
+  --cyan: #81C8BE;
+  --white: #B5BFE2;
+  --bright-black: #626880;
+  --bright-red: #E78284;
+  --bright-green: #A6D189;
+  --bright-yellow: #E5C890;
+  --bright-blue: #8CAAEE;
+  --bright-magenta: #F4B8E4;
+  --bright-cyan: #81C8BE;
+  --bright-white: #A5ADCE;
+
+  --foreground: #C6D0F5;
+  --background: #303446;
+
+
+}
+
+
+.Catppuccin_Latte {
+  --black: #5C5F77;
+  --red: #D20F39;
+  --green: #40A02B;
+  --yellow: #DF8E1D;
+  --blue: #1E66F5;
+  --magenta: #EA76CB;
+
+  --cyan: #179299;
+  --white: #ACB0BE;
+  --bright-black: #6C6F85;
+  --bright-red: #D20F39;
+  --bright-green: #40A02B;
+  --bright-yellow: #DF8E1D;
+  --bright-blue: #1E66F5;
+  --bright-magenta: #EA76CB;
+  --bright-cyan: #179299;
+  --bright-white: #BCC0CC;
+
+  --foreground: #4C4F69;
+  --background: #EFF1F5;
+
+
+}
+
+.Catppuccin_Macchiato {
+  --black: #494D64;
+  --red: #ED8796;
+  --green: #A6DA95;
+  --yellow: #EED49F;
+  --blue: #8AADF4;
+  --magenta: #F5BDE6;
+  --cyan: #8BD5CA;
+  --white: #B8C0E0;
+  --bright-black: #5B6078;
+  --bright-red: #ED8796;
+  --bright-green: #A6DA95;
+  --bright-yellow: #EED49F;
+  --bright-blue: #8AADF4;
+  --bright-magenta: #F5BDE6;
+  --bright-cyan: #8BD5CA;
+  --bright-white: #A5ADCB;
+
+  --foreground: #CAD3F5;
+  --background: #24273A;
+
+
+}
+
+.Catppuccin_Mocha {
+  --black: #45475A;
+  --red: #F38BA8;
+  --green: #A6E3A1;
+  --yellow: #F9E2AF;
+  --blue: #89B4FA;
+  --magenta: #F5C2E7;
+  --cyan: #94E2D5;
+  --white: #BAC2DE;
+  --bright-black: #585B70;
+  --bright-red: #F38BA8;
+  --bright-green: #A6E3A1;
+  --bright-yellow: #F9E2AF;
+  --bright-blue: #89B4FA;
+  --bright-magenta: #F5C2E7;
+  --bright-cyan: #94E2D5;
+  --bright-white: #A6ADC8;
+
+  --foreground: #CDD6F4;
+  --background: #1E1E2E;
+
+
+}
+
+.Chalk {
+  --black: #646464;
+  --red: #F58E8E;
+  --green: #A9D3AB;
+  --yellow: #FED37E;
+  --blue: #7AABD4;
+  --magenta: #D6ADD5;
+  --cyan: #79D4D5;
+  --white: #D4D4D4;
+  --bright-black: #646464;
+  --bright-red: #F58E8E;
+  --bright-green: #A9D3AB;
+  --bright-yellow: #FED37E;
+  --bright-blue: #7AABD4;
+  --bright-magenta: #D6ADD5;
+  --bright-cyan: #79D4D5;
+  --bright-white: #D4D4D4;
+
+  --foreground: #D4D4D4;
+  --background: #2D2D2D;
+
+
+}
+
+.Chalkboard {
+  --black: #000000;
+  --red: #C37372;
+  --green: #72C373;
+  --yellow: #C2C372;
+  --blue: #7372C3;
+  --magenta: #C372C2;
+  --cyan: #72C2C3;
+  --white: #D9D9D9;
+  --bright-black: #323232;
+  --bright-red: #DBAAAA;
+  --bright-green: #AADBAA;
+  --bright-yellow: #DADBAA;
+  --bright-blue: #AAAADB;
+  --bright-magenta: #DBAADA;
+  --bright-cyan: #AADADB;
+  --bright-white: #FFFFFF;
+
+  --foreground: #D9E6F2;
+  --background: #29262F;
+
+
+}
+
+.Chameleon {
+  --black: #2C2C2C;
+  --red: #CC231C;
+  --green: #689D69;
+  --yellow: #D79922;
+  --blue: #366B71;
+  --magenta: #4E5165;
+  --cyan: #458587;
+  --white: #C8BB97;
+  --bright-black: #777777;
+  --bright-red: #CC231C;
+  --bright-green: #689D69;
+  --bright-yellow: #D79922;
+  --bright-blue: #366B71;
+  --bright-magenta: #4E5165;
+  --bright-cyan: #458587;
+  --bright-white: #C8BB97;
+
+  --foreground: #DEDEDE;
+  --background: #2C2C2C;
+
+
+}
+
+.Ciapre {
+  --black: #181818;
+  --red: #810009;
+  --green: #48513B;
+  --yellow: #CC8B3F;
+  --blue: #576D8C;
+  --magenta: #724D7C;
+  --cyan: #5C4F4B;
+  --white: #AEA47F;
+  --bright-black: #555555;
+  --bright-red: #AC3835;
+  --bright-green: #A6A75D;
+  --bright-yellow: #DCDF7C;
+  --bright-blue: #3097C6;
+  --bright-magenta: #D33061;
+  --bright-cyan: #F3DBB2;
+  --bright-white: #F4F4F4;
+
+  --foreground: #AEA47A;
+  --background: #191C27;
+
+
+}
+
+.Clone_Of Ubuntu {
+  --black: #2E3436;
+  --red: #CC0000;
+  --green: #4E9A06;
+  --yellow: #C4A000;
+  --blue: #3465A4;
+  --magenta: #75507B;
+  --cyan: #06989A;
+  --white: #D3D7CF;
+  --bright-black: #555753;
+  --bright-red: #EF2929;
+  --bright-green: #8AE234;
+  --bright-yellow: #FCE94F;
+  --bright-blue: #729FCF;
+  --bright-magenta: #AD7FA8;
+  --bright-cyan: #34E2E2;
+  --bright-white: #EEEEEC;
+
+  --foreground: #FFFFFF;
+  --background: #300A24;
+
+
+}
+
+.Clrs {
+  --black: #000000;
+  --red: #F8282A;
+  --green: #328A5D;
+  --yellow: #FA701D;
+  --blue: #135CD0;
+  --magenta: #9F00BD;
+  --cyan: #33C3C1;
+  --white: #B3B3B3;
+  --bright-black: #555753;
+  --bright-red: #FB0416;
+  --bright-green: #2CC631;
+  --bright-yellow: #FDD727;
+  --bright-blue: #1670FF;
+  --bright-magenta: #E900B0;
+  --bright-cyan: #3AD5CE;
+  --bright-white: #EEEEEC;
+
+  --foreground: #262626;
+  --background: #FFFFFF;
+
+
+}
+
+.Cobalt_2 {
+  --black: #000000;
+  --red: #FF0000;
+  --green: #38DE21;
+  --yellow: #FFE50A;
+  --blue: #1460D2;
+  --magenta: #FF005D;
+  --cyan: #00BBBB;
+  --white: #BBBBBB;
+  --bright-black: #555555;
+  --bright-red: #F40E17;
+  --bright-green: #3BD01D;
+  --bright-yellow: #EDC809;
+  --bright-blue: #5555FF;
+  --bright-magenta: #FF55FF;
+  --bright-cyan: #6AE3FA;
+  --bright-white: #FFFFFF;
+
+  --foreground: #FFFFFF;
+  --background: #132738;
+
+
+}
+
+.Cobalt_Neon {
+  --black: #142631;
+  --red: #FF2320;
+  --green: #3BA5FF;
+  --yellow: #E9E75C;
+  --blue: #8FF586;
+  --magenta: #781AA0;
+  --cyan: #8FF586;
+  --white: #BA46B2;
+  --bright-black: #FFF688;
+  --bright-red: #D4312E;
+  --bright-green: #8FF586;
+  --bright-yellow: #E9F06D;
+  --bright-blue: #3C7DD2;
+  --bright-magenta: #8230A7;
+  --bright-cyan: #6CBC67;
+  --bright-white: #8FF586;
+
+  --foreground: #8FF586;
+  --background: #142838;
+
+
+}
+
+.Colorcli {
+  --black: #000000;
+  --red: #D70000;
+  --green: #5FAF00;
+  --yellow: #5FAF00;
+  --blue: #005F87;
+  --magenta: #D70000;
+  --cyan: #5F5F5F;
+  --white: #E4E4E4;
+  --bright-black: #5F5F5F;
+  --bright-red: #D70000;
+  --bright-green: #5F5F5F;
+  --bright-yellow: #FFFF00;
+  --bright-blue: #0087AF;
+  --bright-magenta: #0087AF;
+  --bright-cyan: #0087AF;
+  --bright-white: #FFFFFF;
+
+  --foreground: #005F87;
+  --background: #FFFFFF;
+
+
+}
+
+.Crayon_Pony Fish {
+  --black: #2B1B1D;
+  --red: #91002B;
+  --green: #579524;
+  --yellow: #AB311B;
+  --blue: #8C87B0;
+  --magenta: #692F50;
+  --cyan: #E8A866;
+  --white: #68525A;
+  --bright-black: #3D2B2E;
+  --bright-red: #C5255D;
+  --bright-green: #8DFF57;
+  --bright-yellow: #C8381D;
+  --bright-blue: #CFC9FF;
+  --bright-magenta: #FC6CBA;
+  --bright-cyan: #FFCEAF;
+  --bright-white: #B0949D;
+
+  --foreground: #68525A;
+  --background: #150707;
+
+
+}
+
+.Dark_Pastel {
+  --black: #000000;
+  --red: #FF5555;
+  --green: #55FF55;
+  --yellow: #FFFF55;
+  --blue: #5555FF;
+  --magenta: #FF55FF;
+  --cyan: #55FFFF;
+  --white: #BBBBBB;
+  --bright-black: #555555;
+  --bright-red: #FF5555;
+  --bright-green: #55FF55;
+  --bright-yellow: #FFFF55;
+  --bright-blue: #5555FF;
+  --bright-magenta: #FF55FF;
+  --bright-cyan: #55FFFF;
+  --bright-white: #FFFFFF;
+
+  --foreground: #FFFFFF;
+  --background: #000000;
+
+
+}
+
+.Darkside {
+  --black: #000000;
+  --red: #E8341C;
+  --green: #68C256;
+  --yellow: #F2D42C;
+  --blue: #1C98E8;
+  --magenta: #8E69C9;
+  --cyan: #1C98E8;
+  --white: #BABABA;
+  --bright-black: #000000;
+  --bright-red: #E05A4F;
+  --bright-green: #77B869;
+  --bright-yellow: #EFD64B;
+  --bright-blue: #387CD3;
+  --bright-magenta: #957BBE;
+  --bright-cyan: #3D97E2;
+  --bright-white: #BABABA;
+
+  --foreground: #BABABA;
+  --background: #222324;
+
+
+}
+
+.Dehydration {
+  --black: #333333;
+  --red: #FF5555;
+  --green: #5FD38D;
+  --yellow: #FF9955;
+  --blue: #3771C8;
+  --magenta: #BC5FD3;
+  --cyan: #5FD3BC;
+  --white: #999999;
+  --bright-black: #666666;
+  --bright-red: #FF8080;
+  --bright-green: #87DEAA;
+  --bright-yellow: #FFB380;
+  --bright-blue: #5F8DD3;
+  --bright-magenta: #CD87DE;
+  --bright-cyan: #87DECD;
+  --bright-white: #CCCCCC;
+
+  --foreground: #CCCCCC;
+  --background: #333333;
+
+
+}
+
+.Desert {
+  --black: #4D4D4D;
+  --red: #FF2B2B;
+  --green: #98FB98;
+  --yellow: #F0E68C;
+  --blue: #CD853F;
+  --magenta: #FFDEAD;
+  --cyan: #FFA0A0;
+  --white: #F5DEB3;
+  --bright-black: #555555;
+  --bright-red: #FF5555;
+  --bright-green: #55FF55;
+  --bright-yellow: #FFFF55;
+  --bright-blue: #87CEFF;
+  --bright-magenta: #FF55FF;
+  --bright-cyan: #FFD700;
+  --bright-white: #FFFFFF;
+
+  --foreground: #FFFFFF;
+  --background: #333333;
+
+
+}
+
+.Dimmed_Monokai {
+  --black: #3A3D43;
+  --red: #BE3F48;
+  --green: #879A3B;
+  --yellow: #C5A635;
+  --blue: #4F76A1;
+  --magenta: #855C8D;
+  --cyan: #578FA4;
+  --white: #B9BCBA;
+  --bright-black: #888987;
+  --bright-red: #FB001F;
+  --bright-green: #0F722F;
+  --bright-yellow: #C47033;
+  --bright-blue: #186DE3;
+  --bright-magenta: #FB0067;
+  --bright-cyan: #2E706D;
+  --bright-white: #FDFFB9;
+
+  --foreground: #B9BCBA;
+  --background: #1F1F1F;
+
+
+}
+
+.Dissonance {
+  --black: #000000;
+  --red: #DC322F;
+  --green: #56DB3A;
+  --yellow: #FF8400;
+  --blue: #0084D4;
+  --magenta: #B729D9;
+  --cyan: #CCCCFF;
+  --white: #FFFFFF;
+  --bright-black: #D6DBE5;
+  --bright-red: #DC322F;
+  --bright-green: #56DB3A;
+  --bright-yellow: #FF8400;
+  --bright-blue: #0084D4;
+  --bright-magenta: #B729D9;
+  --bright-cyan: #CCCCFF;
+  --bright-white: #FFFFFF;
+
+  --foreground: #FFFFFF;
+  --background: #000000;
+
+
+}
+
+.Dracula {
+  --black: #44475A;
+  --red: #FF5555;
+  --green: #50FA7B;
+  --yellow: #FFB86C;
+  --blue: #8BE9FD;
+  --magenta: #BD93F9;
+  --cyan: #FF79C6;
+  --white: #94A3A5;
+  --bright-black: #000000;
+  --bright-red: #FF5555;
+  --bright-green: #50FA7B;
+  --bright-yellow: #FFB86C;
+  --bright-blue: #8BE9FD;
+  --bright-magenta: #BD93F9;
+  --bright-cyan: #FF79C6;
+  --bright-white: #FFFFFF;
+
+  --foreground: #94A3A5;
+  --background: #282A36;
+
+
+}
+
+.Earthsong {
+  --black: #121418;
+  --red: #C94234;
+  --green: #85C54C;
+  --yellow: #F5AE2E;
+  --blue: #1398B9;
+  --magenta: #D0633D;
+  --cyan: #509552;
+  --white: #E5C6AA;
+  --bright-black: #675F54;
+  --bright-red: #FF645A;
+  --bright-green: #98E036;
+  --bright-yellow: #E0D561;
+  --bright-blue: #5FDAFF;
+  --bright-magenta: #FF9269;
+  --bright-cyan: #84F088;
+  --bright-white: #F6F7EC;
+
+  --foreground: #E5C7A9;
+  --background: #292520;
+
+
+}
+
+.Elemental {
+  --black: #3C3C30;
+  --red: #98290F;
+  --green: #479A43;
+  --yellow: #7F7111;
+  --blue: #497F7D;
+  --magenta: #7F4E2F;
+  --cyan: #387F58;
+  --white: #807974;
+  --bright-black: #555445;
+  --bright-red: #E0502A;
+  --bright-green: #61E070;
+  --bright-yellow: #D69927;
+  --bright-blue: #79D9D9;
+  --bright-magenta: #CD7C54;
+  --bright-cyan: #59D599;
+  --bright-white: #FFF1E9;
+
+  --foreground: #807A74;
+  --background: #22211D;
+
+
+}
+
+.Elementary {
+  --black: #303030;
+  --red: #E1321A;
+  --green: #6AB017;
+  --yellow: #FFC005;
+  --blue: #004F9E;
+  --magenta: #EC0048;
+  --cyan: #2AA7E7;
+  --white: #F2F2F2;
+  --bright-black: #5D5D5D;
+  --bright-red: #FF361E;
+  --bright-green: #7BC91F;
+  --bright-yellow: #FFD00A;
+  --bright-blue: #0071FF;
+  --bright-magenta: #FF1D62;
+  --bright-cyan: #4BB8FD;
+  --bright-white: #A020F0;
+
+  --foreground: #F2F2F2;
+  --background: #101010;
+
+
+}
+
+.Elic {
+  --black: #303030;
+  --red: #E1321A;
+  --green: #6AB017;
+  --yellow: #FFC005;
+  --blue: #729FCF;
+  --magenta: #EC0048;
+  --cyan: #F2F2F2;
+  --white: #2AA7E7;
+  --bright-black: #5D5D5D;
+  --bright-red: #FF361E;
+  --bright-green: #7BC91F;
+  --bright-yellow: #FFD00A;
+  --bright-blue: #0071FF;
+  --bright-magenta: #FF1D62;
+  --bright-cyan: #4BB8FD;
+  --bright-white: #A020F0;
+
+  --foreground: #F2F2F2;
+  --background: #4A453E;
+
+
+}
+
+.Elio {
+  --black: #303030;
+  --red: #E1321A;
+  --green: #6AB017;
+  --yellow: #FFC005;
+  --blue: #729FCF;
+  --magenta: #EC0048;
+  --cyan: #2AA7E7;
+  --white: #F2F2F2;
+  --bright-black: #5D5D5D;
+  --bright-red: #FF361E;
+  --bright-green: #7BC91F;
+  --bright-yellow: #FFD00A;
+  --bright-blue: #0071FF;
+  --bright-magenta: #FF1D62;
+  --bright-cyan: #4BB8FD;
+  --bright-white: #A020F0;
+
+  --foreground: #F2F2F2;
+  --background: #041A3B;
+
+
+}
+
+.Espresso {
+  --black: #353535;
+  --red: #D25252;
+  --green: #A5C261;
+  --yellow: #FFC66D;
+  --blue: #6C99BB;
+  --magenta: #D197D9;
+  --cyan: #BED6FF;
+  --white: #EEEEEC;
+  --bright-black: #535353;
+  --bright-red: #F00C0C;
+  --bright-green: #C2E075;
+  --bright-yellow: #E1E48B;
+  --bright-blue: #8AB7D9;
+  --bright-magenta: #EFB5F7;
+  --bright-cyan: #DCF4FF;
+  --bright-white: #FFFFFF;
+
+  --foreground: #FFFFFF;
+  --background: #323232;
+
+
+}
+
+.Espresso_Libre {
+  --black: #000000;
+  --red: #CC0000;
+  --green: #1A921C;
+  --yellow: #F0E53A;
+  --blue: #0066FF;
+  --magenta: #C5656B;
+  --cyan: #06989A;
+  --white: #D3D7CF;
+  --bright-black: #555753;
+  --bright-red: #EF2929;
+  --bright-green: #9AFF87;
+  --bright-yellow: #FFFB5C;
+  --bright-blue: #43A8ED;
+  --bright-magenta: #FF818A;
+  --bright-cyan: #34E2E2;
+  --bright-white: #EEEEEC;
+
+  --foreground: #B8A898;
+  --background: #2A211C;
+
+
+}
+
+.Everblush {
+  --black: #232A2D;
+  --red: #E57474;
+  --green: #8CCF7E;
+  --yellow: #E5C76B;
+  --blue: #67B0E8;
+  --magenta: #C47FD5;
+  --cyan: #6CBFBF;
+  --white: #B3B9B8;
+  --bright-black: #2D3437;
+  --bright-red: #EF7E7E;
+  --bright-green: #96D988;
+  --bright-yellow: #F4D67A;
+  --bright-blue: #71BAF2;
+  --bright-magenta: #CE89DF;
+  --bright-cyan: #67CBE7;
+  --bright-white: #BDC3C2;
+
+  --foreground: #DADADA;
+  --background: #141B1E;
+
+
+}
+
+.Everforest_Dark {
+  --black: #4B565C;
+  --red: #E67E80;
+  --green: #A7C080;
+  --yellow: #DBBC7F;
+  --blue: #7FBBB3;
+  --magenta: #D699B6;
+  --cyan: #83C092;
+  --white: #D3C6AA;
+  --bright-black: #5C6A72;
+  --bright-red: #F85552;
+  --bright-green: #8DA101;
+  --bright-yellow: #DFA000;
+  --bright-blue: #3A94C5;
+  --bright-magenta: #DF69BA;
+  --bright-cyan: #35A77C;
+  --bright-white: #DFDDC8;
+
+  --foreground: #D3C6AA;
+  --background: #2F383E;
+
+
+}
+
+.Everforest_Light {
+  --black: #5C6A72;
+  --red: #F85552;
+  --green: #8DA101;
+  --yellow: #DFA000;
+  --blue: #3A94C5;
+  --magenta: #DF69BA;
+  --cyan: #35A77C;
+  --white: #DFDDC8;
+  --bright-black: #4B565C;
+  --bright-red: #E67E80;
+  --bright-green: #A7C080;
+  --bright-yellow: #DBBC7F;
+  --bright-blue: #7FBBB3;
+  --bright-magenta: #D699B6;
+  --bright-cyan: #83C092;
+  --bright-white: #D3C6AA;
+
+  --foreground: #5C6A72;
+  --background: #FDF6E3;
+
+
+}
+
+.Fairy_Floss {
+  --black: #42395D;
+  --red: #A8757B;
+  --green: #FF857F;
+  --yellow: #E6C000;
+  --blue: #AE81FF;
+  --magenta: #716799;
+  --cyan: #C2FFDF;
+  --white: #F8F8F2;
+  --bright-black: #75507B;
+  --bright-red: #FFB8D1;
+  --bright-green: #F1568E;
+  --bright-yellow: #D5A425;
+  --bright-blue: #C5A3FF;
+  --bright-magenta: #8077A8;
+  --bright-cyan: #C2FFFF;
+  --bright-white: #F8F8F0;
+
+  --foreground: #C2FFDF;
+  --background: #5A5475;
+
+
+}
+
+.Fairy_Floss Dark {
+  --black: #42395D;
+  --red: #A8757B;
+  --green: #FF857F;
+  --yellow: #E6C000;
+  --blue: #AE81FF;
+  --magenta: #716799;
+  --cyan: #C2FFDF;
+  --white: #F8F8F2;
+  --bright-black: #75507B;
+  --bright-red: #FFB8D1;
+  --bright-green: #F1568E;
+  --bright-yellow: #D5A425;
+  --bright-blue: #C5A3FF;
+  --bright-magenta: #8077A8;
+  --bright-cyan: #C2FFFF;
+  --bright-white: #F8F8F0;
+
+  --foreground: #C2FFDF;
+  --background: #42395D;
+
+
+}
+
+.Fishtank {
+  --black: #03073C;
+  --red: #C6004A;
+  --green: #ACF157;
+  --yellow: #FECD5E;
+  --blue: #525FB8;
+  --magenta: #986F82;
+  --cyan: #968763;
+  --white: #ECF0FC;
+  --bright-black: #6C5B30;
+  --bright-red: #DA4B8A;
+  --bright-green: #DBFFA9;
+  --bright-yellow: #FEE6A9;
+  --bright-blue: #B2BEFA;
+  --bright-magenta: #FDA5CD;
+  --bright-cyan: #A5BD86;
+  --bright-white: #F6FFEC;
+
+  --foreground: #ECF0FE;
+  --background: #232537;
+
+
+}
+
+.Flat {
+  --black: #2C3E50;
+  --red: #C0392B;
+  --green: #27AE60;
+  --yellow: #F39C12;
+  --blue: #2980B9;
+  --magenta: #8E44AD;
+  --cyan: #16A085;
+  --white: #BDC3C7;
+  --bright-black: #34495E;
+  --bright-red: #E74C3C;
+  --bright-green: #2ECC71;
+  --bright-yellow: #F1C40F;
+  --bright-blue: #3498DB;
+  --bright-magenta: #9B59B6;
+  --bright-cyan: #2AA198;
+  --bright-white: #ECF0F1;
+
+  --foreground: #1ABC9C;
+  --background: #1F2D3A;
+
+
+}
+
+.Flat_Remix {
+  --black: #1F2229;
+  --red: #D41919;
+  --green: #5EBDAB;
+  --yellow: #FEA44C;
+  --blue: #367BF0;
+  --magenta: #BF2E5D;
+  --cyan: #49AEE6;
+  --white: #E6E6E6;
+  --bright-black: #8C42AB;
+  --bright-red: #EC0101;
+  --bright-green: #47D4B9;
+  --bright-yellow: #FF8A18;
+  --bright-blue: #277FFF;
+  --bright-magenta: #D71655;
+  --bright-cyan: #05A1F7;
+  --bright-white: #FFFFFF;
+
+  --foreground: #FFFFFF;
+  --background: #272A34;
+
+
+}
+
+.Flatland {
+  --black: #1D1D19;
+  --red: #F18339;
+  --green: #9FD364;
+  --yellow: #F4EF6D;
+  --blue: #5096BE;
+  --magenta: #695ABC;
+  --cyan: #D63865;
+  --white: #FFFFFF;
+  --bright-black: #1D1D19;
+  --bright-red: #D22A24;
+  --bright-green: #A7D42C;
+  --bright-yellow: #FF8949;
+  --bright-blue: #61B9D0;
+  --bright-magenta: #695ABC;
+  --bright-cyan: #D63865;
+  --bright-white: #FFFFFF;
+
+  --foreground: #B8DBEF;
+  --background: #1D1F21;
+
+
+}
+
+.Foxnightly {
+  --black: #2A2A2E;
+  --red: #B98EFF;
+  --green: #FF7DE9;
+  --yellow: #729FCF;
+  --blue: #66A05B;
+  --magenta: #75507B;
+  --cyan: #ACACAE;
+  --white: #FFFFFF;
+  --bright-black: #A40000;
+  --bright-red: #BF4040;
+  --bright-green: #66A05B;
+  --bright-yellow: #FFB86C;
+  --bright-blue: #729FCF;
+  --bright-magenta: #8F5902;
+  --bright-cyan: #C4A000;
+  --bright-white: #5C3566;
+
+  --foreground: #D7D7DB;
+  --background: #2A2A2E;
+
+
+}
+
+.Freya {
+  --black: #073642;
+  --red: #DC322F;
+  --green: #859900;
+  --yellow: #B58900;
+  --blue: #268BD2;
+  --magenta: #EC0048;
+  --cyan: #2AA198;
+  --white: #94A3A5;
+  --bright-black: #586E75;
+  --bright-red: #CB4B16;
+  --bright-green: #859900;
+  --bright-yellow: #B58900;
+  --bright-blue: #268BD2;
+  --bright-magenta: #D33682;
+  --bright-cyan: #2AA198;
+  --bright-white: #6C71C4;
+
+  --foreground: #94A3A5;
+  --background: #252E32;
+
+
+}
+
+.Frontend_Delight {
+  --black: #242526;
+  --red: #F8511B;
+  --green: #565747;
+  --yellow: #FA771D;
+  --blue: #2C70B7;
+  --magenta: #F02E4F;
+  --cyan: #3CA1A6;
+  --white: #ADADAD;
+  --bright-black: #5FAC6D;
+  --bright-red: #F74319;
+  --bright-green: #74EC4C;
+  --bright-yellow: #FDC325;
+  --bright-blue: #3393CA;
+  --bright-magenta: #E75E4F;
+  --bright-cyan: #4FBCE6;
+  --bright-white: #8C735B;
+
+  --foreground: #ADADAD;
+  --background: #1B1C1D;
+
+
+}
+
+.Frontend_Fun Forrest {
+  --black: #000000;
+  --red: #D6262B;
+  --green: #919C00;
+  --yellow: #BE8A13;
+  --blue: #4699A3;
+  --magenta: #8D4331;
+  --cyan: #DA8213;
+  --white: #DDC265;
+  --bright-black: #7F6A55;
+  --bright-red: #E55A1C;
+  --bright-green: #BFC65A;
+  --bright-yellow: #FFCB1B;
+  --bright-blue: #7CC9CF;
+  --bright-magenta: #D26349;
+  --bright-cyan: #E6A96B;
+  --bright-white: #FFEAA3;
+
+  --foreground: #DEC165;
+  --background: #251200;
+
+
+}
+
+.Frontend_Galaxy {
+  --black: #000000;
+  --red: #F9555F;
+  --green: #21B089;
+  --yellow: #FEF02A;
+  --blue: #589DF6;
+  --magenta: #944D95;
+  --cyan: #1F9EE7;
+  --white: #BBBBBB;
+  --bright-black: #555555;
+  --bright-red: #FA8C8F;
+  --bright-green: #35BB9A;
+  --bright-yellow: #FFFF55;
+  --bright-blue: #589DF6;
+  --bright-magenta: #E75699;
+  --bright-cyan: #3979BC;
+  --bright-white: #FFFFFF;
+
+  --foreground: #FFFFFF;
+  --background: #1D2837;
+
+
+}
+
+.Geohot {
+  --black: #F9F5F5;
+  --red: #CC0000;
+  --green: #1F1E1F;
+  --yellow: #ADA110;
+  --blue: #FF004E;
+  --magenta: #75507B;
+  --cyan: #06919A;
+  --white: #FFFFFF;
+  --bright-black: #555753;
+  --bright-red: #EF2929;
+  --bright-green: #FF0000;
+  --bright-yellow: #ADA110;
+  --bright-blue: #5F4AA6;
+  --bright-magenta: #B74438;
+  --bright-cyan: #408F0C;
+  --bright-white: #FFFFFF;
+
+  --foreground: #FFFFFF;
+  --background: #1F1E1F;
+
+
+}
+
+.Github {
+  --black: #3E3E3E;
+  --red: #970B16;
+  --green: #07962A;
+  --yellow: #F8EEC7;
+  --blue: #003E8A;
+  --magenta: #E94691;
+  --cyan: #89D1EC;
+  --white: #FFFFFF;
+  --bright-black: #666666;
+  --bright-red: #DE0000;
+  --bright-green: #87D5A2;
+  --bright-yellow: #F1D007;
+  --bright-blue: #2E6CBA;
+  --bright-magenta: #FFA29F;
+  --bright-cyan: #1CFAFE;
+  --bright-white: #FFFFFF;
+
+  --foreground: #3E3E3E;
+  --background: #F4F4F4;
+
+
+}
+
+.Gogh {
+  --black: #292D3E;
+  --red: #F07178;
+  --green: #62DE84;
+  --yellow: #FFCB6B;
+  --blue: #75A1FF;
+  --magenta: #F580FF;
+  --cyan: #60BAEC;
+  --white: #ABB2BF;
+  --bright-black: #959DCB;
+  --bright-red: #F07178;
+  --bright-green: #C3E88D;
+  --bright-yellow: #FF5572;
+  --bright-blue: #82AAFF;
+  --bright-magenta: #FFCB6B;
+  --bright-cyan: #676E95;
+  --bright-white: #FFFEFE;
+
+  --foreground: #BFC7D5;
+  --background: #292D3E;
+
+
+}
+
+.Gooey {
+  --black: #000009;
+  --red: #BB4F6C;
+  --green: #72CCAE;
+  --yellow: #C65E3D;
+  --blue: #58B6CA;
+  --magenta: #6488C4;
+  --cyan: #8D84C6;
+  --white: #858893;
+  --bright-black: #1F222D;
+  --bright-red: #EE829F;
+  --bright-green: #A5FFE1;
+  --bright-yellow: #F99170;
+  --bright-blue: #8BE9FD;
+  --bright-magenta: #97BBF7;
+  --bright-cyan: #C0B7F9;
+  --bright-white: #FFFFFF;
+
+  --foreground: #EBEEF9;
+  --background: #0D101B;
+
+
+}
+
+.Google_Dark {
+  --black: #202124;
+  --red: #EA4335;
+  --green: #34A853;
+  --yellow: #FBBC04;
+  --blue: #4285F4;
+  --magenta: #A142F4;
+  --cyan: #24C1E0;
+  --white: #E8EAED;
+  --bright-black: #5F6368;
+  --bright-red: #EA4335;
+  --bright-green: #34A853;
+  --bright-yellow: #FBBC05;
+  --bright-blue: #4285F4;
+  --bright-magenta: #A142F4;
+  --bright-cyan: #24C1E0;
+  --bright-white: #FFFFFF;
+
+  --foreground: #E8EAED;
+  --background: #202124;
+
+
+}
+
+.Google_Light {
+  --black: #202124;
+  --red: #EA4335;
+  --green: #34A853;
+  --yellow: #FBBC04;
+  --blue: #4285F4;
+  --magenta: #A142F4;
+  --cyan: #24C1E0;
+  --white: #E8EAED;
+  --bright-black: #5F6368;
+  --bright-red: #EA4335;
+  --bright-green: #34A853;
+  --bright-yellow: #FBBC05;
+  --bright-blue: #4285F4;
+  --bright-magenta: #A142F4;
+  --bright-cyan: #24C1E0;
+  --bright-white: #FFFFFF;
+
+  --foreground: #5F6368;
+  --background: #FFFFFF;
+
+
+}
+
+.Gotham {
+  --black: #0A0F14;
+  --red: #C33027;
+  --green: #26A98B;
+  --yellow: #EDB54B;
+  --blue: #195465;
+  --magenta: #4E5165;
+  --cyan: #33859D;
+  --white: #98D1CE;
+  --bright-black: #10151B;
+  --bright-red: #D26939;
+  --bright-green: #081F2D;
+  --bright-yellow: #245361;
+  --bright-blue: #093748;
+  --bright-magenta: #888BA5;
+  --bright-cyan: #599CAA;
+  --bright-white: #D3EBE9;
+
+  --foreground: #98D1CE;
+  --background: #0A0F14;
+
+
+}
+
+.Grape {
+  --black: #2D283F;
+  --red: #ED2261;
+  --green: #1FA91B;
+  --yellow: #8DDC20;
+  --blue: #487DF4;
+  --magenta: #8D35C9;
+  --cyan: #3BDEED;
+  --white: #9E9EA0;
+  --bright-black: #59516A;
+  --bright-red: #F0729A;
+  --bright-green: #53AA5E;
+  --bright-yellow: #B2DC87;
+  --bright-blue: #A9BCEC;
+  --bright-magenta: #AD81C2;
+  --bright-cyan: #9DE3EB;
+  --bright-white: #A288F7;
+
+  --foreground: #9F9FA1;
+  --background: #171423;
+
+
+}
+
+.Grass {
+  --black: #000000;
+  --red: #BB0000;
+  --green: #00BB00;
+  --yellow: #E7B000;
+  --blue: #0000A3;
+  --magenta: #950062;
+  --cyan: #00BBBB;
+  --white: #BBBBBB;
+  --bright-black: #555555;
+  --bright-red: #BB0000;
+  --bright-green: #00BB00;
+  --bright-yellow: #E7B000;
+  --bright-blue: #0000BB;
+  --bright-magenta: #FF55FF;
+  --bright-cyan: #55FFFF;
+  --bright-white: #FFFFFF;
+
+  --foreground: #FFF0A5;
+  --background: #13773D;
+
+
+}
+
+.Gruvbox {
+  --black: #FBF1C7;
+  --red: #CC241D;
+  --green: #98971A;
+  --yellow: #D79921;
+  --blue: #458588;
+  --magenta: #B16286;
+  --cyan: #689D6A;
+  --white: #7C6F64;
+  --bright-black: #928374;
+  --bright-red: #9D0006;
+  --bright-green: #79740E;
+  --bright-yellow: #B57614;
+  --bright-blue: #076678;
+  --bright-magenta: #8F3F71;
+  --bright-cyan: #427B58;
+  --bright-white: #3C3836;
+
+  --foreground: #3C3836;
+  --background: #FBF1C7;
+
+
+}
+
+.Gruvbox_Dark {
+  --black: #282828;
+  --red: #CC241D;
+  --green: #98971A;
+  --yellow: #D79921;
+  --blue: #458588;
+  --magenta: #B16286;
+  --cyan: #689D6A;
+  --white: #A89984;
+  --bright-black: #928374;
+  --bright-red: #FB4934;
+  --bright-green: #B8BB26;
+  --bright-yellow: #FABD2F;
+  --bright-blue: #83A598;
+  --bright-magenta: #D3869B;
+  --bright-cyan: #8EC07C;
+  --bright-white: #EBDBB2;
+
+  --foreground: #EBDBB2;
+  --background: #282828;
+
+
+}
+
+.Gruvbox_Material {
+  --black: #3C3836;
+  --red: #EA6962;
+  --green: #A9B665;
+  --yellow: #D8A657;
+  --blue: #7DAEA3;
+  --magenta: #D3869B;
+  --cyan: #89B482;
+  --white: #D4BE98;
+  --bright-black: #3C3836;
+  --bright-red: #EA6962;
+  --bright-green: #A9B665;
+  --bright-yellow: #D8A657;
+  --bright-blue: #7DAEA3;
+  --bright-magenta: #D3869B;
+  --bright-cyan: #89B482;
+  --bright-white: #D4BE98;
+
+  --foreground: #D4BE98;
+  --background: #282828;
+
+
+}
+
+.Hardcore {
+  --black: #1B1D1E;
+  --red: #F92672;
+  --green: #A6E22E;
+  --yellow: #FD971F;
+  --blue: #66D9EF;
+  --magenta: #9E6FFE;
+  --cyan: #5E7175;
+  --white: #CCCCC6;
+  --bright-black: #505354;
+  --bright-red: #FF669D;
+  --bright-green: #BEED5F;
+  --bright-yellow: #E6DB74;
+  --bright-blue: #66D9EF;
+  --bright-magenta: #9E6FFE;
+  --bright-cyan: #A3BABF;
+  --bright-white: #F8F8F2;
+
+  --foreground: #A0A0A0;
+  --background: #121212;
+
+
+}
+
+.Harper {
+  --black: #010101;
+  --red: #F8B63F;
+  --green: #7FB5E1;
+  --yellow: #D6DA25;
+  --blue: #489E48;
+  --magenta: #B296C6;
+  --cyan: #F5BFD7;
+  --white: #A8A49D;
+  --bright-black: #726E6A;
+  --bright-red: #F8B63F;
+  --bright-green: #7FB5E1;
+  --bright-yellow: #D6DA25;
+  --bright-blue: #489E48;
+  --bright-magenta: #B296C6;
+  --bright-cyan: #F5BFD7;
+  --bright-white: #FEFBEA;
+
+  --foreground: #A8A49D;
+  --background: #010101;
+
+
+}
+
+.Hemisu_Dark {
+  --black: #444444;
+  --red: #FF0054;
+  --green: #B1D630;
+  --yellow: #9D895E;
+  --blue: #67BEE3;
+  --magenta: #B576BC;
+  --cyan: #569A9F;
+  --white: #EDEDED;
+  --bright-black: #777777;
+  --bright-red: #D65E75;
+  --bright-green: #BAFFAA;
+  --bright-yellow: #ECE1C8;
+  --bright-blue: #9FD3E5;
+  --bright-magenta: #DEB3DF;
+  --bright-cyan: #B6E0E5;
+  --bright-white: #FFFFFF;
+
+  --foreground: #FFFFFF;
+  --background: #000000;
+
+
+}
+
+.Hemisu_Light {
+  --black: #777777;
+  --red: #FF0055;
+  --green: #739100;
+  --yellow: #503D15;
+  --blue: #538091;
+  --magenta: #5B345E;
+  --cyan: #538091;
+  --white: #999999;
+  --bright-black: #999999;
+  --bright-red: #D65E76;
+  --bright-green: #9CC700;
+  --bright-yellow: #947555;
+  --bright-blue: #9DB3CD;
+  --bright-magenta: #A184A4;
+  --bright-cyan: #85B2AA;
+  --bright-white: #BABABA;
+
+  --foreground: #444444;
+  --background: #EFEFEF;
+
+
+}
+
+.Highway {
+  --black: #000000;
+  --red: #D00E18;
+  --green: #138034;
+  --yellow: #FFCB3E;
+  --blue: #006BB3;
+  --magenta: #6B2775;
+  --cyan: #384564;
+  --white: #EDEDED;
+  --bright-black: #5D504A;
+  --bright-red: #F07E18;
+  --bright-green: #B1D130;
+  --bright-yellow: #FFF120;
+  --bright-blue: #4FC2FD;
+  --bright-magenta: #DE0071;
+  --bright-cyan: #5D504A;
+  --bright-white: #FFFFFF;
+
+  --foreground: #EDEDED;
+  --background: #222225;
+
+
+}
+
+.Hipster-__green {
+  --black: #000000;
+  --red: #B6214A;
+  --green: #00A600;
+  --yellow: #BFBF00;
+  --blue: #246EB2;
+  --magenta: #B200B2;
+  --cyan: #00A6B2;
+  --white: #BFBFBF;
+  --bright-black: #666666;
+  --bright-red: #E50000;
+  --bright-green: #86A93E;
+  --bright-yellow: #E5E500;
+  --bright-blue: #0000FF;
+  --bright-magenta: #E500E5;
+  --bright-cyan: #00E5E5;
+  --bright-white: #E5E5E5;
+
+  --foreground: #84C138;
+  --background: #100B05;
+
+
+}
+
+.Homebrew {
+  --black: #000000;
+  --red: #990000;
+  --green: #00A600;
+  --yellow: #999900;
+  --blue: #0000B2;
+  --magenta: #B200B2;
+  --cyan: #00A6B2;
+  --white: #BFBFBF;
+  --bright-black: #666666;
+  --bright-red: #E50000;
+  --bright-green: #00D900;
+  --bright-yellow: #E5E500;
+  --bright-blue: #0000FF;
+  --bright-magenta: #E500E5;
+  --bright-cyan: #00E5E5;
+  --bright-white: #E5E5E5;
+
+  --foreground: #00FF00;
+  --background: #000000;
+
+
+}
+
+.Homebrew_Light {
+  --black: #000000;
+  --red: #990000;
+  --green: #00A600;
+  --yellow: #999900;
+  --blue: #0000B2;
+  --magenta: #B200B2;
+  --cyan: #00A6B2;
+  --white: #BFBFBF;
+  --bright-black: #666666;
+  --bright-red: #E50000;
+  --bright-green: #00D900;
+  --bright-yellow: #E5E500;
+  --bright-blue: #0000FF;
+  --bright-magenta: #E500E5;
+  --bright-cyan: #00E5E5;
+  --bright-white: #E5E5E5;
+
+  --foreground: #000000;
+  --background: #FFFFFF;
+
+
+}
+
+.Homebrew_Ocean {
+  --black: #000000;
+  --red: #990000;
+  --green: #00A600;
+  --yellow: #999900;
+  --blue: #0000B2;
+  --magenta: #B200B2;
+  --cyan: #00A6B2;
+  --white: #BFBFBF;
+  --bright-black: #666666;
+  --bright-red: #E50000;
+  --bright-green: #00D900;
+  --bright-yellow: #E5E500;
+  --bright-blue: #0000FF;
+  --bright-magenta: #E500E5;
+  --bright-cyan: #00E5E5;
+  --bright-white: #E5E5E5;
+
+  --foreground: #FFFFFF;
+  --background: #224FBC;
+
+
+}
+
+.Horizon_Bright {
+  --black: #16161C;
+  --red: #DA103F;
+  --green: #1EB980;
+  --yellow: #F6661E;
+  --blue: #26BBD9;
+  --magenta: #EE64AE;
+  --cyan: #1D8991;
+  --white: #FADAD1;
+  --bright-black: #1A1C23;
+  --bright-red: #F43E5C;
+  --bright-green: #07DA8C;
+  --bright-yellow: #F77D26;
+  --bright-blue: #3FC6DE;
+  --bright-magenta: #F075B7;
+  --bright-cyan: #1EAEAE;
+  --bright-white: #FDF0ED;
+
+  --foreground: #1C1E26;
+  --background: #FDF0ED;
+
+
+}
+
+.Horizon_Dark {
+  --black: #16161C;
+  --red: #E95678;
+  --green: #29D398;
+  --yellow: #FAB795;
+  --blue: #26BBD9;
+  --magenta: #EE64AE;
+  --cyan: #59E3E3;
+  --white: #FADAD1;
+  --bright-black: #232530;
+  --bright-red: #EC6A88;
+  --bright-green: #3FDAA4;
+  --bright-yellow: #FBC3A7;
+  --bright-blue: #3FC6DE;
+  --bright-magenta: #F075B7;
+  --bright-cyan: #6BE6E6;
+  --bright-white: #FDF0ED;
+
+  --foreground: #FDF0ED;
+  --background: #1C1E26;
+
+
+}
+
+.Hurtado {
+  --black: #575757;
+  --red: #FF1B00;
+  --green: #A5E055;
+  --yellow: #FBE74A;
+  --blue: #496487;
+  --magenta: #FD5FF1;
+  --cyan: #86E9FE;
+  --white: #CBCCCB;
+  --bright-black: #262626;
+  --bright-red: #D51D00;
+  --bright-green: #A5DF55;
+  --bright-yellow: #FBE84A;
+  --bright-blue: #89BEFF;
+  --bright-magenta: #C001C1;
+  --bright-cyan: #86EAFE;
+  --bright-white: #DBDBDB;
+
+  --foreground: #DBDBDB;
+  --background: #000000;
+
+
+}
+
+.Hybrid {
+  --black: #282A2E;
+  --red: #A54242;
+  --green: #8C9440;
+  --yellow: #DE935F;
+  --blue: #5F819D;
+  --magenta: #85678F;
+  --cyan: #5E8D87;
+  --white: #969896;
+  --bright-black: #373B41;
+  --bright-red: #CC6666;
+  --bright-green: #B5BD68;
+  --bright-yellow: #F0C674;
+  --bright-blue: #81A2BE;
+  --bright-magenta: #B294BB;
+  --bright-cyan: #8ABEB7;
+  --bright-white: #C5C8C6;
+
+  --foreground: #94A3A5;
+  --background: #141414;
+
+
+}
+
+.Ibm-3270_High_Contrast {
+  --black: #000000;
+  --red: #FF0000;
+  --green: #00FF00;
+  --yellow: #FFFF00;
+  --blue: #00BFFF;
+  --magenta: #FFC0CB;
+  --cyan: #40E0D0;
+  --white: #BEBEBE;
+  --bright-black: #414141;
+  --bright-red: #FFA500;
+  --bright-green: #98FB98;
+  --bright-yellow: #FFFF00;
+  --bright-blue: #0000CD;
+  --bright-magenta: #A020F0;
+  --bright-cyan: #AEEEEE;
+  --bright-white: #FFFFFF;
+
+  --foreground: #FDFDFD;
+  --background: #000000;
+
+
+}
+
+.Ibm3270 {
+  --black: #222222;
+  --red: #F01818;
+  --green: #24D830;
+  --yellow: #F0D824;
+  --blue: #7890F0;
+  --magenta: #F078D8;
+  --cyan: #54E4E4;
+  --white: #A5A5A5;
+  --bright-black: #888888;
+  --bright-red: #EF8383;
+  --bright-green: #7ED684;
+  --bright-yellow: #EFE28B;
+  --bright-blue: #B3BFEF;
+  --bright-magenta: #EFB3E3;
+  --bright-cyan: #9CE2E2;
+  --bright-white: #FFFFFF;
+
+  --foreground: #FDFDFD;
+  --background: #000000;
+
+
+}
+
+.Ic-__green Ppl {
+  --black: #1F1F1F;
+  --red: #FB002A;
+  --green: #339C24;
+  --yellow: #659B25;
+  --blue: #149B45;
+  --magenta: #53B82C;
+  --cyan: #2CB868;
+  --white: #E0FFEF;
+  --bright-black: #032710;
+  --bright-red: #A7FF3F;
+  --bright-green: #9FFF6D;
+  --bright-yellow: #D2FF6D;
+  --bright-blue: #72FFB5;
+  --bright-magenta: #50FF3E;
+  --bright-cyan: #22FF71;
+  --bright-white: #DAEFD0;
+
+  --foreground: #D9EFD3;
+  --background: #3A3D3F;
+
+
+}
+
+.Ic_Orange Ppl {
+  --black: #000000;
+  --red: #C13900;
+  --green: #A4A900;
+  --yellow: #CAAF00;
+  --blue: #BD6D00;
+  --magenta: #FC5E00;
+  --cyan: #F79500;
+  --white: #FFC88A;
+  --bright-black: #6A4F2A;
+  --bright-red: #FF8C68;
+  --bright-green: #F6FF40;
+  --bright-yellow: #FFE36E;
+  --bright-blue: #FFBE55;
+  --bright-magenta: #FC874F;
+  --bright-cyan: #C69752;
+  --bright-white: #FAFAFF;
+
+  --foreground: #FFCB83;
+  --background: #262626;
+
+
+}
+
+.Idle_Toes {
+  --black: #323232;
+  --red: #D25252;
+  --green: #7FE173;
+  --yellow: #FFC66D;
+  --blue: #4099FF;
+  --magenta: #F680FF;
+  --cyan: #BED6FF;
+  --white: #EEEEEC;
+  --bright-black: #535353;
+  --bright-red: #F07070;
+  --bright-green: #9DFF91;
+  --bright-yellow: #FFE48B;
+  --bright-blue: #5EB7F7;
+  --bright-magenta: #FF9DFF;
+  --bright-cyan: #DCF4FF;
+  --bright-white: #FFFFFF;
+
+  --foreground: #FFFFFF;
+  --background: #323232;
+
+
+}
+
+.Ir-__black {
+  --black: #4E4E4E;
+  --red: #FF6C60;
+  --green: #A8FF60;
+  --yellow: #FFFFB6;
+  --blue: #69CBFE;
+  --magenta: #FF73FD;
+  --cyan: #C6C5FE;
+  --white: #EEEEEE;
+  --bright-black: #7C7C7C;
+  --bright-red: #FFB6B0;
+  --bright-green: #CEFFAC;
+  --bright-yellow: #FFFFCB;
+  --bright-blue: #B5DCFE;
+  --bright-magenta: #FF9CFE;
+  --bright-cyan: #DFDFFE;
+  --bright-white: #FFFFFF;
+
+  --foreground: #EEEEEE;
+  --background: #000000;
+
+
+}
+
+.Jackie_Brown {
+  --black: #2C1D16;
+  --red: #EF5734;
+  --green: #2BAF2B;
+  --yellow: #BEBF00;
+  --blue: #246EB2;
+  --magenta: #D05EC1;
+  --cyan: #00ACEE;
+  --white: #BFBFBF;
+  --bright-black: #666666;
+  --bright-red: #E50000;
+  --bright-green: #86A93E;
+  --bright-yellow: #E5E500;
+  --bright-blue: #0000FF;
+  --bright-magenta: #E500E5;
+  --bright-cyan: #00E5E5;
+  --bright-white: #E5E5E5;
+
+  --foreground: #FFCC2F;
+  --background: #2C1D16;
+
+
+}
+
+.Japanesque {
+  --black: #343935;
+  --red: #CF3F61;
+  --green: #7BB75B;
+  --yellow: #E9B32A;
+  --blue: #4C9AD4;
+  --magenta: #A57FC4;
+  --cyan: #389AAD;
+  --white: #FAFAF6;
+  --bright-black: #595B59;
+  --bright-red: #D18FA6;
+  --bright-green: #767F2C;
+  --bright-yellow: #78592F;
+  --bright-blue: #135979;
+  --bright-magenta: #604291;
+  --bright-cyan: #76BBCA;
+  --bright-white: #B2B5AE;
+
+  --foreground: #F7F6EC;
+  --background: #1E1E1E;
+
+
+}
+
+.Jellybeans {
+  --black: #929292;
+  --red: #E27373;
+  --green: #94B979;
+  --yellow: #FFBA7B;
+  --blue: #97BEDC;
+  --magenta: #E1C0FA;
+  --cyan: #00988E;
+  --white: #DEDEDE;
+  --bright-black: #BDBDBD;
+  --bright-red: #FFA1A1;
+  --bright-green: #BDDEAB;
+  --bright-yellow: #FFDCA0;
+  --bright-blue: #B1D8F6;
+  --bright-magenta: #FBDAFF;
+  --bright-cyan: #1AB2A8;
+  --bright-white: #FFFFFF;
+
+  --foreground: #DEDEDE;
+  --background: #121212;
+
+
+}
+
+.Jup {
+  --black: #000000;
+  --red: #DD006F;
+  --green: #6FDD00;
+  --yellow: #DD6F00;
+  --blue: #006FDD;
+  --magenta: #6F00DD;
+  --cyan: #00DD6F;
+  --white: #F2F2F2;
+  --bright-black: #7D7D7D;
+  --bright-red: #FF74B9;
+  --bright-green: #B9FF74;
+  --bright-yellow: #FFB974;
+  --bright-blue: #74B9FF;
+  --bright-magenta: #B974FF;
+  --bright-cyan: #74FFB9;
+  --bright-white: #FFFFFF;
+
+  --foreground: #23476A;
+  --background: #758480;
+
+
+}
+
+.Kanagawa {
+  --black: #090618;
+  --red: #C34043;
+  --green: #76946A;
+  --yellow: #C0A36E;
+  --blue: #7E9CD8;
+  --magenta: #957FB8;
+  --cyan: #6A9589;
+  --white: #DCD7BA;
+  --bright-black: #727169;
+  --bright-red: #E82424;
+  --bright-green: #98BB6C;
+  --bright-yellow: #E6C384;
+  --bright-blue: #7FB4CA;
+  --bright-magenta: #938AA9;
+  --bright-cyan: #7AA89F;
+  --bright-white: #C8C093;
+
+  --foreground: #DCD7BA;
+  --background: #1F1F28;
+
+
+}
+
+.Kibble {
+  --black: #4D4D4D;
+  --red: #C70031;
+  --green: #29CF13;
+  --yellow: #D8E30E;
+  --blue: #3449D1;
+  --magenta: #8400FF;
+  --cyan: #0798AB;
+  --white: #E2D1E3;
+  --bright-black: #5A5A5A;
+  --bright-red: #F01578;
+  --bright-green: #6CE05C;
+  --bright-yellow: #F3F79E;
+  --bright-blue: #97A4F7;
+  --bright-magenta: #C495F0;
+  --bright-cyan: #68F2E0;
+  --bright-white: #FFFFFF;
+
+  --foreground: #F7F7F7;
+  --background: #0E100A;
+
+
+}
+
+.Kokuban {
+  --black: #2E8744;
+  --red: #D84E4C;
+  --green: #95DA5A;
+  --yellow: #D6E264;
+  --blue: #4B9ED7;
+  --magenta: #945FC5;
+  --cyan: #D89B25;
+  --white: #D8E2D7;
+  --bright-black: #34934F;
+  --bright-red: #FF4F59;
+  --bright-green: #AFF56A;
+  --bright-yellow: #FCFF75;
+  --bright-blue: #57AEFF;
+  --bright-magenta: #AE63E9;
+  --bright-cyan: #FFAA2B;
+  --bright-white: #FFFEFE;
+
+  --foreground: #D8E2D7;
+  --background: #0D4A08;
+
+
+}
+
+.Laserwave {
+  --black: #39243A;
+  --red: #EB64B9;
+  --green: #AFD686;
+  --yellow: #FEAE87;
+  --blue: #40B4C4;
+  --magenta: #B381C5;
+  --cyan: #215969;
+  --white: #91889B;
+  --bright-black: #716485;
+  --bright-red: #FC2377;
+  --bright-green: #50FA7B;
+  --bright-yellow: #FFE261;
+  --bright-blue: #74DFC4;
+  --bright-magenta: #6D75E0;
+  --bright-cyan: #B4DCE7;
+  --bright-white: #FFFFFF;
+
+  --foreground: #E0E0E0;
+  --background: #1F1926;
+
+
+}
+
+.Later_This Evening {
+  --black: #2B2B2B;
+  --red: #D45A60;
+  --green: #AFBA67;
+  --yellow: #E5D289;
+  --blue: #A0BAD6;
+  --magenta: #C092D6;
+  --cyan: #91BFB7;
+  --white: #3C3D3D;
+  --bright-black: #454747;
+  --bright-red: #D3232F;
+  --bright-green: #AABB39;
+  --bright-yellow: #E5BE39;
+  --bright-blue: #6699D6;
+  --bright-magenta: #AB53D6;
+  --bright-cyan: #5FC0AE;
+  --bright-white: #C1C2C2;
+
+  --foreground: #959595;
+  --background: #222222;
+
+
+}
+
+.Lavandula {
+  --black: #230046;
+  --red: #7D1625;
+  --green: #337E6F;
+  --yellow: #7F6F49;
+  --blue: #4F4A7F;
+  --magenta: #5A3F7F;
+  --cyan: #58777F;
+  --white: #736E7D;
+  --bright-black: #372D46;
+  --bright-red: #E05167;
+  --bright-green: #52E0C4;
+  --bright-yellow: #E0C386;
+  --bright-blue: #8E87E0;
+  --bright-magenta: #A776E0;
+  --bright-cyan: #9AD4E0;
+  --bright-white: #8C91FA;
+
+  --foreground: #736E7D;
+  --background: #050014;
+
+
+}
+
+.Liquid_Carbon {
+  --black: #000000;
+  --red: #FF3030;
+  --green: #559A70;
+  --yellow: #CCAC00;
+  --blue: #0099CC;
+  --magenta: #CC69C8;
+  --cyan: #7AC4CC;
+  --white: #BCCCCC;
+  --bright-black: #000000;
+  --bright-red: #FF3030;
+  --bright-green: #559A70;
+  --bright-yellow: #CCAC00;
+  --bright-blue: #0099CC;
+  --bright-magenta: #CC69C8;
+  --bright-cyan: #7AC4CC;
+  --bright-white: #BCCCCC;
+
+  --foreground: #AFC2C2;
+  --background: #303030;
+
+
+}
+
+.Liquid_Carbon Transparent {
+  --black: #000000;
+  --red: #FF3030;
+  --green: #559A70;
+  --yellow: #CCAC00;
+  --blue: #0099CC;
+  --magenta: #CC69C8;
+  --cyan: #7AC4CC;
+  --white: #BCCCCC;
+  --bright-black: #000000;
+  --bright-red: #FF3030;
+  --bright-green: #559A70;
+  --bright-yellow: #CCAC00;
+  --bright-blue: #0099CC;
+  --bright-magenta: #CC69C8;
+  --bright-cyan: #7AC4CC;
+  --bright-white: #BCCCCC;
+
+  --foreground: #AFC2C2;
+  --background: #000000;
+
+
+}
+
+.Lunaria_Dark {
+  --black: #36464E;
+  --red: #846560;
+  --green: #809984;
+  --yellow: #A79A79;
+  --blue: #555673;
+  --magenta: #866C83;
+  --cyan: #7E98B4;
+  --white: #CACED8;
+  --bright-black: #404F56;
+  --bright-red: #BB928B;
+  --bright-green: #BFDCC2;
+  --bright-yellow: #F1DFB6;
+  --bright-blue: #777798;
+  --bright-magenta: #BF9DB9;
+  --bright-cyan: #BDDCFF;
+  --bright-white: #DFE2ED;
+
+  --foreground: #CACED8;
+  --background: #36464E;
+
+
+}
+
+.Lunaria_Eclipse {
+  --black: #323F46;
+  --red: #83615B;
+  --green: #7F9781;
+  --yellow: #A69875;
+  --blue: #53516F;
+  --magenta: #856880;
+  --cyan: #7D96B2;
+  --white: #C9CDD7;
+  --bright-black: #3D4950;
+  --bright-red: #BA9088;
+  --bright-green: #BEDBC1;
+  --bright-yellow: #F1DFB4;
+  --bright-blue: #767495;
+  --bright-magenta: #BE9CB8;
+  --bright-cyan: #BCDBFF;
+  --bright-white: #DFE2ED;
+
+  --foreground: #C9CDD7;
+  --background: #323F46;
+
+
+}
+
+.Lunaria_Light {
+  --black: #3E3C3D;
+  --red: #783C1F;
+  --green: #497D46;
+  --yellow: #8F750B;
+  --blue: #3F3566;
+  --magenta: #793F62;
+  --cyan: #3778A9;
+  --white: #D5CFCC;
+  --bright-black: #484646;
+  --bright-red: #B06240;
+  --bright-green: #7BC175;
+  --bright-yellow: #DCB735;
+  --bright-blue: #5C4F89;
+  --bright-magenta: #B56895;
+  --bright-cyan: #64BAFF;
+  --bright-white: #EBE4E1;
+
+  --foreground: #484646;
+  --background: #EBE4E1;
+
+
+}
+
+.Maia {
+  --black: #232423;
+  --red: #BA2922;
+  --green: #7E807E;
+  --yellow: #4C4F4D;
+  --blue: #16A085;
+  --magenta: #43746A;
+  --cyan: #00CCCC;
+  --white: #E0E0E0;
+  --bright-black: #282928;
+  --bright-red: #CC372C;
+  --bright-green: #8D8F8D;
+  --bright-yellow: #4E524F;
+  --bright-blue: #13BF9D;
+  --bright-magenta: #487D72;
+  --bright-cyan: #00D1D1;
+  --bright-white: #E8E8E8;
+
+  --foreground: #BDC3C7;
+  --background: #31363B;
+
+
+}
+
+.Man_Page {
+  --black: #000000;
+  --red: #CC0000;
+  --green: #00A600;
+  --yellow: #999900;
+  --blue: #0000B2;
+  --magenta: #B200B2;
+  --cyan: #00A6B2;
+  --white: #CCCCCC;
+  --bright-black: #666666;
+  --bright-red: #E50000;
+  --bright-green: #00D900;
+  --bright-yellow: #E5E500;
+  --bright-blue: #0000FF;
+  --bright-magenta: #E500E5;
+  --bright-cyan: #00E5E5;
+  --bright-white: #E5E5E5;
+
+  --foreground: #000000;
+  --background: #FEF49C;
+
+
+}
+
+.Mar {
+  --black: #000000;
+  --red: #B5407B;
+  --green: #7BB540;
+  --yellow: #B57B40;
+  --blue: #407BB5;
+  --magenta: #7B40B5;
+  --cyan: #40B57B;
+  --white: #F8F8F8;
+  --bright-black: #737373;
+  --bright-red: #CD73A0;
+  --bright-green: #A0CD73;
+  --bright-yellow: #CDA073;
+  --bright-blue: #73A0CD;
+  --bright-magenta: #A073CD;
+  --bright-cyan: #73CDA0;
+  --bright-white: #FFFFFF;
+
+  --foreground: #23476A;
+  --background: #FFFFFF;
+
+
+}
+
+.Material {
+  --black: #073641;
+  --red: #EB606B;
+  --green: #C3E88D;
+  --yellow: #F7EB95;
+  --blue: #80CBC3;
+  --magenta: #FF2490;
+  --cyan: #AEDDFF;
+  --white: #FFFFFF;
+  --bright-black: #002B36;
+  --bright-red: #EB606B;
+  --bright-green: #C3E88D;
+  --bright-yellow: #F7EB95;
+  --bright-blue: #7DC6BF;
+  --bright-magenta: #6C71C3;
+  --bright-cyan: #34434D;
+  --bright-white: #FFFFFF;
+
+  --foreground: #C3C7D1;
+  --background: #1E282C;
+
+
+}
+
+.Mathias {
+  --black: #000000;
+  --red: #E52222;
+  --green: #A6E32D;
+  --yellow: #FC951E;
+  --blue: #C48DFF;
+  --magenta: #FA2573;
+  --cyan: #67D9F0;
+  --white: #F2F2F2;
+  --bright-black: #555555;
+  --bright-red: #FF5555;
+  --bright-green: #55FF55;
+  --bright-yellow: #FFFF55;
+  --bright-blue: #5555FF;
+  --bright-magenta: #FF55FF;
+  --bright-cyan: #55FFFF;
+  --bright-white: #FFFFFF;
+
+  --foreground: #BBBBBB;
+  --background: #000000;
+
+
+}
+
+.Medallion {
+  --black: #000000;
+  --red: #B64C00;
+  --green: #7C8B16;
+  --yellow: #D3BD26;
+  --blue: #616BB0;
+  --magenta: #8C5A90;
+  --cyan: #916C25;
+  --white: #CAC29A;
+  --bright-black: #5E5219;
+  --bright-red: #FF9149;
+  --bright-green: #B2CA3B;
+  --bright-yellow: #FFE54A;
+  --bright-blue: #ACB8FF;
+  --bright-magenta: #FFA0FF;
+  --bright-cyan: #FFBC51;
+  --bright-white: #FED698;
+
+  --foreground: #CAC296;
+  --background: #1D1908;
+
+
+}
+
+.Misterioso {
+  --black: #000000;
+  --red: #FF4242;
+  --green: #74AF68;
+  --yellow: #FFAD29;
+  --blue: #338F86;
+  --magenta: #9414E6;
+  --cyan: #23D7D7;
+  --white: #E1E1E0;
+  --bright-black: #555555;
+  --bright-red: #FF3242;
+  --bright-green: #74CD68;
+  --bright-yellow: #FFB929;
+  --bright-blue: #23D7D7;
+  --bright-magenta: #FF37FF;
+  --bright-cyan: #00EDE1;
+  --bright-white: #FFFFFF;
+
+  --foreground: #E1E1E0;
+  --background: #2D3743;
+
+
+}
+
+.Molokai {
+  --black: #1B1D1E;
+  --red: #7325FA;
+  --green: #23E298;
+  --yellow: #60D4DF;
+  --blue: #D08010;
+  --magenta: #FF0087;
+  --cyan: #D0A843;
+  --white: #BBBBBB;
+  --bright-black: #555555;
+  --bright-red: #9D66F6;
+  --bright-green: #5FE0B1;
+  --bright-yellow: #6DF2FF;
+  --bright-blue: #FFAF00;
+  --bright-magenta: #FF87AF;
+  --bright-cyan: #FFCE51;
+  --bright-white: #FFFFFF;
+
+  --foreground: #BBBBBB;
+  --background: #1B1D1E;
+
+
+}
+
+.Mona_Lisa {
+  --black: #351B0E;
+  --red: #9B291C;
+  --green: #636232;
+  --yellow: #C36E28;
+  --blue: #515C5D;
+  --magenta: #9B1D29;
+  --cyan: #588056;
+  --white: #F7D75C;
+  --bright-black: #874228;
+  --bright-red: #FF4331;
+  --bright-green: #B4B264;
+  --bright-yellow: #FF9566;
+  --bright-blue: #9EB2B4;
+  --bright-magenta: #FF5B6A;
+  --bright-cyan: #8ACD8F;
+  --bright-white: #FFE598;
+
+  --foreground: #F7D66A;
+  --background: #120B0D;
+
+
+}
+
+.Mono_Amber {
+  --black: #402500;
+  --red: #FF9400;
+  --green: #FF9400;
+  --yellow: #FF9400;
+  --blue: #FF9400;
+  --magenta: #FF9400;
+  --cyan: #FF9400;
+  --white: #FF9400;
+  --bright-black: #FF9400;
+  --bright-red: #FF9400;
+  --bright-green: #FF9400;
+  --bright-yellow: #FF9400;
+  --bright-blue: #FF9400;
+  --bright-magenta: #FF9400;
+  --bright-cyan: #FF9400;
+  --bright-white: #FF9400;
+
+  --foreground: #FF9400;
+  --background: #2B1900;
+
+
+}
+
+.Mono_Cyan {
+  --black: #003340;
+  --red: #00CCFF;
+  --green: #00CCFF;
+  --yellow: #00CCFF;
+  --blue: #00CCFF;
+  --magenta: #00CCFF;
+  --cyan: #00CCFF;
+  --white: #00CCFF;
+  --bright-black: #00CCFF;
+  --bright-red: #00CCFF;
+  --bright-green: #00CCFF;
+  --bright-yellow: #00CCFF;
+  --bright-blue: #00CCFF;
+  --bright-magenta: #00CCFF;
+  --bright-cyan: #00CCFF;
+  --bright-white: #00CCFF;
+
+  --foreground: #00CCFF;
+  --background: #00222B;
+
+
+}
+
+.Mono-__green {
+  --black: #034000;
+  --red: #0BFF00;
+  --green: #0BFF00;
+  --yellow: #0BFF00;
+  --blue: #0BFF00;
+  --magenta: #0BFF00;
+  --cyan: #0BFF00;
+  --white: #0BFF00;
+  --bright-black: #0BFF00;
+  --bright-red: #0BFF00;
+  --bright-green: #0BFF00;
+  --bright-yellow: #0BFF00;
+  --bright-blue: #0BFF00;
+  --bright-magenta: #0BFF00;
+  --bright-cyan: #0BFF00;
+  --bright-white: #0BFF00;
+
+  --foreground: #0BFF00;
+  --background: #022B00;
+
+
+}
+
+.Mono-__red {
+  --black: #401200;
+  --red: #FF3600;
+  --green: #FF3600;
+  --yellow: #FF3600;
+  --blue: #FF3600;
+  --magenta: #FF3600;
+  --cyan: #FF3600;
+  --white: #FF3600;
+  --bright-black: #FF3600;
+  --bright-red: #FF3600;
+  --bright-green: #FF3600;
+  --bright-yellow: #FF3600;
+  --bright-blue: #FF3600;
+  --bright-magenta: #FF3600;
+  --bright-cyan: #FF3600;
+  --bright-white: #FF3600;
+
+  --foreground: #FF3600;
+  --background: #2B0C00;
+
+
+}
+
+.Mono_White {
+  --black: #3B3B3B;
+  --red: #FAFAFA;
+  --green: #FAFAFA;
+  --yellow: #FAFAFA;
+  --blue: #FAFAFA;
+  --magenta: #FAFAFA;
+  --cyan: #FAFAFA;
+  --white: #FAFAFA;
+  --bright-black: #FAFAFA;
+  --bright-red: #FAFAFA;
+  --bright-green: #FAFAFA;
+  --bright-yellow: #FAFAFA;
+  --bright-blue: #FAFAFA;
+  --bright-magenta: #FAFAFA;
+  --bright-cyan: #FAFAFA;
+  --bright-white: #FAFAFA;
+
+  --foreground: #FAFAFA;
+  --background: #262626;
+
+
+}
+
+.Mono-__Yellow {
+  --black: #403500;
+  --red: #FFD300;
+  --green: #FFD300;
+  --yellow: #FFD300;
+  --blue: #FFD300;
+  --magenta: #FFD300;
+  --cyan: #FFD300;
+  --white: #FFD300;
+  --bright-black: #FFD300;
+  --bright-red: #FFD300;
+  --bright-green: #FFD300;
+  --bright-yellow: #FFD300;
+  --bright-blue: #FFD300;
+  --bright-magenta: #FFD300;
+  --bright-cyan: #FFD300;
+  --bright-white: #FFD300;
+
+  --foreground: #FFD300;
+  --background: #2B2400;
+
+
+}
+
+.Monokai_Dark {
+  --black: #75715E;
+  --red: #F92672;
+  --green: #A6E22E;
+  --yellow: #F4BF75;
+  --blue: #66D9EF;
+  --magenta: #AE81FF;
+  --cyan: #2AA198;
+  --white: #F9F8F5;
+  --bright-black: #272822;
+  --bright-red: #F92672;
+  --bright-green: #A6E22E;
+  --bright-yellow: #F4BF75;
+  --bright-blue: #66D9EF;
+  --bright-magenta: #AE81FF;
+  --bright-cyan: #2AA198;
+  --bright-white: #F8F8F2;
+
+  --foreground: #F8F8F2;
+  --background: #272822;
+
+
+}
+
+.Monokai_Pro {
+  --black: #363537;
+  --red: #FF6188;
+  --green: #A9DC76;
+  --yellow: #FFD866;
+  --blue: #FC9867;
+  --magenta: #AB9DF2;
+  --cyan: #78DCE8;
+  --white: #FDF9F3;
+  --bright-black: #908E8F;
+  --bright-red: #FF6188;
+  --bright-green: #A9DC76;
+  --bright-yellow: #FFD866;
+  --bright-blue: #FC9867;
+  --bright-magenta: #AB9DF2;
+  --bright-cyan: #78DCE8;
+  --bright-white: #FDF9F3;
+
+  --foreground: #FDF9F3;
+  --background: #363537;
+
+
+}
+
+.Monokai_Pro Ristretto {
+  --black: #3E3838;
+  --red: #DF7484;
+  --green: #BBD87E;
+  --yellow: #EDCE73;
+  --blue: #DC9373;
+  --magenta: #A9AAE9;
+  --cyan: #A4D7CC;
+  --white: #FBF2F3;
+  --bright-black: #70696A;
+  --bright-red: #DF7484;
+  --bright-green: #BBD87E;
+  --bright-yellow: #EDCE73;
+  --bright-blue: #DC9373;
+  --bright-magenta: #A9AAE9;
+  --bright-cyan: #A4D7CC;
+  --bright-white: #FBF2F3;
+
+  --foreground: #FBF2F3;
+  --background: #3E3838;
+
+
+}
+
+.Monokai_Soda {
+  --black: #1A1A1A;
+  --red: #F4005F;
+  --green: #98E024;
+  --yellow: #FA8419;
+  --blue: #9D65FF;
+  --magenta: #F4005F;
+  --cyan: #58D1EB;
+  --white: #C4C5B5;
+  --bright-black: #625E4C;
+  --bright-red: #F4005F;
+  --bright-green: #98E024;
+  --bright-yellow: #E0D561;
+  --bright-blue: #9D65FF;
+  --bright-magenta: #F4005F;
+  --bright-cyan: #58D1EB;
+  --bright-white: #F6F6EF;
+
+  --foreground: #C4C5B5;
+  --background: #1A1A1A;
+
+
+}
+
+.Morada {
+  --black: #040404;
+  --red: #0F49C4;
+  --green: #48B117;
+  --yellow: #E87324;
+  --blue: #BC0116;
+  --magenta: #665B93;
+  --cyan: #70A699;
+  --white: #F5DCBE;
+  --bright-black: #4F7CBF;
+  --bright-red: #1C96C7;
+  --bright-green: #3BFF6F;
+  --bright-yellow: #EFC31C;
+  --bright-blue: #FB605B;
+  --bright-magenta: #975B5A;
+  --bright-cyan: #1EFF8E;
+  --bright-white: #F6F5FB;
+
+  --foreground: #FFFFFF;
+  --background: #211F46;
+
+
+}
+
+.N0Tch2K {
+  --black: #383838;
+  --red: #A95551;
+  --green: #666666;
+  --yellow: #A98051;
+  --blue: #657D3E;
+  --magenta: #767676;
+  --cyan: #C9C9C9;
+  --white: #D0B8A3;
+  --bright-black: #474747;
+  --bright-red: #A97775;
+  --bright-green: #8C8C8C;
+  --bright-yellow: #A99175;
+  --bright-blue: #98BD5E;
+  --bright-magenta: #A3A3A3;
+  --bright-cyan: #DCDCDC;
+  --bright-white: #D8C8BB;
+
+  --foreground: #A0A0A0;
+  --background: #222222;
+
+
+}
+
+.Neon_Night {
+  --black: #20242D;
+  --red: #FF8E8E;
+  --green: #7EFDD0;
+  --yellow: #FCAD3F;
+  --blue: #69B4F9;
+  --magenta: #DD92F6;
+  --cyan: #8CE8FF;
+  --white: #C9CCCD;
+  --bright-black: #20242D;
+  --bright-red: #FF8E8E;
+  --bright-green: #7EFDD0;
+  --bright-yellow: #FCAD3F;
+  --bright-blue: #69B4F9;
+  --bright-magenta: #DD92F6;
+  --bright-cyan: #8CE8FF;
+  --bright-white: #C9CCCD;
+
+  --foreground: #C7C8FF;
+  --background: #20242D;
+
+
+}
+
+.Neopolitan {
+  --black: #000000;
+  --red: #800000;
+  --green: #61CE3C;
+  --yellow: #FBDE2D;
+  --blue: #253B76;
+  --magenta: #FF0080;
+  --cyan: #8DA6CE;
+  --white: #F8F8F8;
+  --bright-black: #000000;
+  --bright-red: #800000;
+  --bright-green: #61CE3C;
+  --bright-yellow: #FBDE2D;
+  --bright-blue: #253B76;
+  --bright-magenta: #FF0080;
+  --bright-cyan: #8DA6CE;
+  --bright-white: #F8F8F8;
+
+  --foreground: #FFFFFF;
+  --background: #271F19;
+
+
+}
+
+.Nep {
+  --black: #000000;
+  --red: #DD6F00;
+  --green: #00DD6F;
+  --yellow: #6FDD00;
+  --blue: #6F00DD;
+  --magenta: #DD006F;
+  --cyan: #006FDD;
+  --white: #F2F2F2;
+  --bright-black: #7D7D7D;
+  --bright-red: #FFB974;
+  --bright-green: #74FFB9;
+  --bright-yellow: #B9FF74;
+  --bright-blue: #B974FF;
+  --bright-magenta: #FF74B9;
+  --bright-cyan: #74B9FF;
+  --bright-white: #FFFFFF;
+
+  --foreground: #23476A;
+  --background: #758480;
+
+
+}
+
+.Neutron {
+  --black: #23252B;
+  --red: #B54036;
+  --green: #5AB977;
+  --yellow: #DEB566;
+  --blue: #6A7C93;
+  --magenta: #A4799D;
+  --cyan: #3F94A8;
+  --white: #E6E8EF;
+  --bright-black: #23252B;
+  --bright-red: #B54036;
+  --bright-green: #5AB977;
+  --bright-yellow: #DEB566;
+  --bright-blue: #6A7C93;
+  --bright-magenta: #A4799D;
+  --bright-cyan: #3F94A8;
+  --bright-white: #EBEDF2;
+
+  --foreground: #E6E8EF;
+  --background: #1C1E22;
+
+
+}
+
+.Night_Owl {
+  --black: #011627;
+  --red: #EF5350;
+  --green: #22DA6E;
+  --yellow: #ADDB67;
+  --blue: #82AAFF;
+  --magenta: #C792EA;
+  --cyan: #21C7A8;
+  --white: #FFFFFF;
+  --bright-black: #575656;
+  --bright-red: #EF5350;
+  --bright-green: #22DA6E;
+  --bright-yellow: #FFEB95;
+  --bright-blue: #82AAFF;
+  --bright-magenta: #C792EA;
+  --bright-cyan: #7FDBCA;
+  --bright-white: #FFFFFF;
+
+  --foreground: #D6DEEB;
+  --background: #011627;
+
+
+}
+
+.Nightlion_V1 {
+  --black: #4C4C4C;
+  --red: #BB0000;
+  --green: #5FDE8F;
+  --yellow: #F3F167;
+  --blue: #276BD8;
+  --magenta: #BB00BB;
+  --cyan: #00DADF;
+  --white: #BBBBBB;
+  --bright-black: #555555;
+  --bright-red: #FF5555;
+  --bright-green: #55FF55;
+  --bright-yellow: #FFFF55;
+  --bright-blue: #5555FF;
+  --bright-magenta: #FF55FF;
+  --bright-cyan: #55FFFF;
+  --bright-white: #FFFFFF;
+
+  --foreground: #BBBBBB;
+  --background: #000000;
+
+
+}
+
+.Nightlion_V2 {
+  --black: #4C4C4C;
+  --red: #BB0000;
+  --green: #04F623;
+  --yellow: #F3F167;
+  --blue: #64D0F0;
+  --magenta: #CE6FDB;
+  --cyan: #00DADF;
+  --white: #BBBBBB;
+  --bright-black: #555555;
+  --bright-red: #FF5555;
+  --bright-green: #7DF71D;
+  --bright-yellow: #FFFF55;
+  --bright-blue: #62CBE8;
+  --bright-magenta: #FF9BF5;
+  --bright-cyan: #00CCD8;
+  --bright-white: #FFFFFF;
+
+  --foreground: #BBBBBB;
+  --background: #171717;
+
+
+}
+
+.Nighty {
+  --black: #373D48;
+  --red: #9B3E46;
+  --green: #095B32;
+  --yellow: #808020;
+  --blue: #1D3E6F;
+  --magenta: #823065;
+  --cyan: #3A7458;
+  --white: #828282;
+  --bright-black: #5C6370;
+  --bright-red: #D0555F;
+  --bright-green: #119955;
+  --bright-yellow: #DFE048;
+  --bright-blue: #4674B8;
+  --bright-magenta: #ED86C9;
+  --bright-cyan: #70D2A4;
+  --bright-white: #DFDFDF;
+
+  --foreground: #DFDFDF;
+  --background: #2F2F2F;
+
+
+}
+
+.Nord {
+  --black: #3B4252;
+  --red: #BF616A;
+  --green: #A3BE8C;
+  --yellow: #EBCB8B;
+  --blue: #81A1C1;
+  --magenta: #B48EAD;
+  --cyan: #88C0D0;
+  --white: #E5E9F0;
+  --bright-black: #4C566A;
+  --bright-red: #BF616A;
+  --bright-green: #A3BE8C;
+  --bright-yellow: #EBCB8B;
+  --bright-blue: #81A1C1;
+  --bright-magenta: #B48EAD;
+  --bright-cyan: #8FBCBB;
+  --bright-white: #ECEFF4;
+
+  --foreground: #D8DEE9;
+  --background: #2E3440;
+
+
+}
+
+.Nord_Light {
+  --black: #003B4E;
+  --red: #E64569;
+  --green: #069F5F;
+  --yellow: #DAB752;
+  --blue: #439ECF;
+  --magenta: #D961DC;
+  --cyan: #00B1BE;
+  --white: #B3B3B3;
+  --bright-black: #3E89A1;
+  --bright-red: #E4859A;
+  --bright-green: #A2CCA1;
+  --bright-yellow: #E1E387;
+  --bright-blue: #6FBBE2;
+  --bright-magenta: #E586E7;
+  --bright-cyan: #96DCDA;
+  --bright-white: #DEDEDE;
+
+  --foreground: #004F7C;
+  --background: #EBEAF2;
+
+
+}
+
+.Novel {
+  --black: #000000;
+  --red: #CC0000;
+  --green: #009600;
+  --yellow: #D06B00;
+  --blue: #0000CC;
+  --magenta: #CC00CC;
+  --cyan: #0087CC;
+  --white: #CCCCCC;
+  --bright-black: #808080;
+  --bright-red: #CC0000;
+  --bright-green: #009600;
+  --bright-yellow: #D06B00;
+  --bright-blue: #0000CC;
+  --bright-magenta: #CC00CC;
+  --bright-cyan: #0087CC;
+  --bright-white: #FFFFFF;
+
+  --foreground: #3B2322;
+  --background: #DFDBC3;
+
+
+}
+
+.Obsidian {
+  --black: #000000;
+  --red: #A60001;
+  --green: #00BB00;
+  --yellow: #FECD22;
+  --blue: #3A9BDB;
+  --magenta: #BB00BB;
+  --cyan: #00BBBB;
+  --white: #BBBBBB;
+  --bright-black: #555555;
+  --bright-red: #FF0003;
+  --bright-green: #93C863;
+  --bright-yellow: #FEF874;
+  --bright-blue: #A1D7FF;
+  --bright-magenta: #FF55FF;
+  --bright-cyan: #55FFFF;
+  --bright-white: #FFFFFF;
+
+  --foreground: #CDCDCD;
+  --background: #283033;
+
+
+}
+
+.Ocean_Dark {
+  --black: #4F4F4F;
+  --red: #AF4B57;
+  --green: #AFD383;
+  --yellow: #E5C079;
+  --blue: #7D90A4;
+  --magenta: #A4799D;
+  --cyan: #85A6A5;
+  --white: #EEEDEE;
+  --bright-black: #7B7B7B;
+  --bright-red: #AF4B57;
+  --bright-green: #CEFFAB;
+  --bright-yellow: #FFFECC;
+  --bright-blue: #B5DCFE;
+  --bright-magenta: #FB9BFE;
+  --bright-cyan: #DFDFFD;
+  --bright-white: #FEFFFE;
+
+  --foreground: #979CAC;
+  --background: #1C1F27;
+
+
+}
+
+.Oceanic_Next {
+  --black: #121C21;
+  --red: #E44754;
+  --green: #89BD82;
+  --yellow: #F7BD51;
+  --blue: #5486C0;
+  --magenta: #B77EB8;
+  --cyan: #50A5A4;
+  --white: #FFFFFF;
+  --bright-black: #52606B;
+  --bright-red: #E44754;
+  --bright-green: #89BD82;
+  --bright-yellow: #F7BD51;
+  --bright-blue: #5486C0;
+  --bright-magenta: #B77EB8;
+  --bright-cyan: #50A5A4;
+  --bright-white: #FFFFFF;
+
+  --foreground: #B3B8C3;
+  --background: #121B21;
+
+
+}
+
+.Ollie {
+  --black: #000000;
+  --red: #AC2E31;
+  --green: #31AC61;
+  --yellow: #AC4300;
+  --blue: #2D57AC;
+  --magenta: #B08528;
+  --cyan: #1FA6AC;
+  --white: #8A8EAC;
+  --bright-black: #5B3725;
+  --bright-red: #FF3D48;
+  --bright-green: #3BFF99;
+  --bright-yellow: #FF5E1E;
+  --bright-blue: #4488FF;
+  --bright-magenta: #FFC21D;
+  --bright-cyan: #1FFAFF;
+  --bright-white: #5B6EA7;
+
+  --foreground: #8A8DAE;
+  --background: #222125;
+
+
+}
+
+.Omni {
+  --black: #191622;
+  --red: #E96379;
+  --green: #67E480;
+  --yellow: #E89E64;
+  --blue: #78D1E1;
+  --magenta: #988BC7;
+  --cyan: #FF79C6;
+  --white: #ABB2BF;
+  --bright-black: #000000;
+  --bright-red: #E96379;
+  --bright-green: #67E480;
+  --bright-yellow: #E89E64;
+  --bright-blue: #78D1E1;
+  --bright-magenta: #988BC7;
+  --bright-cyan: #FF79C6;
+  --bright-white: #FFFFFF;
+
+  --foreground: #ABB2BF;
+  --background: #191622;
+
+
+}
+
+.One_Dark {
+  --black: #000000;
+  --red: #E06C75;
+  --green: #98C379;
+  --yellow: #D19A66;
+  --blue: #61AFEF;
+  --magenta: #C678DD;
+  --cyan: #56B6C2;
+  --white: #ABB2BF;
+  --bright-black: #5C6370;
+  --bright-red: #E06C75;
+  --bright-green: #98C379;
+  --bright-yellow: #D19A66;
+  --bright-blue: #61AFEF;
+  --bright-magenta: #C678DD;
+  --bright-cyan: #56B6C2;
+  --bright-white: #FFFEFE;
+
+  --foreground: #5C6370;
+  --background: #1E2127;
+
+
+}
+
+.One-Half __black {
+  --black: #282C34;
+  --red: #E06C75;
+  --green: #98C379;
+  --yellow: #E5C07B;
+  --blue: #61AFEF;
+  --magenta: #C678DD;
+  --cyan: #56B6C2;
+  --white: #DCDFE4;
+  --bright-black: #282C34;
+  --bright-red: #E06C75;
+  --bright-green: #98C379;
+  --bright-yellow: #E5C07B;
+  --bright-blue: #61AFEF;
+  --bright-magenta: #C678DD;
+  --bright-cyan: #56B6C2;
+  --bright-white: #DCDFE4;
+
+  --foreground: #DCDFE4;
+  --background: #000000;
+
+
+}
+
+.One_Light {
+  --black: #000000;
+  --red: #DA3E39;
+  --green: #41933E;
+  --yellow: #855504;
+  --blue: #315EEE;
+  --magenta: #930092;
+  --cyan: #0E6FAD;
+  --white: #8E8F96;
+  --bright-black: #2A2B32;
+  --bright-red: #DA3E39;
+  --bright-green: #41933E;
+  --bright-yellow: #855504;
+  --bright-blue: #315EEE;
+  --bright-magenta: #930092;
+  --bright-cyan: #0E6FAD;
+  --bright-white: #FFFEFE;
+
+  --foreground: #2A2B32;
+  --background: #F8F8F8;
+
+
+}
+
+.Palenight {
+  --black: #292D3E;
+  --red: #F07178;
+  --green: #C3E88D;
+  --yellow: #FFCB6B;
+  --blue: #82AAFF;
+  --magenta: #C792EA;
+  --cyan: #60ADEC;
+  --white: #ABB2BF;
+  --bright-black: #959DCB;
+  --bright-red: #F07178;
+  --bright-green: #C3E88D;
+  --bright-yellow: #FF5572;
+  --bright-blue: #82AAFF;
+  --bright-magenta: #FFCB6B;
+  --bright-cyan: #676E95;
+  --bright-white: #FFFEFE;
+
+  --foreground: #BFC7D5;
+  --background: #292D3E;
+
+
+}
+
+.Pali {
+  --black: #0A0A0A;
+  --red: #AB8F74;
+  --green: #74AB8F;
+  --yellow: #8FAB74;
+  --blue: #8F74AB;
+  --magenta: #AB748F;
+  --cyan: #748FAB;
+  --white: #F2F2F2;
+  --bright-black: #5D5D5D;
+  --bright-red: #FF1D62;
+  --bright-green: #9CC3AF;
+  --bright-yellow: #FFD00A;
+  --bright-blue: #AF9CC3;
+  --bright-magenta: #FF1D62;
+  --bright-cyan: #4BB8FD;
+  --bright-white: #A020F0;
+
+  --foreground: #D9E6F2;
+  --background: #232E37;
+
+
+}
+
+.Panda {
+  --black: #1F1F20;
+  --red: #FB055A;
+  --green: #26FFD4;
+  --yellow: #FDAA5A;
+  --blue: #5C9FFF;
+  --magenta: #FC59A6;
+  --cyan: #26FFD4;
+  --white: #F0F0F0;
+  --bright-black: #5C6370;
+  --bright-red: #FB055A;
+  --bright-green: #26FFD4;
+  --bright-yellow: #FEBE7E;
+  --bright-blue: #55ADFF;
+  --bright-magenta: #FD95D0;
+  --bright-cyan: #26FFD4;
+  --bright-white: #F0F0F0;
+
+  --foreground: #F0F0F0;
+  --background: #1D1E20;
+
+
+}
+
+.Papercolor_Dark {
+  --black: #1C1C1C;
+  --red: #AF005F;
+  --green: #5FAF00;
+  --yellow: #D7AF5F;
+  --blue: #5FAFD7;
+  --magenta: #808080;
+  --cyan: #D7875F;
+  --white: #D0D0D0;
+  --bright-black: #585858;
+  --bright-red: #5FAF5F;
+  --bright-green: #AFD700;
+  --bright-yellow: #AF87D7;
+  --bright-blue: #FFAF00;
+  --bright-magenta: #FF5FAF;
+  --bright-cyan: #00AFAF;
+  --bright-white: #5F8787;
+
+  --foreground: #D0D0D0;
+  --background: #1C1C1C;
+
+
+}
+
+.Papercolor_Light {
+  --black: #EEEEEE;
+  --red: #AF0000;
+  --green: #008700;
+  --yellow: #5F8700;
+  --blue: #0087AF;
+  --magenta: #878787;
+  --cyan: #005F87;
+  --white: #444444;
+  --bright-black: #BCBCBC;
+  --bright-red: #D70000;
+  --bright-green: #D70087;
+  --bright-yellow: #8700AF;
+  --bright-blue: #D75F00;
+  --bright-magenta: #D75F00;
+  --bright-cyan: #005FAF;
+  --bright-white: #005F87;
+
+  --foreground: #444444;
+  --background: #EEEEEE;
+
+
+}
+
+.Paraiso_Dark {
+  --black: #2F1E2E;
+  --red: #EF6155;
+  --green: #48B685;
+  --yellow: #FEC418;
+  --blue: #06B6EF;
+  --magenta: #815BA4;
+  --cyan: #5BC4BF;
+  --white: #A39E9B;
+  --bright-black: #776E71;
+  --bright-red: #EF6155;
+  --bright-green: #48B685;
+  --bright-yellow: #FEC418;
+  --bright-blue: #06B6EF;
+  --bright-magenta: #815BA4;
+  --bright-cyan: #5BC4BF;
+  --bright-white: #E7E9DB;
+
+  --foreground: #A39E9B;
+  --background: #2F1E2E;
+
+
+}
+
+.Paul_Millr {
+  --black: #2A2A2A;
+  --red: #FF0000;
+  --green: #79FF0F;
+  --yellow: #D3BF00;
+  --blue: #396BD7;
+  --magenta: #B449BE;
+  --cyan: #66CCFF;
+  --white: #BBBBBB;
+  --bright-black: #666666;
+  --bright-red: #FF0080;
+  --bright-green: #66FF66;
+  --bright-yellow: #F3D64E;
+  --bright-blue: #709AED;
+  --bright-magenta: #DB67E6;
+  --bright-cyan: #7ADFF2;
+  --bright-white: #FFFFFF;
+
+  --foreground: #F2F2F2;
+  --background: #000000;
+
+
+}
+
+.Pencil_Dark {
+  --black: #212121;
+  --red: #C30771;
+  --green: #10A778;
+  --yellow: #A89C14;
+  --blue: #008EC4;
+  --magenta: #523C79;
+  --cyan: #20A5BA;
+  --white: #D9D9D9;
+  --bright-black: #424242;
+  --bright-red: #FB007A;
+  --bright-green: #5FD7AF;
+  --bright-yellow: #F3E430;
+  --bright-blue: #20BBFC;
+  --bright-magenta: #6855DE;
+  --bright-cyan: #4FB8CC;
+  --bright-white: #F1F1F1;
+
+  --foreground: #F1F1F1;
+  --background: #212121;
+
+
+}
+
+.Pencil_Light {
+  --black: #212121;
+  --red: #C30771;
+  --green: #10A778;
+  --yellow: #A89C14;
+  --blue: #008EC4;
+  --magenta: #523C79;
+  --cyan: #20A5BA;
+  --white: #D9D9D9;
+  --bright-black: #424242;
+  --bright-red: #FB007A;
+  --bright-green: #5FD7AF;
+  --bright-yellow: #F3E430;
+  --bright-blue: #20BBFC;
+  --bright-magenta: #6855DE;
+  --bright-cyan: #4FB8CC;
+  --bright-white: #F1F1F1;
+
+  --foreground: #424242;
+  --background: #F1F1F1;
+
+
+}
+
+.Peppermint {
+  --black: #353535;
+  --red: #E64569;
+  --green: #89D287;
+  --yellow: #DAB752;
+  --blue: #439ECF;
+  --magenta: #D961DC;
+  --cyan: #64AAAF;
+  --white: #B3B3B3;
+  --bright-black: #535353;
+  --bright-red: #E4859A;
+  --bright-green: #A2CCA1;
+  --bright-yellow: #E1E387;
+  --bright-blue: #6FBBE2;
+  --bright-magenta: #E586E7;
+  --bright-cyan: #96DCDA;
+  --bright-white: #DEDEDE;
+
+  --foreground: #C7C7C7;
+  --background: #000000;
+
+
+}
+
+.Pixiefloss {
+  --black: #2F2942;
+  --red: #FF857F;
+  --green: #48B685;
+  --yellow: #E6C000;
+  --blue: #AE81FF;
+  --magenta: #EF6155;
+  --cyan: #C2FFDF;
+  --white: #F8F8F2;
+  --bright-black: #75507B;
+  --bright-red: #F1568E;
+  --bright-green: #5ADBA2;
+  --bright-yellow: #D5A425;
+  --bright-blue: #C5A3FF;
+  --bright-magenta: #EF6155;
+  --bright-cyan: #C2FFFF;
+  --bright-white: #F8F8F0;
+
+  --foreground: #D1CAE8;
+  --background: #241F33;
+
+
+}
+
+.Pnevma {
+  --black: #2F2E2D;
+  --red: #A36666;
+  --green: #90A57D;
+  --yellow: #D7AF87;
+  --blue: #7FA5BD;
+  --magenta: #C79EC4;
+  --cyan: #8ADBB4;
+  --white: #D0D0D0;
+  --bright-black: #4A4845;
+  --bright-red: #D78787;
+  --bright-green: #AFBEA2;
+  --bright-yellow: #E4C9AF;
+  --bright-blue: #A1BDCE;
+  --bright-magenta: #D7BEDA;
+  --bright-cyan: #B1E7DD;
+  --bright-white: #EFEFEF;
+
+  --foreground: #D0D0D0;
+  --background: #1C1C1C;
+
+
+}
+
+.Powershell {
+  --black: #000000;
+  --red: #7E0008;
+  --green: #098003;
+  --yellow: #C4A000;
+  --blue: #010083;
+  --magenta: #D33682;
+  --cyan: #0E807F;
+  --white: #7F7C7F;
+  --bright-black: #808080;
+  --bright-red: #EF2929;
+  --bright-green: #1CFE3C;
+  --bright-yellow: #FEFE45;
+  --bright-blue: #268AD2;
+  --bright-magenta: #FE13FA;
+  --bright-cyan: #29FFFE;
+  --bright-white: #C2C1C3;
+
+  --foreground: #F6F6F7;
+  --background: #052454;
+
+
+}
+
+.P__redawn {
+  --black: #F18260;
+  --red: #B51A20;
+  --green: #A6CC75;
+  --yellow: #FED33A;
+  --blue: #81B2B1;
+  --magenta: #EB6C4E;
+  --cyan: #81B2B1;
+  --white: #EAEAEA;
+  --bright-black: #666666;
+  --bright-red: #FF000B;
+  --bright-green: #C4EE94;
+  --bright-yellow: #E8E06D;
+  --bright-blue: #A5EBEA;
+  --bright-magenta: #EF8A50;
+  --bright-cyan: #A5EBEA;
+  --bright-white: #FFFFFF;
+
+  --foreground: #F1F1F1;
+  --background: #282828;
+
+
+}
+
+.Pro {
+  --black: #000000;
+  --red: #990000;
+  --green: #00A600;
+  --yellow: #999900;
+  --blue: #2009DB;
+  --magenta: #B200B2;
+  --cyan: #00A6B2;
+  --white: #BFBFBF;
+  --bright-black: #666666;
+  --bright-red: #E50000;
+  --bright-green: #00D900;
+  --bright-yellow: #E5E500;
+  --bright-blue: #0000FF;
+  --bright-magenta: #E500E5;
+  --bright-cyan: #00E5E5;
+  --bright-white: #E5E5E5;
+
+  --foreground: #F2F2F2;
+  --background: #000000;
+
+
+}
+
+.Purple_People Eater {
+  --black: #0D1117;
+  --red: #E34C26;
+  --green: #238636;
+  --yellow: #ED9A51;
+  --blue: #A5D6FF;
+  --magenta: #6EB0E8;
+  --cyan: #C09AEB;
+  --white: #C9D1D9;
+  --bright-black: #0D1117;
+  --bright-red: #FF7B72;
+  --bright-green: #3BAB4A;
+  --bright-yellow: #FFA657;
+  --bright-blue: #A5D6FF;
+  --bright-magenta: #79C0FF;
+  --bright-cyan: #B694DF;
+  --bright-white: #C9D1D9;
+
+  --foreground: #C9D1D9;
+  --background: #161B22;
+
+
+}
+
+.-_red_Alert {
+  --black: #000000;
+  --red: #D62E4E;
+  --green: #71BE6B;
+  --yellow: #BEB86B;
+  --blue: #489BEE;
+  --magenta: #E979D7;
+  --cyan: #6BBEB8;
+  --white: #D6D6D6;
+  --bright-black: #262626;
+  --bright-red: #E02553;
+  --bright-green: #AFF08C;
+  --bright-yellow: #DFDDB7;
+  --bright-blue: #65AAF1;
+  --bright-magenta: #DDB7DF;
+  --bright-cyan: #B7DFDD;
+  --bright-white: #FFFFFF;
+
+  --foreground: #FFFFFF;
+  --background: #762423;
+
+
+}
+
+.-_red_Sands {
+  --black: #000000;
+  --red: #FF3F00;
+  --green: #00BB00;
+  --yellow: #E7B000;
+  --blue: #0072FF;
+  --magenta: #BB00BB;
+  --cyan: #00BBBB;
+  --white: #BBBBBB;
+  --bright-black: #555555;
+  --bright-red: #BB0000;
+  --bright-green: #00BB00;
+  --bright-yellow: #E7B000;
+  --bright-blue: #0072AE;
+  --bright-magenta: #FF55FF;
+  --bright-cyan: #55FFFF;
+  --bright-white: #FFFFFF;
+
+  --foreground: #D7C9A7;
+  --background: #7A251E;
+
+
+}
+
+.Relaxed {
+  --black: #151515;
+  --red: #BC5653;
+  --green: #909D63;
+  --yellow: #EBC17A;
+  --blue: #6A8799;
+  --magenta: #B06698;
+  --cyan: #C9DFFF;
+  --white: #D9D9D9;
+  --bright-black: #636363;
+  --bright-red: #BC5653;
+  --bright-green: #A0AC77;
+  --bright-yellow: #EBC17A;
+  --bright-blue: #7EAAC7;
+  --bright-magenta: #B06698;
+  --bright-cyan: #ACBBD0;
+  --bright-white: #F7F7F7;
+
+  --foreground: #D9D9D9;
+  --background: #353A44;
+
+
+}
+
+.Rippedcasts {
+  --black: #000000;
+  --red: #CDAF95;
+  --green: #A8FF60;
+  --yellow: #BFBB1F;
+  --blue: #75A5B0;
+  --magenta: #FF73FD;
+  --cyan: #5A647E;
+  --white: #BFBFBF;
+  --bright-black: #666666;
+  --bright-red: #EECBAD;
+  --bright-green: #BCEE68;
+  --bright-yellow: #E5E500;
+  --bright-blue: #86BDC9;
+  --bright-magenta: #E500E5;
+  --bright-cyan: #8C9BC4;
+  --bright-white: #E5E5E5;
+
+  --foreground: #FFFFFF;
+  --background: #2B2B2B;
+
+
+}
+
+.Ros\u00e9_Pine {
+  --black: #26233A;
+  --red: #EB6F92;
+  --green: #9CCFD8;
+  --yellow: #F6C177;
+  --blue: #31748F;
+  --magenta: #C4A7E7;
+  --cyan: #EBBCBA;
+  --white: #E0DEF4;
+  --bright-black: #6E6A86;
+  --bright-red: #EB6F92;
+  --bright-green: #9CCFD8;
+  --bright-yellow: #F6C177;
+  --bright-blue: #31748F;
+  --bright-magenta: #C4A7E7;
+  --bright-cyan: #EBBCBA;
+  --bright-white: #E0DEF4;
+
+  --foreground: #E0DEF4;
+  --background: #191724;
+
+
+}
+
+.Ros\u00e9_Pine Dawn {
+  --black: #F2E9E1;
+  --red: #B4637A;
+  --green: #56949F;
+  --yellow: #EA9D34;
+  --blue: #286983;
+  --magenta: #907AA9;
+  --cyan: #D7827E;
+  --white: #575279;
+  --bright-black: #9893A5;
+  --bright-red: #B4637A;
+  --bright-green: #56949F;
+  --bright-yellow: #EA9D34;
+  --bright-blue: #286983;
+  --bright-magenta: #907AA9;
+  --bright-cyan: #D7827E;
+  --bright-white: #575279;
+
+  --foreground: #575279;
+  --background: #FAF4ED;
+
+
+}
+
+.Ros\u00e9_Pine Moon {
+  --black: #393552;
+  --red: #EB6F92;
+  --green: #9CCFD8;
+  --yellow: #F6C177;
+  --blue: #3E8FB0;
+  --magenta: #C4A7E7;
+  --cyan: #EA9A97;
+  --white: #E0DEF4;
+  --bright-black: #6E6A86;
+  --bright-red: #EB6F92;
+  --bright-green: #9CCFD8;
+  --bright-yellow: #F6C177;
+  --bright-blue: #3E8FB0;
+  --bright-magenta: #C4A7E7;
+  --bright-cyan: #EA9A97;
+  --bright-white: #E0DEF4;
+
+  --foreground: #E0DEF4;
+  --background: #232136;
+
+
+}
+
+.Royal {
+  --black: #241F2B;
+  --red: #91284C;
+  --green: #23801C;
+  --yellow: #B49D27;
+  --blue: #6580B0;
+  --magenta: #674D96;
+  --cyan: #8AAABE;
+  --white: #524966;
+  --bright-black: #312D3D;
+  --bright-red: #D5356C;
+  --bright-green: #2CD946;
+  --bright-yellow: #FDE83B;
+  --bright-blue: #90BAF9;
+  --bright-magenta: #A479E3;
+  --bright-cyan: #ACD4EB;
+  --bright-white: #9E8CBD;
+
+  --foreground: #514968;
+  --background: #100815;
+
+
+}
+
+.Sat {
+  --black: #000000;
+  --red: #DD0007;
+  --green: #07DD00;
+  --yellow: #DDD600;
+  --blue: #0007DD;
+  --magenta: #D600DD;
+  --cyan: #00DDD6;
+  --white: #F2F2F2;
+  --bright-black: #7D7D7D;
+  --bright-red: #FF7478;
+  --bright-green: #78FF74;
+  --bright-yellow: #FFFA74;
+  --bright-blue: #7478FF;
+  --bright-magenta: #FA74FF;
+  --bright-cyan: #74FFFA;
+  --bright-white: #FFFFFF;
+
+  --foreground: #23476A;
+  --background: #758480;
+
+
+}
+
+.Sea_Shells {
+  --black: #17384C;
+  --red: #D15123;
+  --green: #027C9B;
+  --yellow: #FCA02F;
+  --blue: #1E4950;
+  --magenta: #68D4F1;
+  --cyan: #50A3B5;
+  --white: #DEB88D;
+  --bright-black: #434B53;
+  --bright-red: #D48678;
+  --bright-green: #628D98;
+  --bright-yellow: #FDD39F;
+  --bright-blue: #1BBCDD;
+  --bright-magenta: #BBE3EE;
+  --bright-cyan: #87ACB4;
+  --bright-white: #FEE4CE;
+
+  --foreground: #DEB88D;
+  --background: #09141B;
+
+
+}
+
+.Seafoam_Pastel {
+  --black: #757575;
+  --red: #825D4D;
+  --green: #728C62;
+  --yellow: #ADA16D;
+  --blue: #4D7B82;
+  --magenta: #8A7267;
+  --cyan: #729494;
+  --white: #E0E0E0;
+  --bright-black: #8A8A8A;
+  --bright-red: #CF937A;
+  --bright-green: #98D9AA;
+  --bright-yellow: #FAE79D;
+  --bright-blue: #7AC3CF;
+  --bright-magenta: #D6B2A1;
+  --bright-cyan: #ADE0E0;
+  --bright-white: #E0E0E0;
+
+  --foreground: #D4E7D4;
+  --background: #243435;
+
+
+}
+
+.Seti {
+  --black: #323232;
+  --red: #C22832;
+  --green: #8EC43D;
+  --yellow: #E0C64F;
+  --blue: #43A5D5;
+  --magenta: #8B57B5;
+  --cyan: #8EC43D;
+  --white: #EEEEEE;
+  --bright-black: #323232;
+  --bright-red: #C22832;
+  --bright-green: #8EC43D;
+  --bright-yellow: #E0C64F;
+  --bright-blue: #43A5D5;
+  --bright-magenta: #8B57B5;
+  --bright-cyan: #8EC43D;
+  --bright-white: #FFFFFF;
+
+  --foreground: #CACECD;
+  --background: #111213;
+
+
+}
+
+.Shaman {
+  --black: #012026;
+  --red: #B2302D;
+  --green: #00A941;
+  --yellow: #5E8BAA;
+  --blue: #449A86;
+  --magenta: #00599D;
+  --cyan: #5D7E19;
+  --white: #405555;
+  --bright-black: #384451;
+  --bright-red: #FF4242;
+  --bright-green: #2AEA5E;
+  --bright-yellow: #8ED4FD;
+  --bright-blue: #61D5BA;
+  --bright-magenta: #1298FF;
+  --bright-cyan: #98D028;
+  --bright-white: #58FBD6;
+
+  --foreground: #405555;
+  --background: #001015;
+
+
+}
+
+.Shel {
+  --black: #2C2423;
+  --red: #AB2463;
+  --green: #6CA323;
+  --yellow: #AB6423;
+  --blue: #2C64A2;
+  --magenta: #6C24A2;
+  --cyan: #2CA363;
+  --white: #918988;
+  --bright-black: #918988;
+  --bright-red: #F588B9;
+  --bright-green: #C2EE86;
+  --bright-yellow: #F5BA86;
+  --bright-blue: #8FBAEC;
+  --bright-magenta: #C288EC;
+  --bright-cyan: #8FEEB9;
+  --bright-white: #F5EEEC;
+
+  --foreground: #4882CD;
+  --background: #2A201F;
+
+
+}
+
+.Slate {
+  --black: #222222;
+  --red: #E2A8BF;
+  --green: #81D778;
+  --yellow: #C4C9C0;
+  --blue: #264B49;
+  --magenta: #A481D3;
+  --cyan: #15AB9C;
+  --white: #02C5E0;
+  --bright-black: #FFFFFF;
+  --bright-red: #FFCDD9;
+  --bright-green: #BEFFA8;
+  --bright-yellow: #D0CCCA;
+  --bright-blue: #7AB0D2;
+  --bright-magenta: #C5A7D9;
+  --bright-cyan: #8CDFE0;
+  --bright-white: #E0E0E0;
+
+  --foreground: #35B1D2;
+  --background: #222222;
+
+
+}
+
+.Smyck {
+  --black: #000000;
+  --red: #C75646;
+  --green: #8EB33B;
+  --yellow: #D0B03C;
+  --blue: #72B3CC;
+  --magenta: #C8A0D1;
+  --cyan: #218693;
+  --white: #B0B0B0;
+  --bright-black: #5D5D5D;
+  --bright-red: #E09690;
+  --bright-green: #CDEE69;
+  --bright-yellow: #FFE377;
+  --bright-blue: #9CD9F0;
+  --bright-magenta: #FBB1F9;
+  --bright-cyan: #77DFD8;
+  --bright-white: #F7F7F7;
+
+  --foreground: #F7F7F7;
+  --background: #242424;
+
+
+}
+
+.Snazzy {
+  --black: #282A36;
+  --red: #FF5C57;
+  --green: #5AF78E;
+  --yellow: #F3F99D;
+  --blue: #57C7FF;
+  --magenta: #FF6AC1;
+  --cyan: #9AEDFE;
+  --white: #F1F1F0;
+  --bright-black: #686868;
+  --bright-red: #FF5C57;
+  --bright-green: #5AF78E;
+  --bright-yellow: #F3F99D;
+  --bright-blue: #57C7FF;
+  --bright-magenta: #FF6AC1;
+  --bright-cyan: #9AEDFE;
+  --bright-white: #EFF0EB;
+
+  --foreground: #EFF0EB;
+  --background: #282A36;
+
+
+}
+
+.Soft_Server {
+  --black: #000000;
+  --red: #A2686A;
+  --green: #9AA56A;
+  --yellow: #A3906A;
+  --blue: #6B8FA3;
+  --magenta: #6A71A3;
+  --cyan: #6BA58F;
+  --white: #99A3A2;
+  --bright-black: #666C6C;
+  --bright-red: #DD5C60;
+  --bright-green: #BFDF55;
+  --bright-yellow: #DEB360;
+  --bright-blue: #62B1DF;
+  --bright-magenta: #606EDF;
+  --bright-cyan: #64E39C;
+  --bright-white: #D2E0DE;
+
+  --foreground: #99A3A2;
+  --background: #242626;
+
+
+}
+
+.Solarized_Darcula {
+  --black: #25292A;
+  --red: #F24840;
+  --green: #629655;
+  --yellow: #B68800;
+  --blue: #2075C7;
+  --magenta: #797FD4;
+  --cyan: #15968D;
+  --white: #D2D8D9;
+  --bright-black: #25292A;
+  --bright-red: #F24840;
+  --bright-green: #629655;
+  --bright-yellow: #B68800;
+  --bright-blue: #2075C7;
+  --bright-magenta: #797FD4;
+  --bright-cyan: #15968D;
+  --bright-white: #D2D8D9;
+
+  --foreground: #D2D8D9;
+  --background: #3D3F41;
+
+
+}
+
+.Solarized_Dark {
+  --black: #073642;
+  --red: #DC322F;
+  --green: #859900;
+  --yellow: #CF9A6B;
+  --blue: #268BD2;
+  --magenta: #D33682;
+  --cyan: #2AA198;
+  --white: #EEE8D5;
+  --bright-black: #657B83;
+  --bright-red: #D87979;
+  --bright-green: #88CF76;
+  --bright-yellow: #657B83;
+  --bright-blue: #2699FF;
+  --bright-magenta: #D33682;
+  --bright-cyan: #43B8C3;
+  --bright-white: #FDF6E3;
+
+  --foreground: #839496;
+  --background: #002B36;
+
+
+}
+
+.Solarized_Dark Higher Contrast {
+  --black: #002831;
+  --red: #D11C24;
+  --green: #6CBE6C;
+  --yellow: #A57706;
+  --blue: #2176C7;
+  --magenta: #C61C6F;
+  --cyan: #259286;
+  --white: #EAE3CB;
+  --bright-black: #006488;
+  --bright-red: #F5163B;
+  --bright-green: #51EF84;
+  --bright-yellow: #B27E28;
+  --bright-blue: #178EC8;
+  --bright-magenta: #E24D8E;
+  --bright-cyan: #00B39E;
+  --bright-white: #FCF4DC;
+
+  --foreground: #9CC2C3;
+  --background: #001E27;
+
+
+}
+
+.Solarized_Light {
+  --black: #073642;
+  --red: #DC322F;
+  --green: #859900;
+  --yellow: #B58900;
+  --blue: #268BD2;
+  --magenta: #D33682;
+  --cyan: #2AA198;
+  --white: #EEE8D5;
+  --bright-black: #002B36;
+  --bright-red: #CB4B16;
+  --bright-green: #586E75;
+  --bright-yellow: #657B83;
+  --bright-blue: #839496;
+  --bright-magenta: #6C71C4;
+  --bright-cyan: #93A1A1;
+  --bright-white: #FDF6E3;
+
+  --foreground: #657B83;
+  --background: #FDF6E3;
+
+
+}
+
+.Sonokai {
+  --black: #2C2E34;
+  --red: #FC5D7C;
+  --green: #9ED072;
+  --yellow: #E7C664;
+  --blue: #F39660;
+  --magenta: #B39DF3;
+  --cyan: #76CCE0;
+  --white: #E2E2E3;
+  --bright-black: #7F8490;
+  --bright-red: #FC5D7C;
+  --bright-green: #9ED072;
+  --bright-yellow: #E7C664;
+  --bright-blue: #F39660;
+  --bright-magenta: #B39DF3;
+  --bright-cyan: #76CCE0;
+  --bright-white: #E2E2E3;
+
+  --foreground: #E2E2E3;
+  --background: #2C2E34;
+
+
+}
+
+.Spacedust {
+  --black: #6E5346;
+  --red: #E35B00;
+  --green: #5CAB96;
+  --yellow: #E3CD7B;
+  --blue: #0F548B;
+  --magenta: #E35B00;
+  --cyan: #06AFC7;
+  --white: #F0F1CE;
+  --bright-black: #684C31;
+  --bright-red: #FF8A3A;
+  --bright-green: #AECAB8;
+  --bright-yellow: #FFC878;
+  --bright-blue: #67A0CE;
+  --bright-magenta: #FF8A3A;
+  --bright-cyan: #83A7B4;
+  --bright-white: #FEFFF1;
+
+  --foreground: #ECF0C1;
+  --background: #0A1E24;
+
+
+}
+
+.Spacegray {
+  --black: #000000;
+  --red: #B04B57;
+  --green: #87B379;
+  --yellow: #E5C179;
+  --blue: #7D8FA4;
+  --magenta: #A47996;
+  --cyan: #85A7A5;
+  --white: #B3B8C3;
+  --bright-black: #000000;
+  --bright-red: #B04B57;
+  --bright-green: #87B379;
+  --bright-yellow: #E5C179;
+  --bright-blue: #7D8FA4;
+  --bright-magenta: #A47996;
+  --bright-cyan: #85A7A5;
+  --bright-white: #FFFFFF;
+
+  --foreground: #B3B8C3;
+  --background: #20242D;
+
+
+}
+
+.Spacegray_Eighties {
+  --black: #15171C;
+  --red: #EC5F67;
+  --green: #81A764;
+  --yellow: #FEC254;
+  --blue: #5486C0;
+  --magenta: #BF83C1;
+  --cyan: #57C2C1;
+  --white: #EFECE7;
+  --bright-black: #555555;
+  --bright-red: #FF6973;
+  --bright-green: #93D493;
+  --bright-yellow: #FFD256;
+  --bright-blue: #4D84D1;
+  --bright-magenta: #FF55FF;
+  --bright-cyan: #83E9E4;
+  --bright-white: #FFFFFF;
+
+  --foreground: #BDBAAE;
+  --background: #222222;
+
+
+}
+
+.Spacegray_Eighties Dull {
+  --black: #15171C;
+  --red: #B24A56;
+  --green: #92B477;
+  --yellow: #C6735A;
+  --blue: #7C8FA5;
+  --magenta: #A5789E;
+  --cyan: #80CDCB;
+  --white: #B3B8C3;
+  --bright-black: #555555;
+  --bright-red: #EC5F67;
+  --bright-green: #89E986;
+  --bright-yellow: #FEC254;
+  --bright-blue: #5486C0;
+  --bright-magenta: #BF83C1;
+  --bright-cyan: #58C2C1;
+  --bright-white: #FFFFFF;
+
+  --foreground: #C9C6BC;
+  --background: #222222;
+
+
+}
+
+.Spring {
+  --black: #000000;
+  --red: #FF4D83;
+  --green: #1F8C3B;
+  --yellow: #1FC95B;
+  --blue: #1DD3EE;
+  --magenta: #8959A8;
+  --cyan: #3E999F;
+  --white: #FFFFFF;
+  --bright-black: #000000;
+  --bright-red: #FF0021;
+  --bright-green: #1FC231;
+  --bright-yellow: #D5B807;
+  --bright-blue: #15A9FD;
+  --bright-magenta: #8959A8;
+  --bright-cyan: #3E999F;
+  --bright-white: #FFFFFF;
+
+  --foreground: #ECF0C1;
+  --background: #0A1E24;
+
+
+}
+
+.Square {
+  --black: #050505;
+  --red: #E9897C;
+  --green: #B6377D;
+  --yellow: #ECEBBE;
+  --blue: #A9CDEB;
+  --magenta: #75507B;
+  --cyan: #C9CAEC;
+  --white: #F2F2F2;
+  --bright-black: #141414;
+  --bright-red: #F99286;
+  --bright-green: #C3F786;
+  --bright-yellow: #FCFBCC;
+  --bright-blue: #B6DEFB;
+  --bright-magenta: #AD7FA8;
+  --bright-cyan: #D7D9FC;
+  --bright-white: #E2E2E2;
+
+  --foreground: #A1A1A1;
+  --background: #0A1E24;
+
+
+}
+
+.Srcery {
+  --black: #1C1B19;
+  --red: #EF2F27;
+  --green: #519F50;
+  --yellow: #FBB829;
+  --blue: #2C78BF;
+  --magenta: #E02C6D;
+  --cyan: #0AAEB3;
+  --white: #BAA67F;
+  --bright-black: #918175;
+  --bright-red: #F75341;
+  --bright-green: #98BC37;
+  --bright-yellow: #FED06E;
+  --bright-blue: #68A8E4;
+  --bright-magenta: #FF5C8F;
+  --bright-cyan: #2BE4D0;
+  --bright-white: #FCE8C3;
+
+  --foreground: #FCE8C3;
+  --background: #1C1B19;
+
+
+}
+
+.Summer_Pop {
+  --black: #666666;
+  --red: #FF1E8E;
+  --green: #8EFF1E;
+  --yellow: #FFFB00;
+  --blue: #1E8EFF;
+  --magenta: #E500E5;
+  --cyan: #00E5E5;
+  --white: #E5E5E5;
+  --bright-black: #666666;
+  --bright-red: #FF1E8E;
+  --bright-green: #8EFF1E;
+  --bright-yellow: #FFFB00;
+  --bright-blue: #1E8EFF;
+  --bright-magenta: #E500E5;
+  --bright-cyan: #00E5E5;
+  --bright-white: #E5E5E5;
+
+  --foreground: #FFFFFF;
+  --background: #272822;
+
+
+}
+
+.Sundried {
+  --black: #302B2A;
+  --red: #A7463D;
+  --green: #587744;
+  --yellow: #9D602A;
+  --blue: #485B98;
+  --magenta: #864651;
+  --cyan: #9C814F;
+  --white: #C9C9C9;
+  --bright-black: #4D4E48;
+  --bright-red: #AA000C;
+  --bright-green: #128C21;
+  --bright-yellow: #FC6A21;
+  --bright-blue: #7999F7;
+  --bright-magenta: #FD8AA1;
+  --bright-cyan: #FAD484;
+  --bright-white: #FFFFFF;
+
+  --foreground: #C9C9C9;
+  --background: #1A1818;
+
+
+}
+
+.Sweet_Eliverlara {
+  --black: #282C34;
+  --red: #ED254E;
+  --green: #71F79F;
+  --yellow: #F9DC5C;
+  --blue: #7CB7FF;
+  --magenta: #C74DED;
+  --cyan: #00C1E4;
+  --white: #DCDFE4;
+  --bright-black: #282C34;
+  --bright-red: #ED254E;
+  --bright-green: #71F79F;
+  --bright-yellow: #F9DC5C;
+  --bright-blue: #7CB7FF;
+  --bright-magenta: #C74DED;
+  --bright-cyan: #00C1E4;
+  --bright-white: #DCDFE4;
+
+  --foreground: #C3C7D1;
+  --background: #282C34;
+
+
+}
+
+.Sweet_Terminal {
+  --black: #3F3F54;
+  --red: #F60055;
+  --green: #06C993;
+  --yellow: #9700BE;
+  --blue: #F69154;
+  --magenta: #EC89CB;
+  --cyan: #60ADEC;
+  --white: #ABB2BF;
+  --bright-black: #959DCB;
+  --bright-red: #F60055;
+  --bright-green: #06C993;
+  --bright-yellow: #9700BE;
+  --bright-blue: #F69154;
+  --bright-magenta: #EC89CB;
+  --bright-cyan: #00DDED;
+  --bright-white: #FFFFFF;
+
+  --foreground: #FFFFFF;
+  --background: #222235;
+
+
+}
+
+.Symphonic {
+  --black: #000000;
+  --red: #DC322F;
+  --green: #56DB3A;
+  --yellow: #FF8400;
+  --blue: #0084D4;
+  --magenta: #B729D9;
+  --cyan: #CCCCFF;
+  --white: #FFFFFF;
+  --bright-black: #1B1D21;
+  --bright-red: #DC322F;
+  --bright-green: #56DB3A;
+  --bright-yellow: #FF8400;
+  --bright-blue: #0084D4;
+  --bright-magenta: #B729D9;
+  --bright-cyan: #CCCCFF;
+  --bright-white: #FFFFFF;
+
+  --foreground: #FFFFFF;
+  --background: #000000;
+
+
+}
+
+.Synthwave {
+  --black: #011627;
+  --red: #FE4450;
+  --green: #72F1B8;
+  --yellow: #FEDE5D;
+  --blue: #03EDF9;
+  --magenta: #FF7EDB;
+  --cyan: #03EDF9;
+  --white: #FFFFFF;
+  --bright-black: #575656;
+  --bright-red: #FE4450;
+  --bright-green: #72F1B8;
+  --bright-yellow: #FEDE5D;
+  --bright-blue: #03EDF9;
+  --bright-magenta: #FF7EDB;
+  --bright-cyan: #03EDF9;
+  --bright-white: #FFFFFF;
+
+  --foreground: #FFFFFF;
+  --background: #262335;
+
+
+}
+
+.Synthwave_Alpha {
+  --black: #241B30;
+  --red: #9A0048;
+  --green: #00986C;
+  --yellow: #ADAD3E;
+  --blue: #6E29AD;
+  --magenta: #B300AD;
+  --cyan: #00B0B1;
+  --white: #B9B1BC;
+  --bright-black: #7F7094;
+  --bright-red: #E60A70;
+  --bright-green: #0AE4A4;
+  --bright-yellow: #F9F972;
+  --bright-blue: #AA54F9;
+  --bright-magenta: #FF00F6;
+  --bright-cyan: #00FBFD;
+  --bright-white: #F2F2E3;
+
+  --foreground: #F2F2E3;
+  --background: #241B30;
+
+
+}
+
+.Teerb {
+  --black: #1C1C1C;
+  --red: #D68686;
+  --green: #AED686;
+  --yellow: #D7AF87;
+  --blue: #86AED6;
+  --magenta: #D6AED6;
+  --cyan: #8ADBB4;
+  --white: #D0D0D0;
+  --bright-black: #1C1C1C;
+  --bright-red: #D68686;
+  --bright-green: #AED686;
+  --bright-yellow: #E4C9AF;
+  --bright-blue: #86AED6;
+  --bright-magenta: #D6AED6;
+  --bright-cyan: #B1E7DD;
+  --bright-white: #EFEFEF;
+
+  --foreground: #D0D0D0;
+  --background: #262626;
+
+
+}
+
+.Tender {
+  --black: #1D1D1D;
+  --red: #C5152F;
+  --green: #C9D05C;
+  --yellow: #FFC24B;
+  --blue: #B3DEEF;
+  --magenta: #D3B987;
+  --cyan: #73CEF4;
+  --white: #EEEEEE;
+  --bright-black: #323232;
+  --bright-red: #F43753;
+  --bright-green: #D9E066;
+  --bright-yellow: #FACC72;
+  --bright-blue: #C0EAFB;
+  --bright-magenta: #EFD093;
+  --bright-cyan: #A1D6EC;
+  --bright-white: #FFFFFF;
+
+  --foreground: #EEEEEE;
+  --background: #282828;
+
+
+}
+
+.Terminix_Dark {
+  --black: #282A2E;
+  --red: #A54242;
+  --green: #A1B56C;
+  --yellow: #DE935F;
+  --blue: #225555;
+  --magenta: #85678F;
+  --cyan: #5E8D87;
+  --white: #777777;
+  --bright-black: #373B41;
+  --bright-red: #C63535;
+  --bright-green: #608360;
+  --bright-yellow: #FA805A;
+  --bright-blue: #449DA1;
+  --bright-magenta: #BA8BAF;
+  --bright-cyan: #86C1B9;
+  --bright-white: #C5C8C6;
+
+  --foreground: #868A8C;
+  --background: #091116;
+
+
+}
+
+.Thayer_Bright {
+  --black: #1B1D1E;
+  --red: #F92672;
+  --green: #4DF840;
+  --yellow: #F4FD22;
+  --blue: #2757D6;
+  --magenta: #8C54FE;
+  --cyan: #38C8B5;
+  --white: #CCCCC6;
+  --bright-black: #505354;
+  --bright-red: #FF5995;
+  --bright-green: #B6E354;
+  --bright-yellow: #FEED6C;
+  --bright-blue: #3F78FF;
+  --bright-magenta: #9E6FFE;
+  --bright-cyan: #23CFD5;
+  --bright-white: #F8F8F2;
+
+  --foreground: #F8F8F8;
+  --background: #1B1D1E;
+
+
+}
+
+.Tin {
+  --black: #000000;
+  --red: #8D534E;
+  --green: #4E8D53;
+  --yellow: #888D4E;
+  --blue: #534E8D;
+  --magenta: #8D4E88;
+  --cyan: #4E888D;
+  --white: #FFFFFF;
+  --bright-black: #000000;
+  --bright-red: #B57D78;
+  --bright-green: #78B57D;
+  --bright-yellow: #B0B578;
+  --bright-blue: #7D78B5;
+  --bright-magenta: #B578B0;
+  --bright-cyan: #78B0B5;
+  --bright-white: #FFFFFF;
+
+  --foreground: #FFFFFF;
+  --background: #2E2E35;
+
+
+}
+
+.Tokyo_Night {
+  --black: #414868;
+  --red: #F7768E;
+  --green: #9ECE6A;
+  --yellow: #E0AF68;
+  --blue: #7AA2F7;
+  --magenta: #BB9AF7;
+  --cyan: #7DCFFF;
+  --white: #A9B1D6;
+  --bright-black: #414868;
+  --bright-red: #F7768E;
+  --bright-green: #9ECE6A;
+  --bright-yellow: #E0AF68;
+  --bright-blue: #7AA2F7;
+  --bright-magenta: #BB9AF7;
+  --bright-cyan: #7DCFFF;
+  --bright-white: #C0CAF5;
+
+  --foreground: #C0CAF5;
+  --background: #1A1B26;
+
+
+}
+
+.Tokyo_Night_Light {
+  --black: #0F0F14;
+  --red: #8C4351;
+  --green: #485E30;
+  --yellow: #8F5E15;
+  --blue: #34548A;
+  --magenta: #5A4A78;
+  --cyan: #0F4B6E;
+  --white: #343B58;
+  --bright-black: #9699A3;
+  --bright-red: #8C4351;
+  --bright-green: #485E30;
+  --bright-yellow: #8F5E15;
+  --bright-blue: #34548A;
+  --bright-magenta: #5A4A78;
+  --bright-cyan: #0F4B6E;
+  --bright-white: #343B58;
+
+  --foreground: #565A6E;
+  --background: #D5D6DB;
+
+
+}
+
+.Tokyo_Night_Storm {
+  --black: #414868;
+  --red: #F7768E;
+  --green: #9ECE6A;
+  --yellow: #E0AF68;
+  --blue: #7AA2F7;
+  --magenta: #BB9AF7;
+  --cyan: #7DCFFF;
+  --white: #C0CAF5;
+  --bright-black: #414868;
+  --bright-red: #F7768E;
+  --bright-green: #9ECE6A;
+  --bright-yellow: #E0AF68;
+  --bright-blue: #7AA2F7;
+  --bright-magenta: #BB9AF7;
+  --bright-cyan: #7DCFFF;
+  --bright-white: #C0CAF5;
+
+  --foreground: #C0CAF5;
+  --background: #24283B;
+
+
+}
+
+.Tomorrow {
+  --black: #000000;
+  --red: #C82828;
+  --green: #718C00;
+  --yellow: #EAB700;
+  --blue: #4171AE;
+  --magenta: #8959A8;
+  --cyan: #3E999F;
+  --white: #FFFEFE;
+  --bright-black: #000000;
+  --bright-red: #C82828;
+  --bright-green: #708B00;
+  --bright-yellow: #E9B600;
+  --bright-blue: #4170AE;
+  --bright-magenta: #8958A7;
+  --bright-cyan: #3D999F;
+  --bright-white: #FFFEFE;
+
+  --foreground: #4D4D4C;
+  --background: #FFFFFF;
+
+
+}
+
+.Tomorrow_Night {
+  --black: #000000;
+  --red: #CC6666;
+  --green: #B5BD68;
+  --yellow: #F0C674;
+  --blue: #81A2BE;
+  --magenta: #B293BB;
+  --cyan: #8ABEB7;
+  --white: #FFFEFE;
+  --bright-black: #000000;
+  --bright-red: #CC6666;
+  --bright-green: #B5BD68;
+  --bright-yellow: #F0C574;
+  --bright-blue: #80A1BD;
+  --bright-magenta: #B294BA;
+  --bright-cyan: #8ABDB6;
+  --bright-white: #FFFEFE;
+
+  --foreground: #C5C8C6;
+  --background: #1D1F21;
+
+
+}
+
+.Tomorrow_Night_Blue {
+  --black: #000000;
+  --red: #FF9DA3;
+  --green: #D1F1A9;
+  --yellow: #FFEEAD;
+  --blue: #BBDAFF;
+  --magenta: #EBBBFF;
+  --cyan: #99FFFF;
+  --white: #FFFEFE;
+  --bright-black: #000000;
+  --bright-red: #FF9CA3;
+  --bright-green: #D0F0A8;
+  --bright-yellow: #FFEDAC;
+  --bright-blue: #BADAFF;
+  --bright-magenta: #EBBAFF;
+  --bright-cyan: #99FFFF;
+  --bright-white: #FFFEFE;
+
+  --foreground: #FFFEFE;
+  --background: #002451;
+
+
+}
+
+.Tomorrow_Night_Bright {
+  --black: #000000;
+  --red: #D54E53;
+  --green: #B9CA49;
+  --yellow: #E7C547;
+  --blue: #79A6DA;
+  --magenta: #C397D8;
+  --cyan: #70C0B1;
+  --white: #FFFEFE;
+  --bright-black: #000000;
+  --bright-red: #D44D53;
+  --bright-green: #B9C949;
+  --bright-yellow: #E6C446;
+  --bright-blue: #79A6DA;
+  --bright-magenta: #C396D7;
+  --bright-cyan: #70C0B1;
+  --bright-white: #FFFEFE;
+
+  --foreground: #E9E9E9;
+  --background: #000000;
+
+
+}
+
+.Tomorrow_Night_Eighties {
+  --black: #000000;
+  --red: #F27779;
+  --green: #99CC99;
+  --yellow: #FFCC66;
+  --blue: #6699CC;
+  --magenta: #CC99CC;
+  --cyan: #66CCCC;
+  --white: #FFFEFE;
+  --bright-black: #000000;
+  --bright-red: #F17779;
+  --bright-green: #99CC99;
+  --bright-yellow: #FFCC66;
+  --bright-blue: #6699CC;
+  --bright-magenta: #CC99CC;
+  --bright-cyan: #66CCCC;
+  --bright-white: #FFFEFE;
+
+  --foreground: #CCCCCC;
+  --background: #2C2C2C;
+
+
+}
+
+.Toy_Chest {
+  --black: #2C3F58;
+  --red: #BE2D26;
+  --green: #1A9172;
+  --yellow: #DB8E27;
+  --blue: #325D96;
+  --magenta: #8A5EDC;
+  --cyan: #35A08F;
+  --white: #23D183;
+  --bright-black: #336889;
+  --bright-red: #DD5944;
+  --bright-green: #31D07B;
+  --bright-yellow: #E7D84B;
+  --bright-blue: #34A6DA;
+  --bright-magenta: #AE6BDC;
+  --bright-cyan: #42C3AE;
+  --bright-white: #D5D5D5;
+
+  --foreground: #31D07B;
+  --background: #24364B;
+
+
+}
+
+.Treehouse {
+  --black: #321300;
+  --red: #B2270E;
+  --green: #44A900;
+  --yellow: #AA820C;
+  --blue: #58859A;
+  --magenta: #97363D;
+  --cyan: #B25A1E;
+  --white: #786B53;
+  --bright-black: #433626;
+  --bright-red: #ED5D20;
+  --bright-green: #55F238;
+  --bright-yellow: #F2B732;
+  --bright-blue: #85CFED;
+  --bright-magenta: #E14C5A;
+  --bright-cyan: #F07D14;
+  --bright-white: #FFC800;
+
+  --foreground: #786B53;
+  --background: #191919;
+
+
+}
+
+.Twilight {
+  --black: #141414;
+  --red: #C06D44;
+  --green: #AFB97A;
+  --yellow: #C2A86C;
+  --blue: #44474A;
+  --magenta: #B4BE7C;
+  --cyan: #778385;
+  --white: #FFFFD4;
+  --bright-black: #262626;
+  --bright-red: #DE7C4C;
+  --bright-green: #CCD88C;
+  --bright-yellow: #E2C47E;
+  --bright-blue: #5A5E62;
+  --bright-magenta: #D0DC8E;
+  --bright-cyan: #8A989B;
+  --bright-white: #FFFFD4;
+
+  --foreground: #FFFFD4;
+  --background: #141414;
+
+
+}
+
+.Ura {
+  --black: #000000;
+  --red: #C21B6F;
+  --green: #6FC21B;
+  --yellow: #C26F1B;
+  --blue: #1B6FC2;
+  --magenta: #6F1BC2;
+  --cyan: #1BC26F;
+  --white: #808080;
+  --bright-black: #808080;
+  --bright-red: #EE84B9;
+  --bright-green: #B9EE84;
+  --bright-yellow: #EEB984;
+  --bright-blue: #84B9EE;
+  --bright-magenta: #B984EE;
+  --bright-cyan: #84EEB9;
+  --bright-white: #E5E5E5;
+
+  --foreground: #23476A;
+  --background: #FEFFEE;
+
+
+}
+
+.Urple {
+  --black: #000000;
+  --red: #B0425B;
+  --green: #37A415;
+  --yellow: #AD5C42;
+  --blue: #564D9B;
+  --magenta: #6C3CA1;
+  --cyan: #808080;
+  --white: #87799C;
+  --bright-black: #5D3225;
+  --bright-red: #FF6388;
+  --bright-green: #29E620;
+  --bright-yellow: #F08161;
+  --bright-blue: #867AED;
+  --bright-magenta: #A05EEE;
+  --bright-cyan: #EAEAEA;
+  --bright-white: #BFA3FF;
+
+  --foreground: #877A9B;
+  --background: #1B1B23;
+
+
+}
+
+.Vag {
+  --black: #303030;
+  --red: #A87139;
+  --green: #39A871;
+  --yellow: #71A839;
+  --blue: #7139A8;
+  --magenta: #A83971;
+  --cyan: #3971A8;
+  --white: #8A8A8A;
+  --bright-black: #494949;
+  --bright-red: #B0763B;
+  --bright-green: #3BB076;
+  --bright-yellow: #76B03B;
+  --bright-blue: #763BB0;
+  --bright-magenta: #B03B76;
+  --bright-cyan: #3B76B0;
+  --bright-white: #CFCFCF;
+
+  --foreground: #D9E6F2;
+  --background: #191F1D;
+
+
+}
+
+.Vaughn {
+  --black: #25234F;
+  --red: #705050;
+  --green: #60B48A;
+  --yellow: #DFAF8F;
+  --blue: #5555FF;
+  --magenta: #F08CC3;
+  --cyan: #8CD0D3;
+  --white: #709080;
+  --bright-black: #709080;
+  --bright-red: #DCA3A3;
+  --bright-green: #60B48A;
+  --bright-yellow: #F0DFAF;
+  --bright-blue: #5555FF;
+  --bright-magenta: #EC93D3;
+  --bright-cyan: #93E0E3;
+  --bright-white: #FFFFFF;
+
+  --foreground: #DCDCCC;
+  --background: #25234F;
+
+
+}
+
+.Vibrant_Ink {
+  --black: #878787;
+  --red: #FF6600;
+  --green: #CCFF04;
+  --yellow: #FFCC00;
+  --blue: #44B4CC;
+  --magenta: #9933CC;
+  --cyan: #44B4CC;
+  --white: #F5F5F5;
+  --bright-black: #555555;
+  --bright-red: #FF0000;
+  --bright-green: #00FF00;
+  --bright-yellow: #FFFF00;
+  --bright-blue: #0000FF;
+  --bright-magenta: #FF00FF;
+  --bright-cyan: #00FFFF;
+  --bright-white: #E5E5E5;
+
+  --foreground: #FFFFFF;
+  --background: #000000;
+
+
+}
+
+.Vs-Code_Dark_Plus {
+  --black: #6A787A;
+  --red: #E9653B;
+  --green: #39E9A8;
+  --yellow: #E5B684;
+  --blue: #44AAE6;
+  --magenta: #E17599;
+  --cyan: #3DD5E7;
+  --white: #C3DDE1;
+  --bright-black: #598489;
+  --bright-red: #E65029;
+  --bright-green: #00FF9A;
+  --bright-yellow: #E89440;
+  --bright-blue: #009AFB;
+  --bright-magenta: #FF578F;
+  --bright-cyan: #5FFFFF;
+  --bright-white: #D9FBFF;
+
+  --foreground: #CCCCCC;
+  --background: #1E1E1E;
+
+
+}
+
+.Vs-Code_Light_Plus {
+  --black: #020202;
+  --red: #CD3232;
+  --green: #00BC00;
+  --yellow: #A5A900;
+  --blue: #0752A8;
+  --magenta: #BC05BC;
+  --cyan: #0598BC;
+  --white: #343434;
+  --bright-black: #5E5E5E;
+  --bright-red: #CD3333;
+  --bright-green: #1BCE1A;
+  --bright-yellow: #ADBB5B;
+  --bright-blue: #0752A8;
+  --bright-magenta: #C451CE;
+  --bright-cyan: #52A8C7;
+  --bright-white: #A6A3A6;
+
+  --foreground: #020202;
+  --background: #F9F9F9;
+
+
+}
+
+.Warm_Neon {
+  --black: #000000;
+  --red: #E24346;
+  --green: #39B13A;
+  --yellow: #DAE145;
+  --blue: #4261C5;
+  --magenta: #F920FB;
+  --cyan: #2ABBD4;
+  --white: #D0B8A3;
+  --bright-black: #FEFCFC;
+  --bright-red: #E97071;
+  --bright-green: #9CC090;
+  --bright-yellow: #DDDA7A;
+  --bright-blue: #7B91D6;
+  --bright-magenta: #F674BA;
+  --bright-cyan: #5ED1E5;
+  --bright-white: #D8C8BB;
+
+  --foreground: #AFDAB6;
+  --background: #404040;
+
+
+}
+
+.Wez {
+  --black: #000000;
+  --red: #CC5555;
+  --green: #55CC55;
+  --yellow: #CDCD55;
+  --blue: #5555CC;
+  --magenta: #CC55CC;
+  --cyan: #7ACACA;
+  --white: #CCCCCC;
+  --bright-black: #555555;
+  --bright-red: #FF5555;
+  --bright-green: #55FF55;
+  --bright-yellow: #FFFF55;
+  --bright-blue: #5555FF;
+  --bright-magenta: #FF55FF;
+  --bright-cyan: #55FFFF;
+  --bright-white: #FFFFFF;
+
+  --foreground: #B3B3B3;
+  --background: #000000;
+
+
+}
+
+.Wild_Cherry {
+  --black: #000507;
+  --red: #D94085;
+  --green: #2AB250;
+  --yellow: #FFD16F;
+  --blue: #883CDC;
+  --magenta: #ECECEC;
+  --cyan: #C1B8B7;
+  --white: #FFF8DE;
+  --bright-black: #009CC9;
+  --bright-red: #DA6BAC;
+  --bright-green: #F4DCA5;
+  --bright-yellow: #EAC066;
+  --bright-blue: #308CBA;
+  --bright-magenta: #AE636B;
+  --bright-cyan: #FF919D;
+  --bright-white: #E4838D;
+
+  --foreground: #DAFAFF;
+  --background: #1F1726;
+
+
+}
+
+.Wombat {
+  --black: #000000;
+  --red: #FF615A;
+  --green: #B1E969;
+  --yellow: #EBD99C;
+  --blue: #5DA9F6;
+  --magenta: #E86AFF;
+  --cyan: #82FFF7;
+  --white: #DEDACF;
+  --bright-black: #313131;
+  --bright-red: #F58C80;
+  --bright-green: #DDF88F;
+  --bright-yellow: #EEE5B2;
+  --bright-blue: #A5C7FF;
+  --bright-magenta: #DDAAFF;
+  --bright-cyan: #B7FFF9;
+  --bright-white: #FFFFFF;
+
+  --foreground: #DEDACF;
+  --background: #171717;
+
+
+}
+
+.Wryan {
+  --black: #333333;
+  --red: #8C4665;
+  --green: #287373;
+  --yellow: #7C7C99;
+  --blue: #395573;
+  --magenta: #5E468C;
+  --cyan: #31658C;
+  --white: #899CA1;
+  --bright-black: #3D3D3D;
+  --bright-red: #BF4D80;
+  --bright-green: #53A6A6;
+  --bright-yellow: #9E9ECB;
+  --bright-blue: #477AB3;
+  --bright-magenta: #7E62B3;
+  --bright-cyan: #6096BF;
+  --bright-white: #C0C0C0;
+
+  --foreground: #999993;
+  --background: #101010;
+
+
+}
+
+.Wzoreck {
+  --black: #2E3436;
+  --red: #FC6386;
+  --green: #424043;
+  --yellow: #FCE94F;
+  --blue: #FB976B;
+  --magenta: #75507B;
+  --cyan: #34E2E2;
+  --white: #FFFFFF;
+  --bright-black: #989595;
+  --bright-red: #FC6386;
+  --bright-green: #A9DC76;
+  --bright-yellow: #FCE94F;
+  --bright-blue: #FB976B;
+  --bright-magenta: #AB9DF2;
+  --bright-cyan: #34E2E2;
+  --bright-white: #D1D1C0;
+
+  --foreground: #FCFCFA;
+  --background: #424043;
+
+
+}
+
+.Zenburn {
+  --black: #4D4D4D;
+  --red: #705050;
+  --green: #60B48A;
+  --yellow: #F0DFAF;
+  --blue: #506070;
+  --magenta: #DC8CC3;
+  --cyan: #8CD0D3;
+  --white: #DCDCCC;
+  --bright-black: #709080;
+  --bright-red: #DCA3A3;
+  --bright-green: #C3BF9F;
+  --bright-yellow: #E0CF9F;
+  --bright-blue: #94BFF3;
+  --bright-magenta: #EC93D3;
+  --bright-cyan: #93E0E3;
+  --bright-white: #FFFFFF;
+
+  --foreground: #DCDCCC;
+  --background: #3F3F3F;
+
+
+}

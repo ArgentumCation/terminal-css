@@ -1,0 +1,24 @@
+:root {
+  --base00: #010206;
+  --base05: #bfbfc0;
+  --base06: color-mix(in oklab, var(--base05), var(--base07));
+  --base02: color-mix(in oklab, var(--base01), var(--base03));
+
+  --base01: #0e1358;
+  --base08: #9b4271;
+  --base0A: #84686e;
+  --base0B: #6fa49e;
+  --base0D: #334774;
+  --base0E: #72546c;
+  --base0C: #2a97b1;
+  --base04: #808082;
+
+  --base03: #342f53;
+
+
+
+
+
+
+  --base07: #bfbfc0;
+}

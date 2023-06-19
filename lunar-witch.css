@@ -1,4 +1,4 @@
-:root {
+.lunar_witch {
   --background: #010206;
   --foreground: #bfbfc0;
 
@@ -11,7 +11,8 @@
   --cyan: #2a97b1;
   --white: #808082;
 
-  --bright-black: #342f53;
+  --bright-black: #50467c;
+  /*#342f53;*/
   --bright-red: #cf5997;
   --bright-yellow: #997087;
   --bright-green: #98db95;
