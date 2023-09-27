@@ -1,4 +1,4 @@
-.day_3024 {
+.theme_day_3024 {
   --black: #090300;
   --red: #DB2D20;
   --green: #01A252;
@@ -22,7 +22,7 @@
 
 }
 
-.night_3024 {
+.theme_night_3024 {
   --black: #090300;
   --red: #DB2D20;
   --green: #01A252;
@@ -46,7 +46,7 @@
 
 }
 
-.Aci {
+.theme_Aci {
   --black: #363636;
   --red: #FF0883;
   --green: #83FF08;
@@ -70,7 +70,7 @@
 
 }
 
-.Aco {
+.theme_Aco {
   --black: #3F3F3F;
   --red: #FF0883;
   --green: #83FF08;
@@ -94,7 +94,7 @@
 
 }
 
-.Adventure_Time {
+.theme_Adventure_Time {
   --black: #050404;
   --red: #BD0013;
   --green: #4AB118;
@@ -118,7 +118,7 @@
 
 }
 
-.Afterglow {
+.theme_Afterglow {
   --black: #151515;
   --red: #A53C23;
   --green: #7B9246;
@@ -142,7 +142,7 @@
 
 }
 
-.Alien_Blood {
+.theme_Alien_Blood {
   --black: #112616;
   --red: #7F2B27;
   --green: #2F7E25;
@@ -166,7 +166,7 @@
 
 }
 
-.Argonaut {
+.theme_Argonaut {
   --black: #232323;
   --red: #FF000F;
   --green: #8CE10B;
@@ -190,7 +190,7 @@
 
 }
 
-.Arthur {
+.theme_Arthur {
   --black: #3D352A;
   --red: #CD5C5C;
   --green: #86AF80;
@@ -214,7 +214,7 @@
 
 }
 
-.Atom {
+.theme_Atom {
   --black: #000000;
   --red: #FD5FF1;
   --green: #87C38A;
@@ -238,7 +238,7 @@
 
 }
 
-.Aura {
+.theme_Aura {
   --black: #110F18;
   --red: #FF6767;
   --green: #61FFCA;
@@ -262,7 +262,7 @@
 
 }
 
-.Ayu_Dark {
+.theme_Ayu_Dark {
   --black: #0A0E14;
   --red: #FF3333;
   --green: #C2D94C;
@@ -286,7 +286,7 @@
 
 }
 
-.Ayu_Light {
+.theme_Ayu_Light {
   --black: #575F66;
   --red: #F51818;
   --green: #86B300;
@@ -310,7 +310,7 @@
 
 }
 
-.Ayu_Mirage {
+.theme_Ayu_Mirage {
   --black: #1F2430;
   --red: #FF3333;
   --green: #BAE67E;
@@ -334,7 +334,7 @@
 
 }
 
-.Azu {
+.theme_Azu {
   --black: #000000;
   --red: #AC6D74;
   --green: #74AC6D;
@@ -358,7 +358,7 @@
 
 }
 
-.Belafonte_Day {
+.theme_Belafonte_Day {
   --black: #20111B;
   --red: #BE100E;
   --green: #858162;
@@ -382,7 +382,7 @@
 
 }
 
-.Belafonte_Night {
+.theme_Belafonte_Night {
   --black: #20111B;
   --red: #BE100E;
   --green: #858162;
@@ -406,7 +406,7 @@
 
 }
 
-.Bim {
+.theme_Bim {
   --black: #2C2423;
   --red: #F557A0;
   --green: #A9EE55;
@@ -430,7 +430,7 @@
 
 }
 
-.Birds_Of_Paradise {
+.theme_Birds_Of_Paradise {
   --black: #573D26;
   --red: #BE2D26;
   --green: #6BA18A;
@@ -454,7 +454,7 @@
 
 }
 
-.Blazer {
+.theme_Blazer {
   --black: #000000;
   --red: #B87A7A;
   --green: #7AB87A;
@@ -478,7 +478,7 @@
 
 }
 
-.Bluloco_Light {
+.theme_Bluloco_Light {
   --black: #D5D6DD;
   --red: #D52753;
   --green: #23974A;
@@ -502,7 +502,7 @@
 
 }
 
-.Bluloco_Zsh_Light {
+.theme_Bluloco_Zsh_Light {
   --black: #E4E5F1;
   --red: #D52753;
   --green: #23974A;
@@ -526,7 +526,7 @@
 
 }
 
-.Borland {
+.theme_Borland {
   --black: #4F4F4F;
   --red: #FF6C60;
   --green: #A8FF60;
@@ -550,7 +550,7 @@
 
 }
 
-.Breath {
+.theme_Breath {
   --black: #1E2229;
   --red: #ED1515;
   --green: #44853A;
@@ -574,7 +574,7 @@
 
 }
 
-.Breath_Darker {
+.theme_Breath_Darker {
   --black: #1E2229;
   --red: #ED1515;
   --green: #44853A;
@@ -598,7 +598,7 @@
 
 }
 
-.Breath_Light {
+.theme_Breath_Light {
   --black: #E8E8E8;
   --red: #ED1515;
   --green: #C0392B;
@@ -622,7 +622,7 @@
 
 }
 
-.Breath_Silverfox {
+.theme_Breath_Silverfox {
   --black: #1E2229;
   --red: #ED1515;
   --green: #44853A;
@@ -646,7 +646,7 @@
 
 }
 
-.Breeze {
+.theme_Breeze {
   --black: #232627;
   --red: #ED1515;
   --green: #11D116;
@@ -670,7 +670,7 @@
 
 }
 
-.Broadcast {
+.theme_Broadcast {
   --black: #000000;
   --red: #DA4939;
   --green: #519F50;
@@ -694,7 +694,7 @@
 
 }
 
-.Brogrammer {
+.theme_Brogrammer {
   --black: #1F1F1F;
   --red: #F81118;
   --green: #2DC55E;
@@ -718,7 +718,7 @@
 
 }
 
-.C64 {
+.theme_C64 {
   --black: #090300;
   --red: #883932;
   --green: #55A049;
@@ -742,7 +742,7 @@
 
 }
 
-.Cai {
+.theme_Cai {
   --black: #000000;
   --red: #CA274D;
   --green: #4DCA27;
@@ -766,7 +766,7 @@
 
 }
 
-.Catppuccin_Frappe {
+.theme_Catppuccin_Frappe {
   --black: #51576D;
   --red: #E78284;
   --green: #A6D189;
@@ -791,7 +791,7 @@
 }
 
 
-.Catppuccin_Latte {
+.theme_Catppuccin_Latte {
   --black: #5C5F77;
   --red: #D20F39;
   --green: #40A02B;
@@ -816,7 +816,7 @@
 
 }
 
-.Catppuccin_Macchiato {
+.theme_Catppuccin_Macchiato {
   --black: #494D64;
   --red: #ED8796;
   --green: #A6DA95;
@@ -840,7 +840,7 @@
 
 }
 
-.Catppuccin_Mocha {
+.theme_Catppuccin_Mocha {
   --black: #45475A;
   --red: #F38BA8;
   --green: #A6E3A1;
@@ -864,7 +864,7 @@
 
 }
 
-.Chalk {
+.theme_Chalk {
   --black: #646464;
   --red: #F58E8E;
   --green: #A9D3AB;
@@ -888,7 +888,7 @@
 
 }
 
-.Chalkboard {
+.theme_Chalkboard {
   --black: #000000;
   --red: #C37372;
   --green: #72C373;
@@ -912,7 +912,7 @@
 
 }
 
-.Chameleon {
+.theme_Chameleon {
   --black: #2C2C2C;
   --red: #CC231C;
   --green: #689D69;
@@ -936,7 +936,7 @@
 
 }
 
-.Ciapre {
+.theme_Ciapre {
   --black: #181818;
   --red: #810009;
   --green: #48513B;
@@ -960,7 +960,7 @@
 
 }
 
-.Clone_Of Ubuntu {
+.theme_Clone_Of Ubuntu {
   --black: #2E3436;
   --red: #CC0000;
   --green: #4E9A06;
@@ -984,7 +984,7 @@
 
 }
 
-.Clrs {
+.theme_Clrs {
   --black: #000000;
   --red: #F8282A;
   --green: #328A5D;
@@ -1008,7 +1008,7 @@
 
 }
 
-.Cobalt_2 {
+.theme_Cobalt_2 {
   --black: #000000;
   --red: #FF0000;
   --green: #38DE21;
@@ -1032,7 +1032,7 @@
 
 }
 
-.Cobalt_Neon {
+.theme_Cobalt_Neon {
   --black: #142631;
   --red: #FF2320;
   --green: #3BA5FF;
@@ -1056,7 +1056,7 @@
 
 }
 
-.Colorcli {
+.theme_Colorcli {
   --black: #000000;
   --red: #D70000;
   --green: #5FAF00;
@@ -1080,7 +1080,7 @@
 
 }
 
-.Crayon_Pony Fish {
+.theme_Crayon_Pony Fish {
   --black: #2B1B1D;
   --red: #91002B;
   --green: #579524;
@@ -1104,7 +1104,7 @@
 
 }
 
-.Dark_Pastel {
+.theme_Dark_Pastel {
   --black: #000000;
   --red: #FF5555;
   --green: #55FF55;
@@ -1128,7 +1128,7 @@
 
 }
 
-.Darkside {
+.theme_Darkside {
   --black: #000000;
   --red: #E8341C;
   --green: #68C256;
@@ -1152,7 +1152,7 @@
 
 }
 
-.Dehydration {
+.theme_Dehydration {
   --black: #333333;
   --red: #FF5555;
   --green: #5FD38D;
@@ -1176,7 +1176,7 @@
 
 }
 
-.Desert {
+.theme_Desert {
   --black: #4D4D4D;
   --red: #FF2B2B;
   --green: #98FB98;
@@ -1200,7 +1200,7 @@
 
 }
 
-.Dimmed_Monokai {
+.theme_Dimmed_Monokai {
   --black: #3A3D43;
   --red: #BE3F48;
   --green: #879A3B;
@@ -1224,7 +1224,7 @@
 
 }
 
-.Dissonance {
+.theme_Dissonance {
   --black: #000000;
   --red: #DC322F;
   --green: #56DB3A;
@@ -1248,7 +1248,7 @@
 
 }
 
-.Dracula {
+.theme_Dracula {
   --black: #44475A;
   --red: #FF5555;
   --green: #50FA7B;
@@ -1272,7 +1272,7 @@
 
 }
 
-.Earthsong {
+.theme_Earthsong {
   --black: #121418;
   --red: #C94234;
   --green: #85C54C;
@@ -1296,7 +1296,7 @@
 
 }
 
-.Elemental {
+.theme_Elemental {
   --black: #3C3C30;
   --red: #98290F;
   --green: #479A43;
@@ -1320,7 +1320,7 @@
 
 }
 
-.Elementary {
+.theme_Elementary {
   --black: #303030;
   --red: #E1321A;
   --green: #6AB017;
@@ -1344,7 +1344,7 @@
 
 }
 
-.Elic {
+.theme_Elic {
   --black: #303030;
   --red: #E1321A;
   --green: #6AB017;
@@ -1368,7 +1368,7 @@
 
 }
 
-.Elio {
+.theme_Elio {
   --black: #303030;
   --red: #E1321A;
   --green: #6AB017;
@@ -1392,7 +1392,7 @@
 
 }
 
-.Espresso {
+.theme_Espresso {
   --black: #353535;
   --red: #D25252;
   --green: #A5C261;
@@ -1416,7 +1416,7 @@
 
 }
 
-.Espresso_Libre {
+.theme_Espresso_Libre {
   --black: #000000;
   --red: #CC0000;
   --green: #1A921C;
@@ -1440,7 +1440,7 @@
 
 }
 
-.Everblush {
+.theme_Everblush {
   --black: #232A2D;
   --red: #E57474;
   --green: #8CCF7E;
@@ -1464,7 +1464,7 @@
 
 }
 
-.Everforest_Dark {
+.theme_Everforest_Dark {
   --black: #4B565C;
   --red: #E67E80;
   --green: #A7C080;
@@ -1488,7 +1488,7 @@
 
 }
 
-.Everforest_Light {
+.theme_Everforest_Light {
   --black: #5C6A72;
   --red: #F85552;
   --green: #8DA101;
@@ -1512,7 +1512,7 @@
 
 }
 
-.Fairy_Floss {
+.theme_Fairy_Floss {
   --black: #42395D;
   --red: #A8757B;
   --green: #FF857F;
@@ -1536,7 +1536,7 @@
 
 }
 
-.Fairy_Floss Dark {
+.theme_Fairy_Floss Dark {
   --black: #42395D;
   --red: #A8757B;
   --green: #FF857F;
@@ -1560,7 +1560,7 @@
 
 }
 
-.Fishtank {
+.theme_Fishtank {
   --black: #03073C;
   --red: #C6004A;
   --green: #ACF157;
@@ -1584,7 +1584,7 @@
 
 }
 
-.Flat {
+.theme_Flat {
   --black: #2C3E50;
   --red: #C0392B;
   --green: #27AE60;
@@ -1608,7 +1608,7 @@
 
 }
 
-.Flat_Remix {
+.theme_Flat_Remix {
   --black: #1F2229;
   --red: #D41919;
   --green: #5EBDAB;
@@ -1632,7 +1632,7 @@
 
 }
 
-.Flatland {
+.theme_Flatland {
   --black: #1D1D19;
   --red: #F18339;
   --green: #9FD364;
@@ -1656,7 +1656,7 @@
 
 }
 
-.Foxnightly {
+.theme_Foxnightly {
   --black: #2A2A2E;
   --red: #B98EFF;
   --green: #FF7DE9;
@@ -1680,7 +1680,7 @@
 
 }
 
-.Freya {
+.theme_Freya {
   --black: #073642;
   --red: #DC322F;
   --green: #859900;
@@ -1704,7 +1704,7 @@
 
 }
 
-.Frontend_Delight {
+.theme_Frontend_Delight {
   --black: #242526;
   --red: #F8511B;
   --green: #565747;
@@ -1728,7 +1728,7 @@
 
 }
 
-.Frontend_Fun Forrest {
+.theme_Frontend_Fun Forrest {
   --black: #000000;
   --red: #D6262B;
   --green: #919C00;
@@ -1752,7 +1752,7 @@
 
 }
 
-.Frontend_Galaxy {
+.theme_Frontend_Galaxy {
   --black: #000000;
   --red: #F9555F;
   --green: #21B089;
@@ -1776,7 +1776,7 @@
 
 }
 
-.Geohot {
+.theme_Geohot {
   --black: #F9F5F5;
   --red: #CC0000;
   --green: #1F1E1F;
@@ -1800,7 +1800,7 @@
 
 }
 
-.Github {
+.theme_Github {
   --black: #3E3E3E;
   --red: #970B16;
   --green: #07962A;
@@ -1824,7 +1824,7 @@
 
 }
 
-.Gogh {
+.theme_Gogh {
   --black: #292D3E;
   --red: #F07178;
   --green: #62DE84;
@@ -1848,7 +1848,7 @@
 
 }
 
-.Gooey {
+.theme_Gooey {
   --black: #000009;
   --red: #BB4F6C;
   --green: #72CCAE;
@@ -1872,7 +1872,7 @@
 
 }
 
-.Google_Dark {
+.theme_Google_Dark {
   --black: #202124;
   --red: #EA4335;
   --green: #34A853;
@@ -1896,7 +1896,7 @@
 
 }
 
-.Google_Light {
+.theme_Google_Light {
   --black: #202124;
   --red: #EA4335;
   --green: #34A853;
@@ -1920,7 +1920,7 @@
 
 }
 
-.Gotham {
+.theme_Gotham {
   --black: #0A0F14;
   --red: #C33027;
   --green: #26A98B;
@@ -1944,7 +1944,7 @@
 
 }
 
-.Grape {
+.theme_Grape {
   --black: #2D283F;
   --red: #ED2261;
   --green: #1FA91B;
@@ -1968,7 +1968,7 @@
 
 }
 
-.Grass {
+.theme_Grass {
   --black: #000000;
   --red: #BB0000;
   --green: #00BB00;
@@ -1992,7 +1992,7 @@
 
 }
 
-.Gruvbox {
+.theme_Gruvbox {
   --black: #FBF1C7;
   --red: #CC241D;
   --green: #98971A;
@@ -2016,7 +2016,7 @@
 
 }
 
-.Gruvbox_Dark {
+.theme_Gruvbox_Dark {
   --black: #282828;
   --red: #CC241D;
   --green: #98971A;
@@ -2040,7 +2040,7 @@
 
 }
 
-.Gruvbox_Material {
+.theme_Gruvbox_Material {
   --black: #3C3836;
   --red: #EA6962;
   --green: #A9B665;
@@ -2064,7 +2064,7 @@
 
 }
 
-.Hardcore {
+.theme_Hardcore {
   --black: #1B1D1E;
   --red: #F92672;
   --green: #A6E22E;
@@ -2088,7 +2088,7 @@
 
 }
 
-.Harper {
+.theme_Harper {
   --black: #010101;
   --red: #F8B63F;
   --green: #7FB5E1;
@@ -2112,7 +2112,7 @@
 
 }
 
-.Hemisu_Dark {
+.theme_Hemisu_Dark {
   --black: #444444;
   --red: #FF0054;
   --green: #B1D630;
@@ -2136,7 +2136,7 @@
 
 }
 
-.Hemisu_Light {
+.theme_Hemisu_Light {
   --black: #777777;
   --red: #FF0055;
   --green: #739100;
@@ -2160,7 +2160,7 @@
 
 }
 
-.Highway {
+.theme_Highway {
   --black: #000000;
   --red: #D00E18;
   --green: #138034;
@@ -2184,7 +2184,7 @@
 
 }
 
-.Hipster-__green {
+.theme_Hipster-__green {
   --black: #000000;
   --red: #B6214A;
   --green: #00A600;
@@ -2208,7 +2208,7 @@
 
 }
 
-.Homebrew {
+.theme_Homebrew {
   --black: #000000;
   --red: #990000;
   --green: #00A600;
@@ -2232,7 +2232,7 @@
 
 }
 
-.Homebrew_Light {
+.theme_Homebrew_Light {
   --black: #000000;
   --red: #990000;
   --green: #00A600;
@@ -2256,7 +2256,7 @@
 
 }
 
-.Homebrew_Ocean {
+.theme_Homebrew_Ocean {
   --black: #000000;
   --red: #990000;
   --green: #00A600;
@@ -2280,7 +2280,7 @@
 
 }
 
-.Horizon_Bright {
+.theme_Horizon_Bright {
   --black: #16161C;
   --red: #DA103F;
   --green: #1EB980;
@@ -2304,7 +2304,7 @@
 
 }
 
-.Horizon_Dark {
+.theme_Horizon_Dark {
   --black: #16161C;
   --red: #E95678;
   --green: #29D398;
@@ -2328,7 +2328,7 @@
 
 }
 
-.Hurtado {
+.theme_Hurtado {
   --black: #575757;
   --red: #FF1B00;
   --green: #A5E055;
@@ -2352,7 +2352,7 @@
 
 }
 
-.Hybrid {
+.theme_Hybrid {
   --black: #282A2E;
   --red: #A54242;
   --green: #8C9440;
@@ -2376,7 +2376,7 @@
 
 }
 
-.Ibm-3270_High_Contrast {
+.theme_Ibm-3270_High_Contrast {
   --black: #000000;
   --red: #FF0000;
   --green: #00FF00;
@@ -2400,7 +2400,7 @@
 
 }
 
-.Ibm3270 {
+.theme_Ibm3270 {
   --black: #222222;
   --red: #F01818;
   --green: #24D830;
@@ -2424,7 +2424,7 @@
 
 }
 
-.Ic-__green Ppl {
+.theme_Ic-__green Ppl {
   --black: #1F1F1F;
   --red: #FB002A;
   --green: #339C24;
@@ -2448,7 +2448,7 @@
 
 }
 
-.Ic_Orange Ppl {
+.theme_Ic_Orange Ppl {
   --black: #000000;
   --red: #C13900;
   --green: #A4A900;
@@ -2472,7 +2472,7 @@
 
 }
 
-.Idle_Toes {
+.theme_Idle_Toes {
   --black: #323232;
   --red: #D25252;
   --green: #7FE173;
@@ -2496,7 +2496,7 @@
 
 }
 
-.Ir-__black {
+.theme_Ir-__black {
   --black: #4E4E4E;
   --red: #FF6C60;
   --green: #A8FF60;
@@ -2520,7 +2520,7 @@
 
 }
 
-.Jackie_Brown {
+.theme_Jackie_Brown {
   --black: #2C1D16;
   --red: #EF5734;
   --green: #2BAF2B;
@@ -2544,7 +2544,7 @@
 
 }
 
-.Japanesque {
+.theme_Japanesque {
   --black: #343935;
   --red: #CF3F61;
   --green: #7BB75B;
@@ -2568,7 +2568,7 @@
 
 }
 
-.Jellybeans {
+.theme_Jellybeans {
   --black: #929292;
   --red: #E27373;
   --green: #94B979;
@@ -2592,7 +2592,7 @@
 
 }
 
-.Jup {
+.theme_Jup {
   --black: #000000;
   --red: #DD006F;
   --green: #6FDD00;
@@ -2616,7 +2616,7 @@
 
 }
 
-.Kanagawa {
+.theme_Kanagawa {
   --black: #090618;
   --red: #C34043;
   --green: #76946A;
@@ -2640,7 +2640,7 @@
 
 }
 
-.Kibble {
+.theme_Kibble {
   --black: #4D4D4D;
   --red: #C70031;
   --green: #29CF13;
@@ -2664,7 +2664,7 @@
 
 }
 
-.Kokuban {
+.theme_Kokuban {
   --black: #2E8744;
   --red: #D84E4C;
   --green: #95DA5A;
@@ -2688,7 +2688,7 @@
 
 }
 
-.Laserwave {
+.theme_Laserwave {
   --black: #39243A;
   --red: #EB64B9;
   --green: #AFD686;
@@ -2712,7 +2712,7 @@
 
 }
 
-.Later_This Evening {
+.theme_Later_This Evening {
   --black: #2B2B2B;
   --red: #D45A60;
   --green: #AFBA67;
@@ -2736,7 +2736,7 @@
 
 }
 
-.Lavandula {
+.theme_Lavandula {
   --black: #230046;
   --red: #7D1625;
   --green: #337E6F;
@@ -2760,7 +2760,7 @@
 
 }
 
-.Liquid_Carbon {
+.theme_Liquid_Carbon {
   --black: #000000;
   --red: #FF3030;
   --green: #559A70;
@@ -2784,7 +2784,7 @@
 
 }
 
-.Liquid_Carbon Transparent {
+.theme_Liquid_Carbon Transparent {
   --black: #000000;
   --red: #FF3030;
   --green: #559A70;
@@ -2808,7 +2808,7 @@
 
 }
 
-.Lunaria_Dark {
+.theme_Lunaria_Dark {
   --black: #36464E;
   --red: #846560;
   --green: #809984;
@@ -2832,7 +2832,7 @@
 
 }
 
-.Lunaria_Eclipse {
+.theme_Lunaria_Eclipse {
   --black: #323F46;
   --red: #83615B;
   --green: #7F9781;
@@ -2856,7 +2856,7 @@
 
 }
 
-.Lunaria_Light {
+.theme_Lunaria_Light {
   --black: #3E3C3D;
   --red: #783C1F;
   --green: #497D46;
@@ -2880,7 +2880,7 @@
 
 }
 
-.Maia {
+.theme_Maia {
   --black: #232423;
   --red: #BA2922;
   --green: #7E807E;
@@ -2904,7 +2904,7 @@
 
 }
 
-.Man_Page {
+.theme_Man_Page {
   --black: #000000;
   --red: #CC0000;
   --green: #00A600;
@@ -2928,7 +2928,7 @@
 
 }
 
-.Mar {
+.theme_Mar {
   --black: #000000;
   --red: #B5407B;
   --green: #7BB540;
@@ -2952,7 +2952,7 @@
 
 }
 
-.Material {
+.theme_Material {
   --black: #073641;
   --red: #EB606B;
   --green: #C3E88D;
@@ -2976,7 +2976,7 @@
 
 }
 
-.Mathias {
+.theme_Mathias {
   --black: #000000;
   --red: #E52222;
   --green: #A6E32D;
@@ -3000,7 +3000,7 @@
 
 }
 
-.Medallion {
+.theme_Medallion {
   --black: #000000;
   --red: #B64C00;
   --green: #7C8B16;
@@ -3024,7 +3024,7 @@
 
 }
 
-.Misterioso {
+.theme_Misterioso {
   --black: #000000;
   --red: #FF4242;
   --green: #74AF68;
@@ -3048,7 +3048,7 @@
 
 }
 
-.Molokai {
+.theme_Molokai {
   --black: #1B1D1E;
   --red: #7325FA;
   --green: #23E298;
@@ -3072,7 +3072,7 @@
 
 }
 
-.Mona_Lisa {
+.theme_Mona_Lisa {
   --black: #351B0E;
   --red: #9B291C;
   --green: #636232;
@@ -3096,7 +3096,7 @@
 
 }
 
-.Mono_Amber {
+.theme_Mono_Amber {
   --black: #402500;
   --red: #FF9400;
   --green: #FF9400;
@@ -3120,7 +3120,7 @@
 
 }
 
-.Mono_Cyan {
+.theme_Mono_Cyan {
   --black: #003340;
   --red: #00CCFF;
   --green: #00CCFF;
@@ -3144,7 +3144,7 @@
 
 }
 
-.Mono-__green {
+.theme_Mono-__green {
   --black: #034000;
   --red: #0BFF00;
   --green: #0BFF00;
@@ -3168,7 +3168,7 @@
 
 }
 
-.Mono-__red {
+.theme_Mono-__red {
   --black: #401200;
   --red: #FF3600;
   --green: #FF3600;
@@ -3192,7 +3192,7 @@
 
 }
 
-.Mono_White {
+.theme_Mono_White {
   --black: #3B3B3B;
   --red: #FAFAFA;
   --green: #FAFAFA;
@@ -3216,7 +3216,7 @@
 
 }
 
-.Mono-__Yellow {
+.theme_Mono-__Yellow {
   --black: #403500;
   --red: #FFD300;
   --green: #FFD300;
@@ -3240,7 +3240,7 @@
 
 }
 
-.Monokai_Dark {
+.theme_Monokai_Dark {
   --black: #75715E;
   --red: #F92672;
   --green: #A6E22E;
@@ -3264,7 +3264,7 @@
 
 }
 
-.Monokai_Pro {
+.theme_Monokai_Pro {
   --black: #363537;
   --red: #FF6188;
   --green: #A9DC76;
@@ -3288,7 +3288,7 @@
 
 }
 
-.Monokai_Pro Ristretto {
+.theme_Monokai_Pro Ristretto {
   --black: #3E3838;
   --red: #DF7484;
   --green: #BBD87E;
@@ -3312,7 +3312,7 @@
 
 }
 
-.Monokai_Soda {
+.theme_Monokai_Soda {
   --black: #1A1A1A;
   --red: #F4005F;
   --green: #98E024;
@@ -3336,7 +3336,7 @@
 
 }
 
-.Morada {
+.theme_Morada {
   --black: #040404;
   --red: #0F49C4;
   --green: #48B117;
@@ -3360,7 +3360,7 @@
 
 }
 
-.N0Tch2K {
+.theme_N0Tch2K {
   --black: #383838;
   --red: #A95551;
   --green: #666666;
@@ -3384,7 +3384,7 @@
 
 }
 
-.Neon_Night {
+.theme_Neon_Night {
   --black: #20242D;
   --red: #FF8E8E;
   --green: #7EFDD0;
@@ -3408,7 +3408,7 @@
 
 }
 
-.Neopolitan {
+.theme_Neopolitan {
   --black: #000000;
   --red: #800000;
   --green: #61CE3C;
@@ -3432,7 +3432,7 @@
 
 }
 
-.Nep {
+.theme_Nep {
   --black: #000000;
   --red: #DD6F00;
   --green: #00DD6F;
@@ -3456,7 +3456,7 @@
 
 }
 
-.Neutron {
+.theme_Neutron {
   --black: #23252B;
   --red: #B54036;
   --green: #5AB977;
@@ -3480,7 +3480,7 @@
 
 }
 
-.Night_Owl {
+.theme_Night_Owl {
   --black: #011627;
   --red: #EF5350;
   --green: #22DA6E;
@@ -3504,7 +3504,7 @@
 
 }
 
-.Nightlion_V1 {
+.theme_Nightlion_V1 {
   --black: #4C4C4C;
   --red: #BB0000;
   --green: #5FDE8F;
@@ -3528,7 +3528,7 @@
 
 }
 
-.Nightlion_V2 {
+.theme_Nightlion_V2 {
   --black: #4C4C4C;
   --red: #BB0000;
   --green: #04F623;
@@ -3552,7 +3552,7 @@
 
 }
 
-.Nighty {
+.theme_Nighty {
   --black: #373D48;
   --red: #9B3E46;
   --green: #095B32;
@@ -3576,7 +3576,7 @@
 
 }
 
-.Nord {
+.theme_Nord {
   --black: #3B4252;
   --red: #BF616A;
   --green: #A3BE8C;
@@ -3600,7 +3600,7 @@
 
 }
 
-.Nord_Light {
+.theme_Nord_Light {
   --black: #003B4E;
   --red: #E64569;
   --green: #069F5F;
@@ -3624,7 +3624,7 @@
 
 }
 
-.Novel {
+.theme_Novel {
   --black: #000000;
   --red: #CC0000;
   --green: #009600;
@@ -3648,7 +3648,7 @@
 
 }
 
-.Obsidian {
+.theme_Obsidian {
   --black: #000000;
   --red: #A60001;
   --green: #00BB00;
@@ -3672,7 +3672,7 @@
 
 }
 
-.Ocean_Dark {
+.theme_Ocean_Dark {
   --black: #4F4F4F;
   --red: #AF4B57;
   --green: #AFD383;
@@ -3696,7 +3696,7 @@
 
 }
 
-.Oceanic_Next {
+.theme_Oceanic_Next {
   --black: #121C21;
   --red: #E44754;
   --green: #89BD82;
@@ -3720,7 +3720,7 @@
 
 }
 
-.Ollie {
+.theme_Ollie {
   --black: #000000;
   --red: #AC2E31;
   --green: #31AC61;
@@ -3744,7 +3744,7 @@
 
 }
 
-.Omni {
+.theme_Omni {
   --black: #191622;
   --red: #E96379;
   --green: #67E480;
@@ -3768,7 +3768,7 @@
 
 }
 
-.One_Dark {
+.theme_One_Dark {
   --black: #000000;
   --red: #E06C75;
   --green: #98C379;
@@ -3792,7 +3792,7 @@
 
 }
 
-.One-Half __black {
+.theme_One-Half __black {
   --black: #282C34;
   --red: #E06C75;
   --green: #98C379;
@@ -3816,7 +3816,7 @@
 
 }
 
-.One_Light {
+.theme_One_Light {
   --black: #000000;
   --red: #DA3E39;
   --green: #41933E;
@@ -3840,7 +3840,7 @@
 
 }
 
-.Palenight {
+.theme_Palenight {
   --black: #292D3E;
   --red: #F07178;
   --green: #C3E88D;
@@ -3864,7 +3864,7 @@
 
 }
 
-.Pali {
+.theme_Pali {
   --black: #0A0A0A;
   --red: #AB8F74;
   --green: #74AB8F;
@@ -3888,7 +3888,7 @@
 
 }
 
-.Panda {
+.theme_Panda {
   --black: #1F1F20;
   --red: #FB055A;
   --green: #26FFD4;
@@ -3912,7 +3912,7 @@
 
 }
 
-.Papercolor_Dark {
+.theme_Papercolor_Dark {
   --black: #1C1C1C;
   --red: #AF005F;
   --green: #5FAF00;
@@ -3936,7 +3936,7 @@
 
 }
 
-.Papercolor_Light {
+.theme_Papercolor_Light {
   --black: #EEEEEE;
   --red: #AF0000;
   --green: #008700;
@@ -3960,7 +3960,7 @@
 
 }
 
-.Paraiso_Dark {
+.theme_Paraiso_Dark {
   --black: #2F1E2E;
   --red: #EF6155;
   --green: #48B685;
@@ -3984,7 +3984,7 @@
 
 }
 
-.Paul_Millr {
+.theme_Paul_Millr {
   --black: #2A2A2A;
   --red: #FF0000;
   --green: #79FF0F;
@@ -4008,7 +4008,7 @@
 
 }
 
-.Pencil_Dark {
+.theme_Pencil_Dark {
   --black: #212121;
   --red: #C30771;
   --green: #10A778;
@@ -4032,7 +4032,7 @@
 
 }
 
-.Pencil_Light {
+.theme_Pencil_Light {
   --black: #212121;
   --red: #C30771;
   --green: #10A778;
@@ -4056,7 +4056,7 @@
 
 }
 
-.Peppermint {
+.theme_Peppermint {
   --black: #353535;
   --red: #E64569;
   --green: #89D287;
@@ -4080,7 +4080,7 @@
 
 }
 
-.Pixiefloss {
+.theme_Pixiefloss {
   --black: #2F2942;
   --red: #FF857F;
   --green: #48B685;
@@ -4104,7 +4104,7 @@
 
 }
 
-.Pnevma {
+.theme_Pnevma {
   --black: #2F2E2D;
   --red: #A36666;
   --green: #90A57D;
@@ -4128,7 +4128,7 @@
 
 }
 
-.Powershell {
+.theme_Powershell {
   --black: #000000;
   --red: #7E0008;
   --green: #098003;
@@ -4152,7 +4152,7 @@
 
 }
 
-.P__redawn {
+.theme_P__redawn {
   --black: #F18260;
   --red: #B51A20;
   --green: #A6CC75;
@@ -4176,7 +4176,7 @@
 
 }
 
-.Pro {
+.theme_Pro {
   --black: #000000;
   --red: #990000;
   --green: #00A600;
@@ -4200,7 +4200,7 @@
 
 }
 
-.Purple_People Eater {
+.theme_Purple_People Eater {
   --black: #0D1117;
   --red: #E34C26;
   --green: #238636;
@@ -4224,7 +4224,7 @@
 
 }
 
-.-_red_Alert {
+.theme_-_red_Alert {
   --black: #000000;
   --red: #D62E4E;
   --green: #71BE6B;
@@ -4248,7 +4248,7 @@
 
 }
 
-.-_red_Sands {
+.theme_-_red_Sands {
   --black: #000000;
   --red: #FF3F00;
   --green: #00BB00;
@@ -4272,7 +4272,7 @@
 
 }
 
-.Relaxed {
+.theme_Relaxed {
   --black: #151515;
   --red: #BC5653;
   --green: #909D63;
@@ -4296,7 +4296,7 @@
 
 }
 
-.Rippedcasts {
+.theme_Rippedcasts {
   --black: #000000;
   --red: #CDAF95;
   --green: #A8FF60;
@@ -4320,7 +4320,7 @@
 
 }
 
-.Ros\u00e9_Pine {
+.theme_Ros\u00e9_Pine {
   --black: #26233A;
   --red: #EB6F92;
   --green: #9CCFD8;
@@ -4344,7 +4344,7 @@
 
 }
 
-.Ros\u00e9_Pine Dawn {
+.theme_Ros\u00e9_Pine Dawn {
   --black: #F2E9E1;
   --red: #B4637A;
   --green: #56949F;
@@ -4368,7 +4368,7 @@
 
 }
 
-.Ros\u00e9_Pine Moon {
+.theme_Ros\u00e9_Pine Moon {
   --black: #393552;
   --red: #EB6F92;
   --green: #9CCFD8;
@@ -4392,7 +4392,7 @@
 
 }
 
-.Royal {
+.theme_Royal {
   --black: #241F2B;
   --red: #91284C;
   --green: #23801C;
@@ -4416,7 +4416,7 @@
 
 }
 
-.Sat {
+.theme_Sat {
   --black: #000000;
   --red: #DD0007;
   --green: #07DD00;
@@ -4440,7 +4440,7 @@
 
 }
 
-.Sea_Shells {
+.theme_Sea_Shells {
   --black: #17384C;
   --red: #D15123;
   --green: #027C9B;
@@ -4464,7 +4464,7 @@
 
 }
 
-.Seafoam_Pastel {
+.theme_Seafoam_Pastel {
   --black: #757575;
   --red: #825D4D;
   --green: #728C62;
@@ -4488,7 +4488,7 @@
 
 }
 
-.Seti {
+.theme_Seti {
   --black: #323232;
   --red: #C22832;
   --green: #8EC43D;
@@ -4512,7 +4512,7 @@
 
 }
 
-.Shaman {
+.theme_Shaman {
   --black: #012026;
   --red: #B2302D;
   --green: #00A941;
@@ -4536,7 +4536,7 @@
 
 }
 
-.Shel {
+.theme_Shel {
   --black: #2C2423;
   --red: #AB2463;
   --green: #6CA323;
@@ -4560,7 +4560,7 @@
 
 }
 
-.Slate {
+.theme_Slate {
   --black: #222222;
   --red: #E2A8BF;
   --green: #81D778;
@@ -4584,7 +4584,7 @@
 
 }
 
-.Smyck {
+.theme_Smyck {
   --black: #000000;
   --red: #C75646;
   --green: #8EB33B;
@@ -4608,7 +4608,7 @@
 
 }
 
-.Snazzy {
+.theme_Snazzy {
   --black: #282A36;
   --red: #FF5C57;
   --green: #5AF78E;
@@ -4632,7 +4632,7 @@
 
 }
 
-.Soft_Server {
+.theme_Soft_Server {
   --black: #000000;
   --red: #A2686A;
   --green: #9AA56A;
@@ -4656,7 +4656,7 @@
 
 }
 
-.Solarized_Darcula {
+.theme_Solarized_Darcula {
   --black: #25292A;
   --red: #F24840;
   --green: #629655;
@@ -4680,7 +4680,7 @@
 
 }
 
-.Solarized_Dark {
+.theme_Solarized_Dark {
   --black: #073642;
   --red: #DC322F;
   --green: #859900;
@@ -4704,7 +4704,7 @@
 
 }
 
-.Solarized_Dark Higher Contrast {
+.theme_Solarized_Dark Higher Contrast {
   --black: #002831;
   --red: #D11C24;
   --green: #6CBE6C;
@@ -4728,7 +4728,7 @@
 
 }
 
-.Solarized_Light {
+.theme_Solarized_Light {
   --black: #073642;
   --red: #DC322F;
   --green: #859900;
@@ -4752,7 +4752,7 @@
 
 }
 
-.Sonokai {
+.theme_Sonokai {
   --black: #2C2E34;
   --red: #FC5D7C;
   --green: #9ED072;
@@ -4776,7 +4776,7 @@
 
 }
 
-.Spacedust {
+.theme_Spacedust {
   --black: #6E5346;
   --red: #E35B00;
   --green: #5CAB96;
@@ -4800,7 +4800,7 @@
 
 }
 
-.Spacegray {
+.theme_Spacegray {
   --black: #000000;
   --red: #B04B57;
   --green: #87B379;
@@ -4824,7 +4824,7 @@
 
 }
 
-.Spacegray_Eighties {
+.theme_Spacegray_Eighties {
   --black: #15171C;
   --red: #EC5F67;
   --green: #81A764;
@@ -4848,7 +4848,7 @@
 
 }
 
-.Spacegray_Eighties Dull {
+.theme_Spacegray_Eighties Dull {
   --black: #15171C;
   --red: #B24A56;
   --green: #92B477;
@@ -4872,7 +4872,7 @@
 
 }
 
-.Spring {
+.theme_Spring {
   --black: #000000;
   --red: #FF4D83;
   --green: #1F8C3B;
@@ -4896,7 +4896,7 @@
 
 }
 
-.Square {
+.theme_Square {
   --black: #050505;
   --red: #E9897C;
   --green: #B6377D;
@@ -4920,7 +4920,7 @@
 
 }
 
-.Srcery {
+.theme_Srcery {
   --black: #1C1B19;
   --red: #EF2F27;
   --green: #519F50;
@@ -4944,7 +4944,7 @@
 
 }
 
-.Summer_Pop {
+.theme_Summer_Pop {
   --black: #666666;
   --red: #FF1E8E;
   --green: #8EFF1E;
@@ -4968,7 +4968,7 @@
 
 }
 
-.Sundried {
+.theme_Sundried {
   --black: #302B2A;
   --red: #A7463D;
   --green: #587744;
@@ -4992,7 +4992,7 @@
 
 }
 
-.Sweet_Eliverlara {
+.theme_Sweet_Eliverlara {
   --black: #282C34;
   --red: #ED254E;
   --green: #71F79F;
@@ -5016,7 +5016,7 @@
 
 }
 
-.Sweet_Terminal {
+.theme_Sweet_Terminal {
   --black: #3F3F54;
   --red: #F60055;
   --green: #06C993;
@@ -5040,7 +5040,7 @@
 
 }
 
-.Symphonic {
+.theme_Symphonic {
   --black: #000000;
   --red: #DC322F;
   --green: #56DB3A;
@@ -5064,7 +5064,7 @@
 
 }
 
-.Synthwave {
+.theme_Synthwave {
   --black: #011627;
   --red: #FE4450;
   --green: #72F1B8;
@@ -5088,7 +5088,7 @@
 
 }
 
-.Synthwave_Alpha {
+.theme_Synthwave_Alpha {
   --black: #241B30;
   --red: #9A0048;
   --green: #00986C;
@@ -5112,7 +5112,7 @@
 
 }
 
-.Teerb {
+.theme_Teerb {
   --black: #1C1C1C;
   --red: #D68686;
   --green: #AED686;
@@ -5136,7 +5136,7 @@
 
 }
 
-.Tender {
+.theme_Tender {
   --black: #1D1D1D;
   --red: #C5152F;
   --green: #C9D05C;
@@ -5160,7 +5160,7 @@
 
 }
 
-.Terminix_Dark {
+.theme_Terminix_Dark {
   --black: #282A2E;
   --red: #A54242;
   --green: #A1B56C;
@@ -5184,7 +5184,7 @@
 
 }
 
-.Thayer_Bright {
+.theme_Thayer_Bright {
   --black: #1B1D1E;
   --red: #F92672;
   --green: #4DF840;
@@ -5208,7 +5208,7 @@
 
 }
 
-.Tin {
+.theme_Tin {
   --black: #000000;
   --red: #8D534E;
   --green: #4E8D53;
@@ -5232,7 +5232,7 @@
 
 }
 
-.Tokyo_Night {
+.theme_Tokyo_Night {
   --black: #414868;
   --red: #F7768E;
   --green: #9ECE6A;
@@ -5256,7 +5256,7 @@
 
 }
 
-.Tokyo_Night_Light {
+.theme_Tokyo_Night_Light {
   --black: #0F0F14;
   --red: #8C4351;
   --green: #485E30;
@@ -5280,7 +5280,7 @@
 
 }
 
-.Tokyo_Night_Storm {
+.theme_Tokyo_Night_Storm {
   --black: #414868;
   --red: #F7768E;
   --green: #9ECE6A;
@@ -5304,7 +5304,7 @@
 
 }
 
-.Tomorrow {
+.theme_Tomorrow {
   --black: #000000;
   --red: #C82828;
   --green: #718C00;
@@ -5328,7 +5328,7 @@
 
 }
 
-.Tomorrow_Night {
+.theme_Tomorrow_Night {
   --black: #000000;
   --red: #CC6666;
   --green: #B5BD68;
@@ -5352,7 +5352,7 @@
 
 }
 
-.Tomorrow_Night_Blue {
+.theme_Tomorrow_Night_Blue {
   --black: #000000;
   --red: #FF9DA3;
   --green: #D1F1A9;
@@ -5376,7 +5376,7 @@
 
 }
 
-.Tomorrow_Night_Bright {
+.theme_Tomorrow_Night_Bright {
   --black: #000000;
   --red: #D54E53;
   --green: #B9CA49;
@@ -5400,7 +5400,7 @@
 
 }
 
-.Tomorrow_Night_Eighties {
+.theme_Tomorrow_Night_Eighties {
   --black: #000000;
   --red: #F27779;
   --green: #99CC99;
@@ -5424,7 +5424,7 @@
 
 }
 
-.Toy_Chest {
+.theme_Toy_Chest {
   --black: #2C3F58;
   --red: #BE2D26;
   --green: #1A9172;
@@ -5448,7 +5448,7 @@
 
 }
 
-.Treehouse {
+.theme_Treehouse {
   --black: #321300;
   --red: #B2270E;
   --green: #44A900;
@@ -5472,7 +5472,7 @@
 
 }
 
-.Twilight {
+.theme_Twilight {
   --black: #141414;
   --red: #C06D44;
   --green: #AFB97A;
@@ -5496,7 +5496,7 @@
 
 }
 
-.Ura {
+.theme_Ura {
   --black: #000000;
   --red: #C21B6F;
   --green: #6FC21B;
@@ -5520,7 +5520,7 @@
 
 }
 
-.Urple {
+.theme_Urple {
   --black: #000000;
   --red: #B0425B;
   --green: #37A415;
@@ -5544,7 +5544,7 @@
 
 }
 
-.Vag {
+.theme_Vag {
   --black: #303030;
   --red: #A87139;
   --green: #39A871;
@@ -5568,7 +5568,7 @@
 
 }
 
-.Vaughn {
+.theme_Vaughn {
   --black: #25234F;
   --red: #705050;
   --green: #60B48A;
@@ -5592,7 +5592,7 @@
 
 }
 
-.Vibrant_Ink {
+.theme_Vibrant_Ink {
   --black: #878787;
   --red: #FF6600;
   --green: #CCFF04;
@@ -5616,7 +5616,7 @@
 
 }
 
-.Vs-Code_Dark_Plus {
+.theme_Vs-Code_Dark_Plus {
   --black: #6A787A;
   --red: #E9653B;
   --green: #39E9A8;
@@ -5640,7 +5640,7 @@
 
 }
 
-.Vs-Code_Light_Plus {
+.theme_Vs-Code_Light_Plus {
   --black: #020202;
   --red: #CD3232;
   --green: #00BC00;
@@ -5664,7 +5664,7 @@
 
 }
 
-.Warm_Neon {
+.theme_Warm_Neon {
   --black: #000000;
   --red: #E24346;
   --green: #39B13A;
@@ -5688,7 +5688,7 @@
 
 }
 
-.Wez {
+.theme_Wez {
   --black: #000000;
   --red: #CC5555;
   --green: #55CC55;
@@ -5712,7 +5712,7 @@
 
 }
 
-.Wild_Cherry {
+.theme_Wild_Cherry {
   --black: #000507;
   --red: #D94085;
   --green: #2AB250;
@@ -5736,7 +5736,7 @@
 
 }
 
-.Wombat {
+.theme_Wombat {
   --black: #000000;
   --red: #FF615A;
   --green: #B1E969;
@@ -5760,7 +5760,7 @@
 
 }
 
-.Wryan {
+.theme_Wryan {
   --black: #333333;
   --red: #8C4665;
   --green: #287373;
@@ -5784,7 +5784,7 @@
 
 }
 
-.Wzoreck {
+.theme_Wzoreck {
   --black: #2E3436;
   --red: #FC6386;
   --green: #424043;
@@ -5808,7 +5808,7 @@
 
 }
 
-.Zenburn {
+.theme_Zenburn {
   --black: #4D4D4D;
   --red: #705050;
   --green: #60B48A;
